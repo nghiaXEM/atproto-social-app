@@ -22,7 +22,7 @@ import * as TextField from '#/components/forms/TextField'
 import {InlineLinkText} from '#/components/Link'
 import {Loader} from '#/components/Loader'
 import {P, Text} from '#/components/Typography'
-import {ENV_TERM} from '#/env'
+import {ENV_APP_SOCIAL_URL} from '#/env'
 
 const COL_WIDTH = 400
 
@@ -216,7 +216,7 @@ export function Takendown() {
                   Your account was found to be in violation of the{' '}
                   <InlineLinkText
                     label={_(msg`Bluesky Social Terms of Service`)}
-                    to={ENV_TERM ?? 'https://bsky.social/about/support/tos'}
+                    to={`${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}
                     style={[a.text_md, a.leading_normal]}
                     overridePresentation>
                     Bluesky Social Terms of Service

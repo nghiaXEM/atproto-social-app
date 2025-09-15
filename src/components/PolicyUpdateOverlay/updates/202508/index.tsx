@@ -13,11 +13,8 @@ import {Overlay} from '#/components/PolicyUpdateOverlay/Overlay'
 import {type PolicyUpdateState} from '#/components/PolicyUpdateOverlay/usePolicyUpdateState'
 import {Text} from '#/components/Typography'
 import {
+  ENV_APP_SOCIAL_URL,
   ENV_BLOG,
-  ENV_COPY_RIGHT,
-  ENV_GUIDE_LINES,
-  ENV_PRIVACY_POLICY,
-  ENV_TERM,
 } from '#/env'
 
 export function Content({state}: {state: PolicyUpdateState}) {
@@ -33,26 +30,24 @@ export function Content({state}: {state: PolicyUpdateState}) {
   const links = {
     terms: {
       overridePresentation: false,
-      to: ENV_TERM ?? `https://bsky.social/about/support/tos`,
+      to: `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`,
       label: _(msg`Terms of Service`),
     },
     privacy: {
       overridePresentation: false,
       to:
-        ENV_PRIVACY_POLICY ??
-        `https://bsky.social/about/support/privacy-policy`,
+        `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`,
       label: _(msg`Privacy Policy`),
     },
     copyright: {
       overridePresentation: false,
-      to: ENV_COPY_RIGHT ?? `https://bsky.social/about/support/copyright`,
+      to:  `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/copyright`,
       label: _(msg`Copyright Policy`),
     },
     guidelines: {
       overridePresentation: false,
       to:
-        ENV_GUIDE_LINES ??
-        `https://bsky.social/about/support/community-guidelines`,
+         `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/community-guidelines`,
       label: _(msg`Community Guidelines`),
     },
     blog: {

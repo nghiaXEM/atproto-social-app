@@ -6,6 +6,7 @@ import {
   BLUESKY_PROXY_DID,
   CHAT_PROXY_DID,
   ENV_APP_ACCOUNT_DID,
+  ENV_APP_SOCIAL_URL,
   ENV_BSKY_DOWNLOAD_URL,
   ENV_BSKY_SERVICE,
   ENV_BSKY_SERVICE_DID,
@@ -219,7 +220,7 @@ export const EMOJI_REACTION_LIMIT = 5
 export const urls = {
   website: {
     blog: {
-      initialVerificationAnnouncement: `https://bsky.social/about/blog/04-21-2025-verification`,
+      initialVerificationAnnouncement:  `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/blog`,
     },
   },
 }
@@ -250,11 +251,11 @@ export const BLUESKY_MOD_SERVICE_HEADERS = {
 }
 
 export const webLinks = {
-  tos: ENV_TERM ?? `https://bsky.social/about/support/tos`,
+  tos: `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`,
   privacy:
-    ENV_PRIVACY_POLICY ?? `https://bsky.social/about/support/privacy-policy`,
-  community: `https://bsky.social/about/support/community-guidelines`,
-  communityDeprecated: `https://bsky.social/about/support/community-guidelines-deprecated`,
+    `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`,
+  community: `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/community-guidelines`,
+  communityDeprecated: `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/community-guidelines-deprecated`,
 }
 
 console.log('webLinks: ', webLinks)

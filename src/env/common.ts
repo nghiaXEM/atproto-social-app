@@ -110,6 +110,9 @@ export const BAPP_CONFIG_DEV_BYPASS_SECRET: string =
 export const ENV_APP_NAME: string = process.env.ENV_APP_NAME
 export const ENV_APP_ACCOUNT_DID: string = process.env.ENV_APP_ACCOUNT_DID
 
+//Thay thế cho https://bsky.social
+export const ENV_APP_SOCIAL_URL: string = process.env.ENV_APP_SOCIAL_URL
+
 export const ENV_BSKY_DOWNLOAD_URL: string = process.env.ENV_BSKY_DOWNLOAD_URL
 export const ENV_BSKY_SERVICE: string = process.env.ENV_BSKY_SERVICE
 export const ENV_BSKY_SERVICE_DID: string = process.env.ENV_BSKY_SERVICE_DID

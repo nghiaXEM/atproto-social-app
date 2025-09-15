@@ -21,7 +21,7 @@ import {DateField} from '#/components/forms/DateField'
 import {InlineLinkText} from '#/components/Link'
 import {Loader} from '#/components/Loader'
 import {Text} from '#/components/Typography'
-import {ENV_TERM} from '#/env'
+import {ENV_APP_SOCIAL_URL} from '#/env'
 
 export function BirthDateSettingsDialog({
   control,
@@ -132,7 +132,7 @@ function BirthdayInner({
           <Trans>
             You must be at least 13 years old to use Bluesky. Read our{' '}
             <InlineLinkText
-              to={ENV_TERM ?? 'https://bsky.social/about/support/tos'}
+              to={`${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}
               label={_(msg`Terms of Service`)}>
               Terms of Service
             </InlineLinkText>{' '}

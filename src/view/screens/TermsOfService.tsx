@@ -15,7 +15,7 @@ import {TextLink} from '#/view/com/util/Link'
 import {Text} from '#/view/com/util/text/Text'
 import {ScrollView} from '#/view/com/util/Views'
 import * as Layout from '#/components/Layout'
-import {ENV_TERM} from '#/env'
+import {ENV_APP_SOCIAL_URL,ENV_TERM} from '#/env'
 import {ViewHeader} from '../com/util/ViewHeader'
 
 type Props = NativeStackScreenProps<CommonNavigatorParams, 'TermsOfService'>
@@ -39,7 +39,7 @@ export const TermsOfServiceScreen = (_props: Props) => {
             <Trans>The Terms of Service have been moved to</Trans>{' '}
             <TextLink
               style={pal.link}
-              href={ENV_TERM ?? 'https://bsky.social/about/support/tos'}
+              href={ENV_TERM ?? `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}
               text="bsky.social/about/support/tos"
             />
           </Text>

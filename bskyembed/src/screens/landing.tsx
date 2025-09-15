@@ -4,6 +4,7 @@ import {AppBskyFeedDefs, AppBskyFeedPost, AtpAgent, AtUri} from '@atproto/api'
 import {h, render} from 'preact'
 import {useEffect, useMemo, useRef, useState} from 'preact/hooks'
 
+import {ENV_APP_SOCIAL_URL} from '../../../src/env/common'
 import arrowBottom from '../../assets/arrowBottom_stroke2_corner0_rounded.svg'
 import logo from '../../assets/logo.svg'
 import {
@@ -120,7 +121,7 @@ function LandingPage() {
   return (
     <main className="w-full min-h-screen flex flex-col items-center gap-8 py-14 px-4 md:pt-32 dark:bg-dimmedBgDarken dark:text-slate-200">
       <Link
-        href="https://bsky.social/about"
+        href={`${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about`}
         className="transition-transform hover:scale-110">
         <img src={logo} className="h-10" />
       </Link>

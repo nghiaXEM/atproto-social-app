@@ -42,6 +42,7 @@ import {InlineLinkText} from '#/components/Link'
 import {Loader} from '#/components/Loader'
 import {Text} from '#/components/Typography'
 import {useSimpleVerificationState} from '#/components/verification'
+import {ENV_APP_SOCIAL_URL} from '#/env'
 import {CopyButton} from './CopyButton'
 
 export function ChangeHandleDialog({
@@ -279,7 +280,7 @@ function ProvidedHandlePage({
                     context: `english-only-resource`,
                   }),
                 )}
-                to="https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial"
+                to={`${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/blog`}
                 style={[a.font_bold]}
                 disableMismatchWarning>
                 Learn more here.

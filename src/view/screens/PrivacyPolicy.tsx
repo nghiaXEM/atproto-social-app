@@ -15,7 +15,7 @@ import {TextLink} from '#/view/com/util/Link'
 import {Text} from '#/view/com/util/text/Text'
 import {ScrollView} from '#/view/com/util/Views'
 import * as Layout from '#/components/Layout'
-import {ENV_PRIVACY_POLICY} from '#/env'
+import {ENV_APP_SOCIAL_URL,ENV_PRIVACY_POLICY} from '#/env'
 import {ViewHeader} from '../com/util/ViewHeader'
 
 type Props = NativeStackScreenProps<CommonNavigatorParams, 'PrivacyPolicy'>
@@ -42,7 +42,7 @@ export const PrivacyPolicyScreen = (_props: Props) => {
                 style={pal.link}
                 href={
                   ENV_PRIVACY_POLICY ??
-                  'https://bsky.social/about/support/privacy-policy'
+                  `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`
                 }
                 text="bsky.social/about/support/privacy-policy"
               />

@@ -4,6 +4,7 @@ import {atoms as a, useTheme} from '#/alf'
 import {ButtonText} from '#/components/Button'
 import {InlineLinkText, Link} from '#/components/Link'
 import {H1, Text} from '#/components/Typography'
+import {ENV_APP_SOCIAL_URL} from '#/env'
 
 export function Links() {
   const t = useTheme()
@@ -20,7 +21,7 @@ export function Links() {
         </InlineLinkText>
         <InlineLinkText
           label="foo"
-          to="https://bsky.social"
+          to={ENV_APP_SOCIAL_URL ?? "https://bsky.social"}
           style={[a.text_md, t.atoms.text_contrast_low]}>
           Internal (bsky.social)
         </InlineLinkText>

@@ -23,7 +23,7 @@ import {CENTER_COLUMN_OFFSET} from '#/components/Layout'
 import {InlineLinkText} from '#/components/Link'
 import {ProgressGuideList} from '#/components/ProgressGuide/List'
 import {Text} from '#/components/Typography'
-import {ENV_PRIVACY_POLICY, ENV_TERM} from '#/env'
+import {ENV_APP_SOCIAL_URL,ENV_PRIVACY_POLICY, ENV_TERM} from '#/env'
 
 function useWebQueryParams() {
   const navigation = useNavigation()
@@ -113,14 +113,14 @@ export function DesktopRightNav({routeName}: {routeName: string}) {
         <InlineLinkText
           to={
             ENV_PRIVACY_POLICY ??
-            'https://bsky.social/about/support/privacy-policy'
+            `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`
           }
           label={_(msg`Privacy`)}>
           {_(msg`Privacy`)}
         </InlineLinkText>
         {' • '}
         <InlineLinkText
-          to={ENV_TERM ?? 'https://bsky.social/about/support/tos'}
+          to={ENV_TERM ?? `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}
           label={_(msg`Terms`)}>
           {_(msg`Terms`)}
         </InlineLinkText>

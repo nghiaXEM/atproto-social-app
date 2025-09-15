@@ -17,7 +17,7 @@ import * as ToggleButton from '#/components/forms/ToggleButton'
 import {Globe_Stroke2_Corner0_Rounded as Globe} from '#/components/icons/Globe'
 import {InlineLinkText} from '#/components/Link'
 import {P, Text} from '#/components/Typography'
-import {ENV_LEAERN_MORE_URL} from '#/env'
+import {ENV_LEARN_MORE_URL} from '#/env'
 
 export function ServerInputDialog({
   control,
@@ -218,7 +218,7 @@ function DialogInner({
             <InlineLinkText
               label={_(msg`Learn more about self hosting your PDS.`)}
               to={
-                ENV_LEAERN_MORE_URL ?? 'https://atproto.com/guides/self-hosting'
+                ENV_LEARN_MORE_URL ?? 'https://atproto.com/guides/self-hosting'
               }>
               <Trans>Learn more.</Trans>
             </InlineLinkText>

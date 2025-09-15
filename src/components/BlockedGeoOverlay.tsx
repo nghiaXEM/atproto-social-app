@@ -19,6 +19,7 @@ import {Outlet as PortalOutlet} from '#/components/Portal'
 import * as Toast from '#/components/Toast'
 import {Text} from '#/components/Typography'
 import {BottomSheetOutlet} from '#/../modules/bottom-sheet'
+import { ENV_APP_SOCIAL_URL } from '#/env'
 
 export function BlockedGeoOverlay() {
   const t = useTheme()
@@ -36,7 +37,7 @@ export function BlockedGeoOverlay() {
   const textStyles = [a.text_md, a.leading_normal]
   const links = {
     blog: {
-      to: `https://bsky.social/about/blog/08-22-2025-mississippi-hb1126`,
+      to: `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about`,
       label: _(msg`Read our blog post`),
       overridePresentation: false,
       disableMismatchWarning: true,

@@ -80,7 +80,7 @@ export function AboutSettingsScreen({}: Props) {
       <Layout.Content>
         <SettingsList.Container>
           <SettingsList.LinkItem
-            to={env?.ENV_TERM ?? 'https://bsky.social/about/support/tos'}
+            to={`${env.ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}
             label={_(msg`Terms of Service`)}>
             <SettingsList.ItemIcon icon={NewspaperIcon} />
             <SettingsList.ItemText>
@@ -89,8 +89,7 @@ export function AboutSettingsScreen({}: Props) {
           </SettingsList.LinkItem>
           <SettingsList.LinkItem
             to={
-              env.ENV_PRIVACY_POLICY ??
-              'https://bsky.social/about/support/privacy-policy'
+              `${env.ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`
             }
             label={_(msg`Privacy Policy`)}>
             <SettingsList.ItemIcon icon={NewspaperIcon} />

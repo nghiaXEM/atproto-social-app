@@ -16,7 +16,7 @@ export function Logotype({
   return (
     // eslint-disable-next-line react-native-a11y/has-valid-accessibility-ignores-invert-colors
     <Image
-      source={require('../../../assets/logo.svg')}
+      source={require('../../../assets/logo-text.svg')}
       style={[{ width:size, height:Number(size) * ratio, resizeMode: 'contain' }]}
     />
   )

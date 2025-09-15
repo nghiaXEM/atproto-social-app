@@ -55,7 +55,7 @@ import {InlineLinkText} from '#/components/Link'
 import {Text} from '#/components/Typography'
 import {useSimpleVerificationState} from '#/components/verification'
 import {VerificationCheck} from '#/components/verification/VerificationCheck'
-import {ENV_PRIVACY_POLICY, ENV_TERM} from '#/env'
+import {ENV_APP_SOCIAL_URL,ENV_PRIVACY_POLICY, ENV_TERM} from '#/env'
 
 const iconWidth = 26
 
@@ -696,14 +696,14 @@ function ExtraLinks() {
       <InlineLinkText
         style={[a.text_md]}
         label={_(msg`Terms of Service`)}
-        to={ENV_TERM ?? 'https://bsky.social/about/support/tos'}>
+        to={ENV_TERM ?? `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/tos`}>
         <Trans>Terms of Service</Trans>
       </InlineLinkText>
       <InlineLinkText
         style={[a.text_md]}
         to={
           ENV_PRIVACY_POLICY ??
-          'https://bsky.social/about/support/privacy-policy'
+          `${ENV_APP_SOCIAL_URL ?? 'https://bsky.social'}/about/support/privacy-policy`
         }
         label={_(msg`Privacy Policy`)}>
         <Trans>Privacy Policy</Trans>
