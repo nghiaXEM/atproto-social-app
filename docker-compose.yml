@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  bskyweb:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bskyweb
+    restart: unless-stopped
+    ports:
+      - "8080:8080" # hoặc port app bạn expose
+    volumes:
+      # Mount folder assets để tùy chỉnh logo
+      - ./assets:/bskyweb/static/assets:ro
+    environment:
+      # Nếu muốn override config
+      EXPO_PUBLIC_ENV: production
+      EXPO_PUBLIC_RELEASE_VERSION: "1.0.0"
+      EXPO_PUBLIC_BUNDLE_IDENTIFIER: "custom-build"
