@@ -101,4 +101,28 @@ find . -type f -name "*.html" | while read -r file; do
   [[ $changes -eq 1 ]] && echo "✅ Updated: $file" || echo "ℹ️ No match in: $file"
 done
 
+
+
+LOGO_SOURCE_FILE="assets/logo.png"              # file nguồn
+LOGO_TARGET_DIRS=("bskyweb/templates" "web")  # danh sách thư mục đích
+# ======================
+# Check file tồn tại
+# ======================
+if [ ! -f "$LOGO_SOURCE_FILE" ]; then
+  echo "❌ Không tìm thấy file: $LOGO_SOURCE_FILE"
+  exit 1
+fi
+
+# ======================
+# Thực hiện copy
+# ======================
+for dir in "${LOGO_TARGET_DIRS[@]}"; do
+  # Tạo folder nếu chưa có
+  mkdir -p "$dir"
+  
+  # Copy file
+  cp "$LOGO_SOURCE_FILE" "$dir/"
+  echo "✅ Đã copy $LOGO_SOURCE_FILE vào $dir/"
+done
+
 echo "🎉 Done!"
