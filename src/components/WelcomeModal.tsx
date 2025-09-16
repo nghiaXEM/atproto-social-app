@@ -12,6 +12,7 @@ import {atoms as a, flatten, useBreakpoints, web} from '#/alf'
 import {Button, ButtonText} from '#/components/Button'
 import {TimesLarge_Stroke2_Corner0_Rounded as XIcon} from '#/components/icons/Times'
 import {Text} from '#/components/Typography'
+import {ENV_APP_NAME} from '#/env'
 
 const welcomeModalBg = require('../../assets/images/welcome-modal-bg.jpg')
 
@@ -112,7 +113,7 @@ export function WelcomeModal({control}: WelcomeModalProps) {
                       a.user_select_none,
                       {color: '#354358', letterSpacing: -0.5},
                     ]}>
-                    Bluesky
+                    {ENV_APP_NAME ?? 'Bluesky'}
                   </Text>
                 </View>
               </View>
