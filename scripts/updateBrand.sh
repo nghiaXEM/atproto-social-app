@@ -76,7 +76,7 @@ echo "✅ Hoàn thành copy!"
 # ======================
 find "$LOCALED_DIR" -type f -name "messages.po" | while read -r file; do
   echo "🔍 Processing: $file"
-  sed -i "s/^\(msgstr[^\"]*\".*\)Bluesky\(.*\"\)/\1$REPLACEMENT\2/g" "$file"
+  sed -i '/^msgstr/ s/Bluesky/'"$REPLACEMENT"'/g' "$file"
   echo "✅ Updated: $file"
 done
 
