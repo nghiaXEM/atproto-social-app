@@ -77,7 +77,10 @@ export function Signup({onPressBack}: {onPressBack: () => void}) {
         ),
       })
     } else if (serviceInfo) {
-      dispatch({type: 'setServiceDescription', value: serviceInfo})
+      dispatch({
+        type: 'setServiceDescription',
+        value: {...serviceInfo, phoneVerificationRequired: false},
+      })
       dispatch({type: 'setError', value: ''})
     }
   }, [_, serviceInfo, isError])
