@@ -925,7 +925,7 @@ msgstr ""
 msgid "Already have a code?"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:189
+#: src/components/WelcomeModal.tsx:190
 msgid "Already have an account?"
 msgstr ""
 
@@ -2002,7 +2002,7 @@ msgstr ""
 msgid "Close this dialog"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:214
+#: src/components/WelcomeModal.tsx:215
 msgid "Close welcome modal"
 msgstr ""
 
@@ -2438,8 +2438,8 @@ msgstr ""
 
 #: src/components/LoggedOutCTA.tsx:71
 #: src/components/LoggedOutCTA.tsx:76
-#: src/components/WelcomeModal.tsx:155
-#: src/components/WelcomeModal.tsx:163
+#: src/components/WelcomeModal.tsx:156
+#: src/components/WelcomeModal.tsx:164
 #: src/view/com/auth/SplashScreen.tsx:55
 #: src/view/com/auth/SplashScreen.web.tsx:118
 #: src/view/shell/bottom-bar/BottomBar.tsx:345
@@ -3383,8 +3383,8 @@ msgstr ""
 msgid "Explore"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:168
-#: src/components/WelcomeModal.tsx:177
+#: src/components/WelcomeModal.tsx:169
+#: src/components/WelcomeModal.tsx:178
 msgid "Explore the app"
 msgstr ""
 
@@ -6833,11 +6833,11 @@ msgstr "Read the Bluesky Privacy Policy"
 msgid "Read the Bluesky Terms of Service"
 msgstr "Read the Bluesky Terms of Service"
 
-#: src/components/WelcomeModal.tsx:146
+#: src/components/WelcomeModal.tsx:147
 msgid "Real conversations."
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:144
+#: src/components/WelcomeModal.tsx:145
 msgid "Real people."
 msgstr ""
 
@@ -8143,8 +8143,8 @@ msgstr ""
 
 #: src/components/dialogs/Signin.tsx:97
 #: src/components/dialogs/Signin.tsx:99
-#: src/components/WelcomeModal.tsx:194
-#: src/components/WelcomeModal.tsx:206
+#: src/components/WelcomeModal.tsx:195
+#: src/components/WelcomeModal.tsx:207
 #: src/screens/Login/index.tsx:122
 #: src/screens/Login/index.tsx:143
 #: src/screens/Login/LoginForm.tsx:181
@@ -8253,7 +8253,7 @@ msgstr ""
 msgid "Snoozes the reminder"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:148
+#: src/components/WelcomeModal.tsx:149
 msgid "Social media you control."
 msgstr ""
 
