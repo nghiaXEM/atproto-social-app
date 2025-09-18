@@ -81,7 +81,7 @@ msgstr "{0, plural, one {# 秒} other {# 秒}}"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:225
 #: src/view/shell/bottom-bar/BottomBar.tsx:257
-#: src/view/shell/Drawer.tsx:498
+#: src/view/shell/Drawer.tsx:499
 msgid "{0, plural, one {# unread item} other {# unread items}}"
 msgstr "{0, plural, one {# 則未讀} other {# 則未讀}}"
 
@@ -473,11 +473,11 @@ msgctxt "feeds"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
 msgstr "<0>{0}、</0><1>{1}</1> 和{2, plural, one {其他 # } other {其他 # }}人已包含在您的新手包中"
 
-#: src/view/shell/Drawer.tsx:117
+#: src/view/shell/Drawer.tsx:118
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
 msgstr "<0>{0}</0> {1, plural, one {個跟隨者} other {個跟隨者}}"
 
-#: src/view/shell/Drawer.tsx:128
+#: src/view/shell/Drawer.tsx:129
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
 msgstr "<0>{0}</0> {1, plural, one {個跟隨中} other {個跟隨中}}"
 
@@ -539,7 +539,7 @@ msgstr "一則訊息"
 msgid "A new form of verification"
 msgstr "全新的驗證機制"
 
-#: src/components/BlockedGeoOverlay.tsx:50
+#: src/components/BlockedGeoOverlay.tsx:51
 msgid "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
 msgstr "一項密西西比州的新法律要求所有用戶必須在驗證年齡後才能存取 Bluesky。我們認為這項法律帶來的挑戰已遠遠超出保護兒童安全的範疇，並對言論自由帶來了重重限制及障礙，也同時對小型平台和新興技術造成了不平等的傷害。"
 
@@ -778,7 +778,7 @@ msgstr "新增一些動態源到您的新手包中吧！"
 msgid "Add the default feed of only people you follow"
 msgstr "新增預設的動態源 (只顯示您跟隨的人)"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:416
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:417
 msgid "Add the following DNS record to your domain:"
 msgstr "將以下 DNS 記錄新增到您的網域："
 
@@ -908,7 +908,7 @@ msgid "Allow new messages from"
 msgstr "允許這些人向您發起對話："
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:52
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:92
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:93
 msgid "Allow others to be notified of your posts"
 msgstr "允許其他人在您發布貼文時收到通知"
 
@@ -930,7 +930,7 @@ msgstr "允許存取私人訊息"
 msgid "Already have a code?"
 msgstr "已經有重設碼了？"
 
-#: src/components/WelcomeModal.tsx:189
+#: src/components/WelcomeModal.tsx:190
 msgid "Already have an account?"
 msgstr "已經有帳號了？"
 
@@ -1074,7 +1074,7 @@ msgstr "動物"
 msgid "Animated GIF"
 msgstr "GIF 動畫"
 
-#: src/components/BlockedGeoOverlay.tsx:104
+#: src/components/BlockedGeoOverlay.tsx:105
 #: src/components/PolicyUpdateOverlay/Badge.tsx:33
 msgid "Announcement"
 msgstr "公告"
@@ -1094,7 +1094,7 @@ msgstr "任何人都可以參與互動"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:111
 #: src/screens/Settings/ActivityPrivacySettings.tsx:116
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:163
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:164
 msgid "Anyone who follows me"
 msgstr "跟隨我的人"
 
@@ -1130,8 +1130,8 @@ msgstr "密碼名稱只能包含字母、數字、空格、連字號 (-)、底�
 msgid "App password names must be at least 4 characters long"
 msgstr "密碼名稱必須至少包含 4 個字元"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:72
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:75
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:73
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:76
 msgid "App passwords"
 msgstr "應用程式專用密碼"
 
@@ -1155,12 +1155,12 @@ msgctxt "toast"
 msgid "Appeal submitted"
 msgstr "成功提交申訴"
 
-#: src/screens/Takendown.tsx:111
-#: src/screens/Takendown.tsx:144
+#: src/screens/Takendown.tsx:112
+#: src/screens/Takendown.tsx:145
 msgid "Appeal suspension"
 msgstr "申請解除停權"
 
-#: src/screens/Takendown.tsx:114
+#: src/screens/Takendown.tsx:115
 msgid "Appeal Suspension"
 msgstr "申請解除停權"
 
@@ -1250,7 +1250,7 @@ msgstr "藝術"
 msgid "Artistic or non-erotic nudity."
 msgstr "帶有藝術性或非色情的裸體。"
 
-#: src/components/BlockedGeoOverlay.tsx:53
+#: src/components/BlockedGeoOverlay.tsx:54
 msgid "As a small team, we cannot justify building the expensive infrastructure this requirement demands while legal challenges to this law are pending."
 msgstr "作為一個小團隊，我們無法在一切尚未塵埃落定之前，為這項法律要求部署昂貴的基礎設施。"
 
@@ -1344,7 +1344,7 @@ msgstr "開始年齡驗證程序"
 msgid "Begin the age assurance process by completing the fields below."
 msgstr "請填寫以下欄位，以開始年齡驗證程序。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:115
+#: src/components/dialogs/BirthDateSettings.tsx:116
 #: src/screens/Settings/AccountSettings.tsx:142
 msgid "Birthday"
 msgstr "生日"
@@ -1438,12 +1438,12 @@ msgstr "您封鎖的帳號對所有人可見。他們無法提及您、在您的
 msgid "Blocking will not prevent labels from being applied on your account, but it will stop this account from replying in your threads or interacting with you."
 msgstr "封鎖該帳號無法阻止其標記您的帳號，但他將無法在您的討論串中回覆，或以其他方式與您互動。"
 
-#: src/view/com/auth/SplashScreen.web.tsx:175
+#: src/view/com/auth/SplashScreen.web.tsx:176
 msgid "Blog"
 msgstr "部落格"
 
-#: src/view/com/auth/server-input/index.tsx:136
 #: src/view/com/auth/server-input/index.tsx:137
+#: src/view/com/auth/server-input/index.tsx:138
 msgid "Bluesky"
 msgstr "Bluesky"
 
@@ -1456,11 +1456,11 @@ msgctxt "Name of app icon variant"
 msgid "Bluesky Classic™"
 msgstr "Bluesky 經典™"
 
-#: src/view/com/auth/server-input/index.tsx:212
+#: src/view/com/auth/server-input/index.tsx:213
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
 msgstr "Bluesky 是一個開放的網路，您可以自行挑選託管服務提供者。如果您是開發人員，也可以託管自己的伺服器。"
 
-#: src/view/com/auth/server-input/index.tsx:149
+#: src/view/com/auth/server-input/index.tsx:150
 msgid "Bluesky is an open network where you can choose your own provider. If you're new here, we recommend sticking with the default Bluesky Social option."
 msgstr "Bluesky 是一個開放的網路，您可以自行挑選託管服務提供者。但如果您是新用戶，我們建議使用預設的 Bluesky Social 選項。"
 
@@ -1469,7 +1469,7 @@ msgstr "Bluesky 是一個開放的網路，您可以自行挑選託管服務提�
 msgid "Bluesky is better with friends!"
 msgstr "Bluesky 因朋友而更好！"
 
-#: src/screens/Takendown.tsx:217
+#: src/screens/Takendown.tsx:218
 msgid "Bluesky Social Terms of Service"
 msgstr "Bluesky Social 服務條款"
 
@@ -1556,7 +1556,7 @@ msgstr "瀏覽話題 {0}"
 msgid "Browse topic {displayName}"
 msgstr "瀏覽話題 {displayName}"
 
-#: src/view/com/auth/SplashScreen.web.tsx:170
+#: src/view/com/auth/SplashScreen.web.tsx:171
 msgid "Business"
 msgstr "商務"
 
@@ -1571,7 +1571,7 @@ msgstr "來自 {0}"
 msgid "By <0>{0}</0>"
 msgstr "來自 <0>{0}</0>"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:181
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:189
 msgid "By clicking \"Continue\" you acknowledge that you understand and agree to these updates."
 msgstr "按下「繼續」即表示您瞭解並同意這些更新。"
 
@@ -1620,13 +1620,13 @@ msgstr "相機"
 #: src/screens/Search/Shell.tsx:349
 #: src/screens/Settings/AppIconSettings/index.tsx:44
 #: src/screens/Settings/AppIconSettings/index.tsx:225
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:78
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:85
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:79
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:86
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:246
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:252
 #: src/screens/Settings/Settings.tsx:289
-#: src/screens/Takendown.tsx:99
-#: src/screens/Takendown.tsx:102
+#: src/screens/Takendown.tsx:100
+#: src/screens/Takendown.tsx:103
 #: src/view/com/composer/Composer.tsx:1005
 #: src/view/com/composer/Composer.tsx:1016
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:43
@@ -1698,8 +1698,8 @@ msgstr "將應用程式圖示變更為「{0}」"
 msgid "Change app language"
 msgstr "變更應用程式語言"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:94
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:98
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:95
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:99
 msgid "Change Handle"
 msgstr "變更帳號代碼"
 
@@ -1745,7 +1745,7 @@ msgstr "成功儲存變更"
 #: src/Navigation.tsx:549
 #: src/view/shell/bottom-bar/BottomBar.tsx:221
 #: src/view/shell/desktop/LeftNav.tsx:607
-#: src/view/shell/Drawer.tsx:466
+#: src/view/shell/Drawer.tsx:467
 msgid "Chat"
 msgstr "對話"
 
@@ -1815,7 +1815,7 @@ msgstr "在這裡輸入傳送至您電子信箱的登入驗證碼。"
 msgid "Check your inbox for an email with the confirmation code to enter below:"
 msgstr "在下方輸入傳送至您電子信箱的驗證碼："
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:399
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:400
 msgid "Choose domain verification method"
 msgstr "選擇網域驗證方式"
 
@@ -1843,7 +1843,7 @@ msgstr "自由選擇提供您河道中內容的演算法。"
 msgid "Choose this color as your avatar"
 msgstr "選擇這個顏色作為您的大頭貼照背景"
 
-#: src/view/com/auth/server-input/index.tsx:130
+#: src/view/com/auth/server-input/index.tsx:131
 msgid "Choose your account provider"
 msgstr "選擇您的服務提供者"
 
@@ -1855,7 +1855,7 @@ msgstr "自行設計專屬於您的河道！由社群打造的動態源能協助
 msgid "Choose your password"
 msgstr "設定您的密碼"
 
-#: src/screens/Signup/index.tsx:175
+#: src/screens/Signup/index.tsx:178
 msgid "Choose your username"
 msgstr "選擇您的用戶名稱"
 
@@ -1867,8 +1867,8 @@ msgstr "清除所有資料"
 msgid "Clear all storage data (restart after this)"
 msgstr "清除所有資料 (並重新啟動)"
 
-#: src/screens/Settings/AboutSettings.tsx:116
-#: src/screens/Settings/AboutSettings.tsx:120
+#: src/screens/Settings/AboutSettings.tsx:118
+#: src/screens/Settings/AboutSettings.tsx:122
 msgid "Clear image cache"
 msgstr "清除圖片快取"
 
@@ -2007,7 +2007,7 @@ msgstr "關閉選單"
 msgid "Close this dialog"
 msgstr "關閉此對話框"
 
-#: src/components/WelcomeModal.tsx:214
+#: src/components/WelcomeModal.tsx:215
 msgid "Close welcome modal"
 msgstr "關閉歡迎介面"
 
@@ -2055,9 +2055,9 @@ msgstr "喜劇"
 msgid "Comics"
 msgstr "漫畫"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:51
 #: src/Navigation.tsx:341
-#: src/view/screens/CommunityGuidelines.tsx:34
+#: src/view/screens/CommunityGuidelines.tsx:35
 msgid "Community Guidelines"
 msgstr "社群準則"
 
@@ -2066,7 +2066,7 @@ msgstr "社群準則"
 msgid "Complete onboarding and start using your account"
 msgstr "完成入門引導以開始使用您的帳號"
 
-#: src/screens/Signup/index.tsx:177
+#: src/screens/Signup/index.tsx:180
 msgid "Complete the challenge"
 msgstr "完成驗證"
 
@@ -2118,14 +2118,14 @@ msgid "Confirm your birthdate"
 msgstr "確認您的出生日期"
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:89
-#: src/components/BlockedGeoOverlay.tsx:141
-#: src/components/BlockedGeoOverlay.tsx:147
+#: src/components/BlockedGeoOverlay.tsx:142
+#: src/components/BlockedGeoOverlay.tsx:148
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:45
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:112
 msgid "Confirm your location"
 msgstr "確認您的位置"
 
-#: src/components/BlockedGeoOverlay.tsx:135
+#: src/components/BlockedGeoOverlay.tsx:136
 msgid "Confirm your location with GPS. Your location data is not tracked and does not leave your device."
 msgstr "透過 GPS 確認您的位置資訊，您的位置資訊不會用於追蹤您，也不會離開您的裝置。"
 
@@ -2154,8 +2154,8 @@ msgid "Contact our moderation team"
 msgstr "聯絡我們的支援團隊"
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:155
-#: src/screens/Signup/index.tsx:212
 #: src/screens/Signup/index.tsx:215
+#: src/screens/Signup/index.tsx:218
 msgid "Contact support"
 msgstr "聯絡支援"
 
@@ -2214,8 +2214,8 @@ msgstr "內容警告"
 msgid "Context menu backdrop, click to close the menu."
 msgstr "內容選單背景，點一下以關閉選單。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:162
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:170
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:178
 #: src/screens/Onboarding/StepInterests/index.tsx:254
 #: src/screens/Onboarding/StepProfile/index.tsx:280
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:246
@@ -2263,7 +2263,7 @@ msgstr "烹飪"
 msgid "Copied"
 msgstr "已複製"
 
-#: src/screens/Settings/AboutSettings.tsx:151
+#: src/screens/Settings/AboutSettings.tsx:153
 msgid "Copied build version to clipboard"
 msgstr "成功複製組建版本號至剪貼簿"
 
@@ -2282,7 +2282,7 @@ msgstr "成功複製至剪貼簿"
 msgid "Copied!"
 msgstr "複製成功！"
 
-#: src/screens/Settings/AboutSettings.tsx:127
+#: src/screens/Settings/AboutSettings.tsx:129
 msgid "Copies build version to clipboard"
 msgstr "複製組建版本號至剪貼簿"
 
@@ -2309,13 +2309,13 @@ msgstr "複製發布者 DID"
 msgid "Copy code"
 msgstr "複製程式碼"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:501
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:502
 #: src/view/com/profile/ProfileMenu.tsx:442
 #: src/view/com/profile/ProfileMenu.tsx:445
 msgid "Copy DID"
 msgstr "複製 DID"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:434
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:435
 msgid "Copy host"
 msgstr "複製主機名稱 (Host)"
 
@@ -2367,14 +2367,14 @@ msgstr "複製貼文文字"
 msgid "Copy QR code"
 msgstr "複製 QR Code"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:455
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:456
 msgid "Copy TXT record value"
 msgstr "複製 TXT 記錄值"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:107
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:115
 #: src/Navigation.tsx:346
-#: src/view/screens/CopyrightPolicy.tsx:31
+#: src/view/screens/CopyrightPolicy.tsx:32
 msgid "Copyright Policy"
 msgstr "著作權政策"
 
@@ -2443,10 +2443,10 @@ msgstr "為我產生一個新手包"
 
 #: src/components/LoggedOutCTA.tsx:71
 #: src/components/LoggedOutCTA.tsx:76
-#: src/components/WelcomeModal.tsx:155
-#: src/components/WelcomeModal.tsx:163
+#: src/components/WelcomeModal.tsx:156
+#: src/components/WelcomeModal.tsx:164
 #: src/view/com/auth/SplashScreen.tsx:55
-#: src/view/com/auth/SplashScreen.web.tsx:117
+#: src/view/com/auth/SplashScreen.web.tsx:118
 #: src/view/shell/bottom-bar/BottomBar.tsx:345
 #: src/view/shell/bottom-bar/BottomBar.tsx:350
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:206
@@ -2456,7 +2456,7 @@ msgstr "為我產生一個新手包"
 msgid "Create account"
 msgstr "建立帳號"
 
-#: src/screens/Signup/index.tsx:122
+#: src/screens/Signup/index.tsx:125
 msgid "Create Account"
 msgstr "建立帳號"
 
@@ -2480,7 +2480,7 @@ msgid "Create another"
 msgstr "再建立一個"
 
 #: src/view/com/auth/SplashScreen.tsx:47
-#: src/view/com/auth/SplashScreen.web.tsx:109
+#: src/view/com/auth/SplashScreen.web.tsx:110
 msgid "Create new account"
 msgstr "建立新帳號"
 
@@ -2507,8 +2507,8 @@ msgstr "已封鎖此列表的建立者"
 msgid "Culture"
 msgstr "文化"
 
-#: src/view/com/auth/server-input/index.tsx:142
 #: src/view/com/auth/server-input/index.tsx:143
+#: src/view/com/auth/server-input/index.tsx:144
 msgid "Custom"
 msgstr "自訂"
 
@@ -2697,12 +2697,12 @@ msgstr "分離引用"
 msgid "Detach quote post?"
 msgstr "要解除引用貼文嗎？"
 
-#: src/screens/Settings/AboutSettings.tsx:140
+#: src/screens/Settings/AboutSettings.tsx:142
 msgctxt "toast"
 msgid "Developer mode disabled"
 msgstr "成功停用開發者模式"
 
-#: src/screens/Settings/AboutSettings.tsx:134
+#: src/screens/Settings/AboutSettings.tsx:136
 msgctxt "toast"
 msgid "Developer mode enabled"
 msgstr "成功啟用開發者模式"
@@ -2819,8 +2819,8 @@ msgstr "名稱"
 msgid "Ditch the trolls and clickbait. Find real people and conversations that matter to you."
 msgstr "告別網路酸民和標題黨，找到您真正在意的人與感興趣的對話。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:402
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:404
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:403
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:405
 msgid "DNS Panel"
 msgstr "DNS 控制台"
 
@@ -2832,7 +2832,7 @@ msgstr "不要使用此靜音字詞來隱藏您所跟隨用戶的貼文"
 msgid "Does not include nudity."
 msgstr "不包含裸露內容。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:517
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:518
 msgid "Domain verified!"
 msgstr "成功驗證網域！"
 
@@ -2853,8 +2853,8 @@ msgstr "不再顯示"
 msgid "Don't worry! All existing messages and settings are saved and will be available after you verify you're an adult."
 msgstr "不用擔心！您現有的訊息和設定都已儲存，只需驗證您已成年即可恢復。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:150
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dms/ReportDialog.tsx:319
 #: src/components/forms/DateField/index.tsx:103
 #: src/components/forms/DateField/index.tsx:109
@@ -2864,8 +2864,8 @@ msgstr "不用擔心！您現有的訊息和設定都已儲存，只需驗證您
 #: src/screens/Onboarding/StepProfile/index.tsx:336
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:215
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:222
-#: src/view/com/auth/server-input/index.tsx:232
-#: src/view/com/auth/server-input/index.tsx:233
+#: src/view/com/auth/server-input/index.tsx:235
+#: src/view/com/auth/server-input/index.tsx:236
 #: src/view/com/composer/labels/LabelsBtn.tsx:223
 #: src/view/com/composer/labels/LabelsBtn.tsx:230
 #: src/view/com/composer/select-language/PostLanguageSelectDialog.tsx:281
@@ -2916,7 +2916,7 @@ msgstr "拖放即可新增圖片"
 msgid "Duration:"
 msgstr "持續時間："
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:236
 msgid "e.g. alice"
 msgstr "例如：alice"
 
@@ -2924,7 +2924,7 @@ msgstr "例如：alice"
 msgid "e.g. Alice Lastname"
 msgstr "例如：張藍天"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:387
 msgid "e.g. alice.com"
 msgstr "例如：alice.com"
 
@@ -3069,7 +3069,7 @@ msgctxt "toast"
 msgid "Email 2FA disabled"
 msgstr "成功停用電子郵件雙重驗證"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:63
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:64
 msgid "Email 2FA enabled"
 msgstr "已啟用電子郵件雙重驗證"
 
@@ -3199,7 +3199,7 @@ msgstr "輸入代碼"
 msgid "Enter fullscreen"
 msgstr "進入全螢幕"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:380
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:381
 msgid "Enter the domain you want to use"
 msgstr "輸入您想使用的網域"
 
@@ -3211,7 +3211,7 @@ msgstr "輸入您建立帳號時使用的電子郵件地址。我們將向您傳
 msgid "Enter the username or email address you used when you created your account"
 msgstr "請輸入您建立帳號時使用的用戶名稱或電子郵件地址"
 
-#: src/components/dialogs/BirthDateSettings.tsx:116
+#: src/components/dialogs/BirthDateSettings.tsx:117
 msgid "Enter your birth date"
 msgstr "輸入您的出生日期"
 
@@ -3245,7 +3245,7 @@ msgstr "錯誤"
 msgid "Error loading post"
 msgstr "載入貼文時發生錯誤"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:154
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:155
 msgid "Error loading preference"
 msgstr "載入偏好設定時發生錯誤"
 
@@ -3384,12 +3384,12 @@ msgstr "露骨的色情圖片。"
 #: src/Navigation.tsx:759
 #: src/screens/Search/Shell.tsx:307
 #: src/view/shell/desktop/LeftNav.tsx:689
-#: src/view/shell/Drawer.tsx:414
+#: src/view/shell/Drawer.tsx:415
 msgid "Explore"
 msgstr "探索"
 
-#: src/components/WelcomeModal.tsx:168
-#: src/components/WelcomeModal.tsx:177
+#: src/components/WelcomeModal.tsx:169
+#: src/components/WelcomeModal.tsx:178
 msgid "Explore the app"
 msgstr "探索應用程式"
 
@@ -3436,7 +3436,7 @@ msgstr "無法加入表情符號反應"
 msgid "Failed to add to starter pack"
 msgstr "無法新增至新手包"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:597
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:598
 msgid "Failed to change handle. Please try again."
 msgstr "無法變更帳號代碼，請再試一次。"
 
@@ -3617,7 +3617,7 @@ msgstr "上傳影片失敗"
 msgid "Failed to verify email, please try again."
 msgstr "無法驗證電子信箱，請再試一次。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:370
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:371
 msgid "Failed to verify handle. Please try again."
 msgstr "無法驗證帳號代碼，請再試一次。"
 
@@ -3650,9 +3650,9 @@ msgstr "切換動態源"
 msgid "Feed unavailable"
 msgstr "動態源目前無法使用"
 
-#: src/view/shell/desktop/RightNav.tsx:106
 #: src/view/shell/desktop/RightNav.tsx:107
-#: src/view/shell/Drawer.tsx:368
+#: src/view/shell/desktop/RightNav.tsx:108
+#: src/view/shell/Drawer.tsx:369
 msgid "Feedback"
 msgstr "意見回饋"
 
@@ -3669,7 +3669,7 @@ msgstr "意見已提交給動態源維護者"
 #: src/view/screens/Profile.tsx:230
 #: src/view/screens/SavedFeeds.tsx:104
 #: src/view/shell/desktop/LeftNav.tsx:727
-#: src/view/shell/Drawer.tsx:530
+#: src/view/shell/Drawer.tsx:531
 msgid "Feeds"
 msgstr "動態源"
 
@@ -3916,7 +3916,7 @@ msgstr "字型大小"
 msgid "Food"
 msgstr "食物"
 
-#: src/components/BlockedGeoOverlay.tsx:56
+#: src/components/BlockedGeoOverlay.tsx:57
 msgid "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
 msgstr "我們在經過慎重考慮後，決定封鎖來自密西西比州的存取。"
 
@@ -3984,7 +3984,7 @@ msgstr "來自 <0/>"
 msgid "Generate a starter pack"
 msgstr "產生一個新手包"
 
-#: src/view/shell/Drawer.tsx:372
+#: src/view/shell/Drawer.tsx:373
 msgid "Get help"
 msgstr "取得幫助"
 
@@ -4178,16 +4178,16 @@ msgstr "已經完成一半了！"
 msgid "Handle"
 msgstr "帳號代碼"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:601
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:602
 msgid "Handle already taken. Please try a different one."
 msgstr "帳號代碼已被佔用，請選擇不同的代碼再試一次。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:195
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:354
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:196
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:355
 msgid "Handle changed!"
 msgstr "成功變更帳號代碼！"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:605
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:606
 msgid "Handle too long. Please try a shorter one."
 msgstr "帳號代碼太長了，請縮短代碼再試一次。"
 
@@ -4213,15 +4213,15 @@ msgstr "標籤 {tag}"
 msgid "Have a code? <0>Click here.</0>"
 msgstr "已經有代碼了？<0>點一下這裡。</0>"
 
-#: src/screens/Signup/index.tsx:210
+#: src/screens/Signup/index.tsx:213
 msgid "Having trouble?"
 msgstr "遇到問題？"
 
 #: src/screens/Settings/Settings.tsx:236
 #: src/screens/Settings/Settings.tsx:240
-#: src/view/shell/desktop/RightNav.tsx:124
-#: src/view/shell/desktop/RightNav.tsx:125
-#: src/view/shell/Drawer.tsx:381
+#: src/view/shell/desktop/RightNav.tsx:128
+#: src/view/shell/desktop/RightNav.tsx:129
+#: src/view/shell/Drawer.tsx:382
 msgid "Help"
 msgstr "幫助"
 
@@ -4233,8 +4233,8 @@ msgstr "透過上傳圖片或建立大頭貼照，讓大家知道您不是機器
 msgid "Here is your app password!"
 msgstr "以下是您的應用程式專用密碼！"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:73
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:119
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:81
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:127
 msgid "Hey there 👋"
 msgstr "哩賀 👋"
 
@@ -4366,11 +4366,11 @@ msgstr "等一下！我們正在逐步開放上傳影片功能。您還在等候
 #: src/Navigation.tsx:774
 #: src/view/shell/bottom-bar/BottomBar.tsx:178
 #: src/view/shell/desktop/LeftNav.tsx:671
-#: src/view/shell/Drawer.tsx:440
+#: src/view/shell/Drawer.tsx:441
 msgid "Home"
 msgstr "首頁"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:427
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:428
 msgid "Host:"
 msgstr "主機："
 
@@ -4393,8 +4393,8 @@ msgstr "我們該如何開啟這個連結？"
 msgid "I have a code"
 msgstr "我有驗證碼"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:290
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:296
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:291
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:297
 msgid "I have my own domain"
 msgstr "我擁有自己的網域"
 
@@ -4415,7 +4415,7 @@ msgstr "如果您根據您所在國家的法律尚未成年，則您的父母或
 msgid "If you delete this list, you won't be able to recover it."
 msgstr "一旦您刪除這個列表，以後將無法再恢復。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:272
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:273
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
 msgstr "如果您擁有自己的網域，可以將其設定為您的帳號代碼。同時還可以證明自己的身分。<0>在此瞭解詳情。</0>"
 
@@ -4439,7 +4439,7 @@ msgstr "如果您想變更密碼，我們將向您傳送一組驗證碼，以確
 msgid "If you want to restrict who can receive notifications for your account's activity, you can change this in <0>Settings → Privacy and Security</0>."
 msgstr "如果您想限制其他人接收您帳號的動態通知，可以前往 <0>設定 → 隱私與安全</0> 變更設定。"
 
-#: src/view/com/auth/server-input/index.tsx:208
+#: src/view/com/auth/server-input/index.tsx:209
 msgid "If you're a developer, you can host your own server."
 msgstr "如果您是開發人員，也可以架設自己的伺服器。"
 
@@ -4566,7 +4566,7 @@ msgstr "為您介紹貼文收藏（又稱書籤）"
 msgid "Invalid 2FA confirmation code."
 msgstr "無效的雙重驗證碼。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:607
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:608
 msgid "Invalid handle. Please try a different one."
 msgstr "無法使用這個帳號代碼，請選擇不同的代碼再試一次。"
 
@@ -4631,7 +4631,7 @@ msgid "Job ID: {0}"
 msgstr "作業 ID：{0}"
 
 #. Link to a page with job openings at Bluesky
-#: src/view/com/auth/SplashScreen.web.tsx:180
+#: src/view/com/auth/SplashScreen.web.tsx:181
 msgid "Jobs"
 msgstr "工作"
 
@@ -4730,8 +4730,8 @@ msgstr "最新"
 #: src/components/verification/VerifierDialog.tsx:137
 #: src/screens/Moderation/VerificationSettings.tsx:48
 #: src/screens/Profile/Header/EditProfileDialog.tsx:351
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:213
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:277
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:214
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:278
 msgctxt "english-only-resource"
 msgid "Learn more"
 msgstr "瞭解詳情（英文）"
@@ -4744,11 +4744,11 @@ msgstr "瞭解詳情"
 msgid "Learn more about age assurance"
 msgstr "深入瞭解年齡驗證"
 
-#: src/view/com/auth/SplashScreen.web.tsx:168
+#: src/view/com/auth/SplashScreen.web.tsx:169
 msgid "Learn more about Bluesky"
 msgstr "深入瞭解 Bluesky"
 
-#: src/view/com/auth/server-input/index.tsx:218
+#: src/view/com/auth/server-input/index.tsx:219
 msgid "Learn more about self hosting your PDS."
 msgstr "深入瞭解如何自行架設 PDS。"
 
@@ -4757,11 +4757,11 @@ msgstr "深入瞭解如何自行架設 PDS。"
 msgid "Learn more about the moderation applied to this content"
 msgstr "深入瞭解對這項內容套用的審核措施"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:149
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:157
 msgid "Learn more about these changes and how to share your thoughts with us by <0>reading our blog post.</0>"
 msgstr "您可以<0>閱讀我們的部落格文章</0>，瞭解有關這些變化的更多資訊，以及如何與我們分享您的想法。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:89
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
 msgid "Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr "您可以閱讀我們的部落格文章，瞭解有關這些變化的更多資訊，以及如何與我們分享您的想法。"
 
@@ -4776,8 +4776,8 @@ msgctxt "english-only-resource"
 msgid "Learn more about verification on Bluesky"
 msgstr "深入瞭解 Bluesky 的驗證機制（英文）"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:128
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:131
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:129
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:132
 msgid "Learn more about what is public on Bluesky."
 msgstr "深入瞭解在 Bluesky 上公開的內容。"
 
@@ -4786,7 +4786,7 @@ msgid "Learn more in your <0>account settings.</0>"
 msgstr "在您的<0>帳號設定</0>瞭解詳情。"
 
 #: src/components/moderation/ContentHider.tsx:242
-#: src/view/com/auth/server-input/index.tsx:220
+#: src/view/com/auth/server-input/index.tsx:223
 msgid "Learn more."
 msgstr "瞭解詳情。"
 
@@ -4991,7 +4991,7 @@ msgstr "成功取消靜音列表"
 #: src/view/screens/Profile.tsx:224
 #: src/view/screens/Profile.tsx:232
 #: src/view/shell/desktop/LeftNav.tsx:745
-#: src/view/shell/Drawer.tsx:545
+#: src/view/shell/Drawer.tsx:546
 msgid "Lists"
 msgstr "列表"
 
@@ -5043,16 +5043,16 @@ msgstr "載入中……"
 msgid "Log"
 msgstr "記錄檔"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:107
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:108
 msgid "Logged-out visibility"
 msgstr "登出可見度"
 
-#: src/view/shell/desktop/RightNav.tsx:134
+#: src/view/shell/desktop/RightNav.tsx:138
 msgid "Logo by @sawaratsuki.bsky.social"
 msgstr "網站標誌由 @sawaratsuki.bsky.social 繪製"
 
-#: src/view/shell/desktop/RightNav.tsx:131
-#: src/view/shell/Drawer.tsx:709
+#: src/view/shell/desktop/RightNav.tsx:135
+#: src/view/shell/Drawer.tsx:713
 msgid "Logo by <0>@sawaratsuki.bsky.social</0>"
 msgstr "網站標誌由 <0>@sawaratsuki.bsky.social</0> 繪製"
 
@@ -5393,8 +5393,8 @@ msgstr "靜音字詞和標籤"
 msgid "Muting is private. Muted accounts can interact with you, but you will not see their posts or receive notifications from them."
 msgstr "您靜音的帳號僅對自己可見。他們仍然可以與您互動，但您將不會再看到他們的貼文及通知。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:38
-#: src/components/dialogs/BirthDateSettings.tsx:42
+#: src/components/dialogs/BirthDateSettings.tsx:39
+#: src/components/dialogs/BirthDateSettings.tsx:43
 msgid "My Birthday"
 msgstr "我的生日"
 
@@ -5440,7 +5440,7 @@ msgstr "前往新手包"
 msgid "Navigates to the next screen"
 msgstr "前往下一個畫面"
 
-#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:79
 msgid "Navigates to your profile"
 msgstr "前往您的個人檔案"
 
@@ -5457,7 +5457,7 @@ msgstr "需要檢舉侵害著作權的內容嗎？"
 msgid "Never lose access to your followers or data."
 msgstr "永遠不會失去對您的跟隨者或資料的掌控權。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:577
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:578
 msgid "Nevermind, create a handle for me"
 msgstr "算了，為我建立一個帳號代碼"
 
@@ -5505,9 +5505,9 @@ msgstr "新跟隨者通知"
 msgid "New followers"
 msgstr "新跟隨者"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:226
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:234
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:385
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:227
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
 msgid "New handle"
 msgstr "新的帳號代碼"
 
@@ -5617,8 +5617,8 @@ msgstr "無廣告、無侵入式追蹤，更沒有成癮性設計。Bluesky 尊�
 msgid "No app passwords yet"
 msgstr "目前還沒有應用程式專用密碼"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:407
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:409
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:408
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:410
 msgid "No DNS Panel"
 msgstr "無 DNS 控制台"
 
@@ -5664,7 +5664,7 @@ msgstr "目前還沒有通知！"
 #: src/screens/Messages/Settings.tsx:109
 #: src/screens/Settings/ActivityPrivacySettings.tsx:129
 #: src/screens/Settings/ActivityPrivacySettings.tsx:134
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:160
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:161
 msgid "No one"
 msgstr "沒有人"
 
@@ -5767,7 +5767,7 @@ msgstr "沒有被任何您認識的人跟隨"
 msgid "Not Found"
 msgstr "找不到"
 
-#: src/components/BlockedGeoOverlay.tsx:126
+#: src/components/BlockedGeoOverlay.tsx:127
 msgid "Not in Mississippi?"
 msgstr "不在密西西比州？"
 
@@ -5775,7 +5775,7 @@ msgstr "不在密西西比州？"
 msgid "Note about sharing"
 msgstr "關於分享的注意事項"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:117
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:118
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
 msgstr "註：Bluesky 是一個開放的公共社群網路。這項設定僅限制您的內容在 Bluesky 官方應用程式和網站上的可見度，其他第三方應用程式可能不會遵循這項設定。您的內容仍可能被其他應用程式和網站顯示給未登入的用戶。"
 
@@ -5824,7 +5824,7 @@ msgstr "通知音效"
 #: src/view/screens/Notifications.tsx:130
 #: src/view/shell/bottom-bar/BottomBar.tsx:252
 #: src/view/shell/desktop/LeftNav.tsx:708
-#: src/view/shell/Drawer.tsx:493
+#: src/view/shell/Drawer.tsx:494
 msgid "Notifications"
 msgstr "通知"
 
@@ -5923,7 +5923,7 @@ msgstr "只有{0}可以回覆。"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:120
 #: src/screens/Settings/ActivityPrivacySettings.tsx:125
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:158
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:159
 msgid "Only followers who I follow"
 msgstr "僅限我回跟的跟隨者"
 
@@ -5943,7 +5943,7 @@ msgstr "糟糕，發生錯誤！"
 #: src/components/StarterPack/ProfileStarterPacks.tsx:332
 #: src/components/StarterPack/ProfileStarterPacks.tsx:341
 #: src/screens/Settings/AppPasswords.tsx:59
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:106
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
 #: src/view/screens/Profile.tsx:125
 msgid "Oops!"
 msgstr "糟糕！"
@@ -6071,12 +6071,12 @@ msgid "Opens emoji picker"
 msgstr "開啟表情符號選擇器"
 
 #: src/view/com/auth/SplashScreen.tsx:49
-#: src/view/com/auth/SplashScreen.web.tsx:111
+#: src/view/com/auth/SplashScreen.web.tsx:112
 msgid "Opens flow to create a new Bluesky account"
 msgstr "開始建立新的 Bluesky 帳號的流程"
 
 #: src/view/com/auth/SplashScreen.tsx:63
-#: src/view/com/auth/SplashScreen.web.tsx:125
+#: src/view/com/auth/SplashScreen.web.tsx:126
 msgid "Opens flow to sign in to your existing Bluesky account"
 msgstr "開始登入您現有的 Bluesky 帳號流程"
 
@@ -6160,7 +6160,7 @@ msgstr "其他"
 msgid "Other account"
 msgstr "其他帳號"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:50
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:58
 msgid "Our blog post"
 msgstr "我們的部落格文章"
 
@@ -6622,8 +6622,8 @@ msgstr "慣用語言"
 msgid "Prioritize your Follows"
 msgstr "優先顯示您跟隨的人"
 
-#: src/view/shell/desktop/RightNav.tsx:114
-#: src/view/shell/desktop/RightNav.tsx:115
+#: src/view/shell/desktop/RightNav.tsx:118
+#: src/view/shell/desktop/RightNav.tsx:119
 msgid "Privacy"
 msgstr "隱私"
 
@@ -6635,7 +6635,7 @@ msgstr "隱私與安全"
 #: src/Navigation.tsx:407
 #: src/Navigation.tsx:415
 #: src/screens/Settings/ActivityPrivacySettings.tsx:40
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:45
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:46
 msgid "Privacy and Security"
 msgstr "隱私與安全"
 
@@ -6643,14 +6643,14 @@ msgstr "隱私與安全"
 msgid "Privacy and Security settings"
 msgstr "隱私與安全設定"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:35
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:102
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:110
 #: src/Navigation.tsx:331
-#: src/screens/Settings/AboutSettings.tsx:92
-#: src/screens/Settings/AboutSettings.tsx:95
-#: src/view/screens/PrivacyPolicy.tsx:31
-#: src/view/shell/Drawer.tsx:704
-#: src/view/shell/Drawer.tsx:705
+#: src/screens/Settings/AboutSettings.tsx:94
+#: src/screens/Settings/AboutSettings.tsx:97
+#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/shell/Drawer.tsx:708
+#: src/view/shell/Drawer.tsx:709
 msgid "Privacy Policy"
 msgstr "隱私權政策"
 
@@ -6670,8 +6670,8 @@ msgstr "個人檔案"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:316
 #: src/view/shell/desktop/LeftNav.tsx:786
-#: src/view/shell/Drawer.tsx:77
-#: src/view/shell/Drawer.tsx:596
+#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:597
 msgid "Profile"
 msgstr "個人檔案"
 
@@ -6781,7 +6781,7 @@ msgstr "引用"
 msgid "Quotes of this post"
 msgstr "引用這則貼文"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:610
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:611
 msgid "Rate limit exceeded – you've tried to change your handle too many times in a short period. Please wait a minute before trying again."
 msgstr "超過速率限制 —— 您在短時間內嘗試變更帳號代碼的次數過多，請稍等幾分鐘後再試一次。"
 
@@ -6819,12 +6819,12 @@ msgstr "閱讀更多"
 msgid "Read more replies"
 msgstr "閱讀更多回覆"
 
-#: src/components/BlockedGeoOverlay.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:112
+#: src/components/BlockedGeoOverlay.tsx:41
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:120
 msgid "Read our blog post"
 msgstr "閱讀我們的部落格文章"
 
-#: src/view/com/auth/SplashScreen.web.tsx:173
+#: src/view/com/auth/SplashScreen.web.tsx:174
 msgid "Read the Bluesky blog"
 msgstr "閱讀 Bluesky 部落格"
 
@@ -6838,16 +6838,16 @@ msgstr "閱讀 Bluesky 隱私權政策"
 msgid "Read the Bluesky Terms of Service"
 msgstr "閱讀 Bluesky 服務條款"
 
-#: src/components/WelcomeModal.tsx:146
+#: src/components/WelcomeModal.tsx:147
 msgid "Real conversations."
 msgstr "真實的對話。"
 
-#: src/components/WelcomeModal.tsx:144
+#: src/components/WelcomeModal.tsx:145
 msgid "Real people."
 msgstr "真實的用戶。"
 
-#: src/screens/Takendown.tsx:162
-#: src/screens/Takendown.tsx:170
+#: src/screens/Takendown.tsx:163
+#: src/screens/Takendown.tsx:171
 msgid "Reason for appeal"
 msgstr "申訴理由"
 
@@ -7396,7 +7396,7 @@ msgid "Returns to home page"
 msgstr "返回首頁"
 
 #: src/screens/Profile/ProfileFeed/index.tsx:93
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:570
 #: src/screens/VideoFeed/index.tsx:1146
 #: src/view/screens/NotFound.tsx:60
 #: src/view/screens/ProfileList.tsx:1039
@@ -7407,7 +7407,7 @@ msgstr "返回上一頁"
 msgid "Returns to the previous step"
 msgstr "返回上一步"
 
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:483
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:489
 #: src/components/live/EditLiveDialog.tsx:216
@@ -7415,7 +7415,7 @@ msgstr "返回上一步"
 #: src/components/StarterPack/QrCodeDialog.tsx:192
 #: src/screens/Profile/Header/EditProfileDialog.tsx:238
 #: src/screens/Profile/Header/EditProfileDialog.tsx:252
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:267
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:268
 #: src/view/com/composer/GifAltText.tsx:193
 #: src/view/com/composer/GifAltText.tsx:202
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:62
@@ -7433,7 +7433,7 @@ msgctxt "action"
 msgid "Save"
 msgstr "儲存"
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
+#: src/components/dialogs/BirthDateSettings.tsx:150
 msgid "Save birthday"
 msgstr "儲存生日"
 
@@ -7453,7 +7453,7 @@ msgstr "儲存圖片"
 msgid "Save image crop"
 msgstr "儲存裁剪圖片"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:253
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:254
 msgid "Save new handle"
 msgstr "儲存新的帳號代碼"
 
@@ -7467,7 +7467,7 @@ msgid "Save to my feeds"
 msgstr "儲存到我的動態源"
 
 #: src/view/shell/desktop/LeftNav.tsx:764
-#: src/view/shell/Drawer.tsx:571
+#: src/view/shell/Drawer.tsx:572
 msgctxt "link to bookmarks screen"
 msgid "Saved"
 msgstr "收藏"
@@ -7635,7 +7635,7 @@ msgstr "檢視包含 #{tag} 的貼文"
 msgid "See #{tag} posts by user"
 msgstr "檢視此用戶包含 #{tag} 的貼文"
 
-#: src/view/com/auth/SplashScreen.web.tsx:178
+#: src/view/com/auth/SplashScreen.web.tsx:179
 msgid "See jobs at Bluesky"
 msgstr "瀏覽在 Bluesky 的工作機會"
 
@@ -7818,7 +7818,7 @@ msgctxt "action"
 msgid "Send Email"
 msgstr "傳送電子郵件"
 
-#: src/view/shell/Drawer.tsx:361
+#: src/view/shell/Drawer.tsx:362
 msgid "Send feedback"
 msgstr "提交意見"
 
@@ -7867,7 +7867,7 @@ msgstr "透過私人訊息傳送"
 msgid "Sends email with confirmation code for account deletion"
 msgstr "傳送包含帳號刪除確認碼的電子郵件"
 
-#: src/view/com/auth/server-input/index.tsx:167
+#: src/view/com/auth/server-input/index.tsx:168
 msgid "Server address"
 msgstr "伺服器位址"
 
@@ -7894,7 +7894,7 @@ msgstr "設定用於重設密碼的電子郵件"
 #: src/Navigation.tsx:213
 #: src/screens/Settings/Settings.tsx:99
 #: src/view/shell/desktop/LeftNav.tsx:804
-#: src/view/shell/Drawer.tsx:609
+#: src/view/shell/Drawer.tsx:610
 msgid "Settings"
 msgstr "設定"
 
@@ -7902,7 +7902,7 @@ msgstr "設定"
 msgid "Settings for activity from others"
 msgstr "來自其他人的動態通知設定"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:85
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:86
 msgid "Settings for allowing others to be notified of your posts"
 msgstr "允許其他人接收您的貼文發布通知設定"
 
@@ -8148,16 +8148,16 @@ msgstr "顯示內容"
 
 #: src/components/dialogs/Signin.tsx:97
 #: src/components/dialogs/Signin.tsx:99
-#: src/components/WelcomeModal.tsx:194
-#: src/components/WelcomeModal.tsx:206
+#: src/components/WelcomeModal.tsx:195
+#: src/components/WelcomeModal.tsx:207
 #: src/screens/Login/index.tsx:122
 #: src/screens/Login/index.tsx:143
 #: src/screens/Login/LoginForm.tsx:181
 #: src/screens/Search/SearchResults.tsx:258
 #: src/view/com/auth/SplashScreen.tsx:61
 #: src/view/com/auth/SplashScreen.tsx:69
-#: src/view/com/auth/SplashScreen.web.tsx:123
-#: src/view/com/auth/SplashScreen.web.tsx:131
+#: src/view/com/auth/SplashScreen.web.tsx:124
+#: src/view/com/auth/SplashScreen.web.tsx:132
 #: src/view/shell/bottom-bar/BottomBar.tsx:355
 #: src/view/shell/bottom-bar/BottomBar.tsx:360
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:216
@@ -8202,14 +8202,14 @@ msgstr "登入以檢視貼文"
 #: src/screens/Settings/Settings.tsx:288
 #: src/screens/SignupQueued.tsx:93
 #: src/screens/SignupQueued.tsx:96
-#: src/screens/Takendown.tsx:85
+#: src/screens/Takendown.tsx:86
 #: src/view/shell/desktop/LeftNav.tsx:212
 #: src/view/shell/desktop/LeftNav.tsx:269
 #: src/view/shell/desktop/LeftNav.tsx:272
 msgid "Sign out"
 msgstr "登出"
 
-#: src/screens/Takendown.tsx:88
+#: src/screens/Takendown.tsx:89
 msgid "Sign Out"
 msgstr "登出"
 
@@ -8258,7 +8258,7 @@ msgstr "更小"
 msgid "Snoozes the reminder"
 msgstr "暫停提醒"
 
-#: src/components/WelcomeModal.tsx:148
+#: src/components/WelcomeModal.tsx:149
 msgid "Social media you control."
 msgstr "由您掌控的社群媒體。"
 
@@ -8418,12 +8418,12 @@ msgstr "新手包"
 msgid "Starter packs let you easily share your favorite feeds and people with your friends."
 msgstr "新手包能讓您輕鬆地與朋友分享喜愛的動態源與人物。"
 
-#: src/screens/Settings/AboutSettings.tsx:100
-#: src/screens/Settings/AboutSettings.tsx:103
+#: src/screens/Settings/AboutSettings.tsx:102
+#: src/screens/Settings/AboutSettings.tsx:105
 msgid "Status Page"
 msgstr "服務狀態頁面"
 
-#: src/screens/Signup/index.tsx:163
+#: src/screens/Signup/index.tsx:166
 msgid "Step {0} of {1}"
 msgstr "第 {0} 步（共 {1} 步）"
 
@@ -8445,11 +8445,11 @@ msgstr "故事書"
 msgid "Submit"
 msgstr "提交"
 
-#: src/screens/Takendown.tsx:70
+#: src/screens/Takendown.tsx:71
 msgid "Submit appeal"
 msgstr "提交申訴"
 
-#: src/screens/Takendown.tsx:76
+#: src/screens/Takendown.tsx:77
 msgid "Submit Appeal"
 msgstr "提交申訴"
 
@@ -8555,8 +8555,8 @@ msgid "System"
 msgstr "系統"
 
 #: src/screens/Log.tsx:58
-#: src/screens/Settings/AboutSettings.tsx:107
-#: src/screens/Settings/AboutSettings.tsx:110
+#: src/screens/Settings/AboutSettings.tsx:109
+#: src/screens/Settings/AboutSettings.tsx:112
 #: src/screens/Settings/Settings.tsx:441
 msgid "System log"
 msgstr "系統記錄"
@@ -8577,7 +8577,7 @@ msgstr "輕觸以瞭解詳細資訊"
 msgid "Tap for more information"
 msgstr "輕觸以瞭解更多資訊"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:164
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:172
 msgid "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
 msgstr "點此以表示您瞭解且同意這些更新，並繼續使用 Bluesky"
 
@@ -8620,20 +8620,20 @@ msgstr "跟大家介紹一下自己吧"
 msgid "Tell us a little more"
 msgstr "試著簡單說明一下"
 
-#: src/view/shell/desktop/RightNav.tsx:120
-#: src/view/shell/desktop/RightNav.tsx:121
+#: src/view/shell/desktop/RightNav.tsx:124
+#: src/view/shell/desktop/RightNav.tsx:125
 msgid "Terms"
 msgstr "條款"
 
-#: src/components/dialogs/BirthDateSettings.tsx:135
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:30
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
+#: src/components/dialogs/BirthDateSettings.tsx:136
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:34
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:105
 #: src/Navigation.tsx:336
 #: src/screens/Settings/AboutSettings.tsx:84
 #: src/screens/Settings/AboutSettings.tsx:87
-#: src/view/screens/TermsOfService.tsx:31
-#: src/view/shell/Drawer.tsx:697
-#: src/view/shell/Drawer.tsx:699
+#: src/view/screens/TermsOfService.tsx:35
+#: src/view/shell/Drawer.tsx:698
+#: src/view/shell/Drawer.tsx:700
 msgid "Terms of Service"
 msgstr "服務條款"
 
@@ -8674,11 +8674,11 @@ msgid "Thanks, you have successfully verified your email address. You can close 
 msgstr "謝謝，您已成功驗證您的電子郵件地址。現在您可以關閉此對話框。"
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:115
-#: src/components/BlockedGeoOverlay.tsx:169
+#: src/components/BlockedGeoOverlay.tsx:170
 msgid "Thanks! You're all set."
 msgstr "謝謝！一切就緒。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:497
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:498
 msgid "That contains the following:"
 msgstr "其中包含以下內容："
 
@@ -8718,7 +8718,7 @@ msgstr "應用程式將重新啟動"
 msgid "The author of this thread has hidden this reply."
 msgstr "此討論串的發布者隱藏了這則回覆。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:122
+#: src/components/dialogs/BirthDateSettings.tsx:123
 msgid "The birthdate you've entered means you are under 18 years old. Certain content and features may be unavailable to you."
 msgstr "您輸入的出生日期表示您未滿 18 歲，可能無法使用一些功能或檢視某些內容。"
 
@@ -8726,11 +8726,11 @@ msgstr "您輸入的出生日期表示您未滿 18 歲，可能無法使用一�
 msgid "The Bluesky web application"
 msgstr "Bluesky 網頁應用程式"
 
-#: src/view/screens/CommunityGuidelines.tsx:38
+#: src/view/screens/CommunityGuidelines.tsx:39
 msgid "The Community Guidelines have been moved to <0/>"
 msgstr "社群準則已移動到 <0/>"
 
-#: src/view/screens/CopyrightPolicy.tsx:35
+#: src/view/screens/CopyrightPolicy.tsx:36
 msgid "The Copyright Policy has been moved to <0/>"
 msgstr "著作權政策已移動到 <0/>"
 
@@ -8774,7 +8774,7 @@ msgstr "您當地的法律要求需要驗證您已成年後，才能存取 Blues
 msgid "The open social network."
 msgstr "一個開放的社群網路。"
 
-#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/screens/PrivacyPolicy.tsx:39
 msgid "The Privacy Policy has been moved to <0/>"
 msgstr "隱私權政策已移動到 <0/>"
 
@@ -8800,7 +8800,7 @@ msgstr "內容選單對應的話題"
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
 msgstr "支援表單已移至別處。如果需要協助，請<0/>或前往 {HELP_DESK_URL} 與我們聯絡。"
 
-#: src/view/screens/TermsOfService.tsx:35
+#: src/view/screens/TermsOfService.tsx:39
 msgid "The Terms of Service have been moved to"
 msgstr "服務條款已移動到"
 
@@ -8854,7 +8854,7 @@ msgstr "取得應用程式專用密碼時發生問題"
 msgid "There was an issue fetching your lists. Tap here to try again."
 msgstr "取得列表時發生問題，按這裡重試。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:108
 msgid "There was an issue fetching your service info"
 msgstr "取得您的服務資訊時發生問題"
 
@@ -9018,11 +9018,11 @@ msgstr "這個動態源空空如也。"
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
 msgstr "這個動態源已經不再提供服務。我們將改為顯示「<0>Discover</0>」動態源。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:603
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:604
 msgid "This handle is reserved. Please try a different one."
 msgstr "這個帳號代碼已被保留，請選擇不同的代碼再試一次。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:45
+#: src/components/dialogs/BirthDateSettings.tsx:46
 msgid "This information is private and not shared with other users."
 msgstr "這項資訊將不會分享給其他用戶。"
 
@@ -9099,7 +9099,7 @@ msgstr "這則回覆將被折疊到您討論串底部的隱藏部分，並將為
 msgid "This service has not provided terms of service or a privacy policy."
 msgstr "這個服務尚未提供服務條款或隱私權政策。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:466
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:467
 msgid "This should create a domain record at:"
 msgstr "這應該會在下列位置建立一個網域名稱記錄："
 
@@ -9264,7 +9264,7 @@ msgstr "再試一次"
 msgid "TV"
 msgstr "電視節目"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:65
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:66
 msgid "Two-factor authentication (2FA)"
 msgstr "雙重驗證 (2FA)"
 
@@ -9272,7 +9272,7 @@ msgstr "雙重驗證 (2FA)"
 msgid "Type your message here"
 msgstr "在這裡輸入訊息"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:442
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:443
 msgid "Type:"
 msgstr "類型："
 
@@ -9383,7 +9383,7 @@ msgstr "取消跟隨帳號"
 msgid "Unfollows the user"
 msgstr "取消跟隨用戶"
 
-#: src/components/BlockedGeoOverlay.tsx:48
+#: src/components/BlockedGeoOverlay.tsx:49
 msgid "Unfortunately, Bluesky is unavailable in Mississippi right now."
 msgstr "抱歉，Bluesky 目前無法在密西西比州提供服務。"
 
@@ -9527,8 +9527,8 @@ msgstr "要把 <0> {displayName} </0> 新增到或刪除自哪些列表？"
 msgid "Update email"
 msgstr "更新電子信箱"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:536
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:557
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:537
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:558
 msgid "Update to {domain}"
 msgstr "變更至 {domain}"
 
@@ -9554,7 +9554,7 @@ msgstr "更新中……"
 msgid "Upload a photo instead"
 msgstr "或是上傳圖片"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:482
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:483
 msgid "Upload a text file to:"
 msgstr "上傳文字檔案至："
 
@@ -9594,7 +9594,7 @@ msgstr "正在上傳影片……"
 msgid "Use app passwords to sign in to other Bluesky clients without giving full access to your account or password."
 msgstr "使用應用程式專用密碼來登入其他 Bluesky 用戶端，而不必提供完整的帳號權限或密碼。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:568
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
 msgid "Use default provider"
 msgstr "使用預設服務提供者"
 
@@ -9714,7 +9714,7 @@ msgstr "「{0}」中的用戶"
 msgid "Users you follow"
 msgstr "您跟隨的用戶"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:448
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:449
 msgid "Value:"
 msgstr "值："
 
@@ -9758,8 +9758,8 @@ msgctxt "action"
 msgid "Verify code"
 msgstr "驗證代碼"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:538
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:559
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:560
 msgid "Verify DNS Record"
 msgstr "驗證 DNS 紀錄"
 
@@ -9777,8 +9777,8 @@ msgstr "驗證電子信箱對話框"
 msgid "Verify now"
 msgstr "開始驗證"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:561
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:540
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:562
 msgid "Verify Text File"
 msgstr "驗證文字檔案"
 
@@ -9804,8 +9804,8 @@ msgstr "正在驗證"
 msgid "Verifying your age assurance status"
 msgstr "正在確認您的年齡驗證狀態"
 
-#: src/screens/Settings/AboutSettings.tsx:126
-#: src/screens/Settings/AboutSettings.tsx:155
+#: src/screens/Settings/AboutSettings.tsx:128
+#: src/screens/Settings/AboutSettings.tsx:157
 msgid "Version {0}"
 msgstr "版本 {0}"
 
@@ -10077,7 +10077,7 @@ msgstr "我們已向 <0>{0}</0> 傳送了一封包含連結的郵件。請打開
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
 msgstr "我們無法確定您是否有上傳影片的權限。請稍後再試。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:57
+#: src/components/dialogs/BirthDateSettings.tsx:58
 msgid "We were unable to load your birth date preferences. Please try again."
 msgstr "我們無法載入您的出生日期偏好設定，請再試一次。"
 
@@ -10105,11 +10105,11 @@ msgstr "我們將向 <0>{0}</0> 傳送一封含有連結的郵件。請查看郵
 msgid "We'll use this to help customize your experience."
 msgstr "我們將使用這些資訊來協助訂製您的體驗。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:139
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:147
 msgid "We're also updating our <0>Community Guidelines</0>, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr "我們也在改進<0>社群準則</0>，希望能得到您的意見！新的準則將於 2025 年 10 月 15 日生效。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:82
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:90
 msgid "We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr "我們也在改進社群準則，希望能得到您的意見！新的準則將於 2025 年 10 月 15 日生效。"
 
@@ -10130,7 +10130,7 @@ msgstr "我們遇到了網路問題，請再試一次"
 msgid "We’re introducing a new layer of verification on Bluesky — an easy-to-see checkmark."
 msgstr "為您介紹 Bluesky 的全新驗證機制 —— 驗證標記。"
 
-#: src/screens/Signup/index.tsx:123
+#: src/screens/Signup/index.tsx:126
 msgid "We're so excited to have you join us!"
 msgstr "我們非常高興您加入我們！"
 
@@ -10138,7 +10138,7 @@ msgstr "我們非常高興您加入我們！"
 msgid "We're sorry, but based on your device's location, you are currently located in a region that requires age assurance."
 msgstr "很抱歉，根據裝置回報的位置資訊，您所處的地區需要完成年齡驗證。"
 
-#: src/components/BlockedGeoOverlay.tsx:159
+#: src/components/BlockedGeoOverlay.tsx:160
 msgid "We're sorry, but based on your device's location, you are currently located in a region where we cannot provide access at this time."
 msgstr "很抱歉，根據裝置回報的位置資訊，我們無法在您所處的區域提供服務。"
 
@@ -10167,19 +10167,19 @@ msgstr "很抱歉！我們找不到您正在尋找的頁面。"
 msgid "We're sorry! You can only subscribe to twenty labelers, and you've reached your limit of twenty."
 msgstr "抱歉！目前最多只能訂閱 20 位標記服務，您已經達到上限。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:122
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:130
 msgid "We’re updating our <0>Terms of Service</0>, <1>Privacy Policy</1>, and <2>Copyright Policy</2>, effective September 15th, 2025."
 msgstr "我們正在更新<0>服務條款</0>、<1>隱私權政策</1>，以及<2>著作權政策</2>，自 2025 年 9 月 15 日起生效。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:63
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:71
 msgid "We're updating our policies"
 msgstr "我們正在更新政策"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:76
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:84
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025."
 msgstr "我們正在更新服務條款、隱私權政策，以及著作權政策，自 2025 年 9 月 15 日起生效。"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:61
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:69
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025. We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025. Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr "我們正在更新服務條款、隱私權政策，以及著作權政策，自 2025 年 9 月 15 日起生效。我們也在改進社群準則，希望能得到您的意見！新的準則將於 2025 年 10 月 15 日生效。您可以閱讀我們的部落格文章，瞭解有關這些變化的更多資訊，以及如何與我們分享您的想法。"
 
@@ -10204,7 +10204,7 @@ msgid "What do you want to call your starter pack?"
 msgstr "您想怎麼命名這個新手包？"
 
 #: src/view/com/auth/SplashScreen.tsx:38
-#: src/view/com/auth/SplashScreen.web.tsx:99
+#: src/view/com/auth/SplashScreen.web.tsx:100
 #: src/view/com/composer/Composer.tsx:812
 msgid "What's up?"
 msgstr "發生了什麼新鮮事？"
@@ -10240,7 +10240,7 @@ msgstr "咦？"
 msgid "Whoops! Trending videos failed to load."
 msgstr "唉呀！無法載入熱門影片。"
 
-#: src/screens/Takendown.tsx:173
+#: src/screens/Takendown.tsx:174
 msgid "Why are you appealing?"
 msgstr "為什麼您要申請上訴？"
 
@@ -10297,7 +10297,7 @@ msgstr "撰寫您的回覆"
 msgid "Writers"
 msgstr "作家"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:366
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:367
 msgid "Wrong DID returned from server. Received: {0}"
 msgstr "伺服器返回了錯誤的 DID。接收到的 DID: {0}"
 
@@ -10392,7 +10392,7 @@ msgstr "您已得到驗證"
 msgid "You are verified. You will lose your verification status if you change your display name. <0>Learn more.</0>"
 msgstr "您已得到驗證。一旦您修改名稱，將會失去驗證狀態。<0>瞭解詳情。</0>"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:208
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:209
 msgid "You are verified. You will lose your verification status if you change your handle. <0>Learn more.</0>"
 msgstr "您已得到驗證。一旦您修改帳號代碼，將會失去驗證狀態。<0>瞭解詳情。</0>"
 
@@ -10588,7 +10588,7 @@ msgstr "您最多只能新增 3 個動態源"
 msgid "You must be 13 years of age or older to create an account."
 msgstr "您必須年滿 13 歲才能建立帳號。"
 
-#: src/components/dialogs/BirthDateSettings.tsx:131
+#: src/components/dialogs/BirthDateSettings.tsx:132
 msgid "You must be at least 13 years old to use Bluesky. Read our <0>Terms of Service</0> for more information."
 msgstr "您必須年滿 13 歲才能使用 Bluesky。請閱讀我們的<0>服務條款</0>以了解詳細資訊。"
 
@@ -10674,11 +10674,11 @@ msgstr "您：{defaultEmbeddedContentMessage}"
 msgid "You: {short}"
 msgstr "您：{short}"
 
-#: src/screens/Signup/index.tsx:139
+#: src/screens/Signup/index.tsx:142
 msgid "You'll follow the suggested users and feeds once you finish creating your account!"
 msgstr "當您完成建立帳號後，您將會自動跟隨建議的用戶和動態源！"
 
-#: src/screens/Signup/index.tsx:144
+#: src/screens/Signup/index.tsx:147
 msgid "You'll follow the suggested users once you finish creating your account!"
 msgstr "當您完成建立帳號後，您將會自動跟隨建議的用戶！"
 
@@ -10748,7 +10748,7 @@ msgstr "您已達到每日影片上傳限制 (影片數過多)"
 msgid "You've run out of videos to watch. Maybe it's a good time to take a break?"
 msgstr "您已經看完了所有影片。也許是時候休息一下？"
 
-#: src/screens/Signup/index.tsx:173
+#: src/screens/Signup/index.tsx:176
 msgid "Your account"
 msgstr "您的帳號"
 
@@ -10756,7 +10756,7 @@ msgstr "您的帳號"
 msgid "Your account has been deleted"
 msgstr "您的帳號已刪除"
 
-#: src/screens/Takendown.tsx:146
+#: src/screens/Takendown.tsx:147
 msgid "Your account has been suspended"
 msgstr "您的帳號已被停權"
 
@@ -10768,11 +10768,11 @@ msgstr "您的帳號註冊時間太短，暫時無法上傳影片。請稍後再
 msgid "Your account repository, containing all public data records, can be downloaded as a \"CAR\" file. This file does not include media embeds, such as images, or your private data, which must be fetched separately."
 msgstr "您可以將帳號的所有公開資料匯出為一個「CAR」檔案。但請注意，這不包括嵌入媒體 (如圖片和影片) 或私人資料，這些資料需要另外擷取。"
 
-#: src/screens/Takendown.tsx:214
+#: src/screens/Takendown.tsx:215
 msgid "Your account was found to be in violation of the <0>Bluesky Social Terms of Service</0>. You have been sent an email outlining the specific violation and suspension period, if applicable. You can appeal this decision if you believe it was made in error."
 msgstr "您的帳號被判定違反了 <0>Bluesky Social 服務條款</0>。您應該已收到一封電子郵件，其中包含具體的違規事項和停權期限。如果您對此決策有異議，可以隨時提出上訴。"
 
-#: src/screens/Takendown.tsx:154
+#: src/screens/Takendown.tsx:155
 msgid "Your appeal has been submitted. If your appeal succeeds, you will receive an email."
 msgstr "已提交您的申訴。如果上訴成功，我們會透過電子郵件通知您。"
 
@@ -10792,7 +10792,7 @@ msgstr "您的對話功能已被停用"
 msgid "Your choice will be remembered for future links. You can change it at any time in settings."
 msgstr "您的選項將會套用於今後開啟的連結。隨時都可以在設定中變更開啟方式。"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:523
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:524
 msgid "Your current handle <0>{0}</0> will automatically remain reserved for you. You can switch back to it at any time from this account."
 msgstr "您現在使用的帳號代碼 <0>{0}</0> 將自動為您保留。您可以在日後隨時切換回來。"
 
@@ -10829,7 +10829,7 @@ msgstr "您的跟隨者"
 msgid "Your following feed is empty! Follow more users to see what's happening."
 msgstr "您的「Following」動態源看起來空蕩蕩的。快去跟隨更多用戶，看看發生了什麼新鮮事吧！"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:245
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:246
 msgid "Your full handle will be <0>@{0}</0>"
 msgstr "您的完整帳號代碼將修改為 <0>@{0}</0>"
 

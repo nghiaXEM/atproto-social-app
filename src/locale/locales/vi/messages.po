@@ -81,7 +81,7 @@ msgstr "{0, plural, other {# giây}}"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:225
 #: src/view/shell/bottom-bar/BottomBar.tsx:257
-#: src/view/shell/Drawer.tsx:498
+#: src/view/shell/Drawer.tsx:499
 msgid "{0, plural, one {# unread item} other {# unread items}}"
 msgstr "{0, plural, other {# mục chưa đọc}}"
 
@@ -473,11 +473,11 @@ msgctxt "feeds"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
 msgstr "<0>{0}, </0><1>{1}, </1>và {2, plural, other {# người khác}} nằm trong trong gói khởi đầu của bạn"
 
-#: src/view/shell/Drawer.tsx:117
+#: src/view/shell/Drawer.tsx:118
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
 msgstr "<0>{0}</0> {1, plural, other {người theo dõi}}"
 
-#: src/view/shell/Drawer.tsx:128
+#: src/view/shell/Drawer.tsx:129
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
 msgstr "<0>{0}</0> {1, plural, other {đang theo dõi}}"
 
@@ -539,7 +539,7 @@ msgstr "một tin nhắn"
 msgid "A new form of verification"
 msgstr "Một dạng xác thực hoàn toàn mới"
 
-#: src/components/BlockedGeoOverlay.tsx:50
+#: src/components/BlockedGeoOverlay.tsx:51
 msgid "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
 msgstr "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
 
@@ -778,7 +778,7 @@ msgstr "Thêm bảng tin từ gói khởi đầu của bạn!"
 msgid "Add the default feed of only people you follow"
 msgstr "Thêm bảng tin mặc định chỉ bao gồm người bạn theo dõi"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:416
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:417
 msgid "Add the following DNS record to your domain:"
 msgstr "Thêm bản ghi DNS sau vào tên miền của bạn:"
 
@@ -908,7 +908,7 @@ msgid "Allow new messages from"
 msgstr "Cho phép tin nhắn mới từ"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:52
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:92
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:93
 msgid "Allow others to be notified of your posts"
 msgstr ""
 
@@ -930,7 +930,7 @@ msgstr "Cho phép truy cập tin nhắn"
 msgid "Already have a code?"
 msgstr "Bạn đã có mã rồi?"
 
-#: src/components/WelcomeModal.tsx:189
+#: src/components/WelcomeModal.tsx:190
 msgid "Already have an account?"
 msgstr ""
 
@@ -1074,7 +1074,7 @@ msgstr "Động vật"
 msgid "Animated GIF"
 msgstr "GIF động"
 
-#: src/components/BlockedGeoOverlay.tsx:104
+#: src/components/BlockedGeoOverlay.tsx:105
 #: src/components/PolicyUpdateOverlay/Badge.tsx:33
 msgid "Announcement"
 msgstr ""
@@ -1094,7 +1094,7 @@ msgstr "Mọi người có thể tương tác"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:111
 #: src/screens/Settings/ActivityPrivacySettings.tsx:116
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:163
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:164
 msgid "Anyone who follows me"
 msgstr ""
 
@@ -1130,8 +1130,8 @@ msgstr "Mật khẩu ứng ụng chỉ chứa chữ cái, số, dấu cách, d�
 msgid "App password names must be at least 4 characters long"
 msgstr "Mật khẩu ứng dụng phải dài tối thiểu 4 ký tự"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:72
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:75
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:73
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:76
 msgid "App passwords"
 msgstr "Mật khẩu ứng dụng"
 
@@ -1155,12 +1155,12 @@ msgctxt "toast"
 msgid "Appeal submitted"
 msgstr "Kháng nghị đã được gửi"
 
-#: src/screens/Takendown.tsx:111
-#: src/screens/Takendown.tsx:144
+#: src/screens/Takendown.tsx:112
+#: src/screens/Takendown.tsx:145
 msgid "Appeal suspension"
 msgstr "Khiếu nại việc đình chỉ"
 
-#: src/screens/Takendown.tsx:114
+#: src/screens/Takendown.tsx:115
 msgid "Appeal Suspension"
 msgstr "Khiếu nại việc đình chỉ"
 
@@ -1250,7 +1250,7 @@ msgstr "Nghệ thuật"
 msgid "Artistic or non-erotic nudity."
 msgstr "Khỏa thân nghệ thuật hoặc không khiêu dâm."
 
-#: src/components/BlockedGeoOverlay.tsx:53
+#: src/components/BlockedGeoOverlay.tsx:54
 msgid "As a small team, we cannot justify building the expensive infrastructure this requirement demands while legal challenges to this law are pending."
 msgstr ""
 
@@ -1344,7 +1344,7 @@ msgstr ""
 msgid "Begin the age assurance process by completing the fields below."
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:115
+#: src/components/dialogs/BirthDateSettings.tsx:116
 #: src/screens/Settings/AccountSettings.tsx:142
 msgid "Birthday"
 msgstr "Ngày sinh"
@@ -1438,12 +1438,12 @@ msgstr "Việc chặn là công khai. Tài khoản bị chặng không thể tr�
 msgid "Blocking will not prevent labels from being applied on your account, but it will stop this account from replying in your threads or interacting with you."
 msgstr "Việc chặn không ngăn nhãn gắn trên tài khoản của bạn, nhưng sẽ ngăn tài khoản này trả lời trong bài đăng của bạn hoặc tương tác với bạn."
 
-#: src/view/com/auth/SplashScreen.web.tsx:175
+#: src/view/com/auth/SplashScreen.web.tsx:176
 msgid "Blog"
 msgstr "Blog"
 
-#: src/view/com/auth/server-input/index.tsx:136
 #: src/view/com/auth/server-input/index.tsx:137
+#: src/view/com/auth/server-input/index.tsx:138
 msgid "Bluesky"
 msgstr "Bluesky"
 
@@ -1456,11 +1456,11 @@ msgctxt "Name of app icon variant"
 msgid "Bluesky Classic™"
 msgstr "Bluesky Classic™"
 
-#: src/view/com/auth/server-input/index.tsx:212
+#: src/view/com/auth/server-input/index.tsx:213
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
 msgstr "Bluesky là mạng mở nơi bạn có thể chọn nhà cung cấp dịch vụ lưu trữ của mình. Nếu bạn là nhà phát triển, bạn có thể tự lưu trữ máy chủ của mình."
 
-#: src/view/com/auth/server-input/index.tsx:149
+#: src/view/com/auth/server-input/index.tsx:150
 msgid "Bluesky is an open network where you can choose your own provider. If you're new here, we recommend sticking with the default Bluesky Social option."
 msgstr "Bluesky là một mạng xã hội mở, nơi bạn có thể tự chọn nơi quản lý tài khoản của mình. Nếu bạn mới tham gia, chúng tôi khuyên bạn nên sử dụng tùy chọn mặc định là Bluesky Social."
 
@@ -1469,7 +1469,7 @@ msgstr "Bluesky là một mạng xã hội mở, nơi bạn có thể tự chọ
 msgid "Bluesky is better with friends!"
 msgstr "Bluesky cùng bạn bè sẽ vui hơn!"
 
-#: src/screens/Takendown.tsx:217
+#: src/screens/Takendown.tsx:218
 msgid "Bluesky Social Terms of Service"
 msgstr "Điều khoản Dịch vụ của Bluesky Social"
 
@@ -1556,7 +1556,7 @@ msgstr "Xem chủ đề {0}"
 msgid "Browse topic {displayName}"
 msgstr "Tìm chủ đề {displayName}"
 
-#: src/view/com/auth/SplashScreen.web.tsx:170
+#: src/view/com/auth/SplashScreen.web.tsx:171
 msgid "Business"
 msgstr "Doanh nghiệp"
 
@@ -1571,7 +1571,7 @@ msgstr "Bởi {0}"
 msgid "By <0>{0}</0>"
 msgstr "Bởi <0>{0}</0>"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:181
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:189
 msgid "By clicking \"Continue\" you acknowledge that you understand and agree to these updates."
 msgstr ""
 
@@ -1620,13 +1620,13 @@ msgstr "Máy ảnh"
 #: src/screens/Search/Shell.tsx:349
 #: src/screens/Settings/AppIconSettings/index.tsx:44
 #: src/screens/Settings/AppIconSettings/index.tsx:225
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:78
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:85
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:79
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:86
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:246
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:252
 #: src/screens/Settings/Settings.tsx:289
-#: src/screens/Takendown.tsx:99
-#: src/screens/Takendown.tsx:102
+#: src/screens/Takendown.tsx:100
+#: src/screens/Takendown.tsx:103
 #: src/view/com/composer/Composer.tsx:1005
 #: src/view/com/composer/Composer.tsx:1016
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:43
@@ -1698,8 +1698,8 @@ msgstr "Thay đổi biểu tượng ứng dụng sang \"{0}\""
 msgid "Change app language"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:94
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:98
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:95
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:99
 msgid "Change Handle"
 msgstr "Thay đổi tên tài khoản"
 
@@ -1745,7 +1745,7 @@ msgstr ""
 #: src/Navigation.tsx:549
 #: src/view/shell/bottom-bar/BottomBar.tsx:221
 #: src/view/shell/desktop/LeftNav.tsx:607
-#: src/view/shell/Drawer.tsx:466
+#: src/view/shell/Drawer.tsx:467
 msgid "Chat"
 msgstr "Chat"
 
@@ -1815,7 +1815,7 @@ msgstr "Kiểm tra email của bạn để tìm mã đăng nhập và nhập nó
 msgid "Check your inbox for an email with the confirmation code to enter below:"
 msgstr "Kiểm tra hộp thư đến của bạn để nhận email với mã xác nhận để nhập ở dưới đây:"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:399
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:400
 msgid "Choose domain verification method"
 msgstr "Chọn phương pháp xác minh tên miền"
 
@@ -1843,7 +1843,7 @@ msgstr "Chọn thuật toán để vận hành các bảng tin tùy chỉnh củ
 msgid "Choose this color as your avatar"
 msgstr "Chọn màu này làm hình đại diện của bạn"
 
-#: src/view/com/auth/server-input/index.tsx:130
+#: src/view/com/auth/server-input/index.tsx:131
 msgid "Choose your account provider"
 msgstr "Chọn nơi quản lý tài khoản của bạn"
 
@@ -1855,7 +1855,7 @@ msgstr "Chọn bảng tin của riêng bạn! Các bảng tin được xây dự
 msgid "Choose your password"
 msgstr "Chọn mật khẩu của bạn"
 
-#: src/screens/Signup/index.tsx:175
+#: src/screens/Signup/index.tsx:178
 msgid "Choose your username"
 msgstr "Chọn tên người dùng của bạn"
 
@@ -1867,8 +1867,8 @@ msgstr "Xóa tất cả dữ liệu lưu trữ"
 msgid "Clear all storage data (restart after this)"
 msgstr "Xóa tất cả dữ liệu lưu trữ (khởi động lại sau đó)"
 
-#: src/screens/Settings/AboutSettings.tsx:116
-#: src/screens/Settings/AboutSettings.tsx:120
+#: src/screens/Settings/AboutSettings.tsx:118
+#: src/screens/Settings/AboutSettings.tsx:122
 msgid "Clear image cache"
 msgstr "Xoá bộ nhớ đệm hình ảnh"
 
@@ -2007,7 +2007,7 @@ msgstr "Đóng bảng chọn"
 msgid "Close this dialog"
 msgstr "Đóng hộp thoại này"
 
-#: src/components/WelcomeModal.tsx:214
+#: src/components/WelcomeModal.tsx:215
 msgid "Close welcome modal"
 msgstr ""
 
@@ -2055,9 +2055,9 @@ msgstr "Hài kịch"
 msgid "Comics"
 msgstr "Truyện tranh"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:51
 #: src/Navigation.tsx:341
-#: src/view/screens/CommunityGuidelines.tsx:34
+#: src/view/screens/CommunityGuidelines.tsx:35
 msgid "Community Guidelines"
 msgstr "Quy tắc cộng đồng"
 
@@ -2066,7 +2066,7 @@ msgstr "Quy tắc cộng đồng"
 msgid "Complete onboarding and start using your account"
 msgstr "Hoàn thành quá trình hướng dẫn và bắt đầu sử dụng tài khoản của bạn"
 
-#: src/screens/Signup/index.tsx:177
+#: src/screens/Signup/index.tsx:180
 msgid "Complete the challenge"
 msgstr "Hoàn thành thử thách"
 
@@ -2118,14 +2118,14 @@ msgid "Confirm your birthdate"
 msgstr "Xác nhận ngày sinh của bạn"
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:89
-#: src/components/BlockedGeoOverlay.tsx:141
-#: src/components/BlockedGeoOverlay.tsx:147
+#: src/components/BlockedGeoOverlay.tsx:142
+#: src/components/BlockedGeoOverlay.tsx:148
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:45
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:112
 msgid "Confirm your location"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:135
+#: src/components/BlockedGeoOverlay.tsx:136
 msgid "Confirm your location with GPS. Your location data is not tracked and does not leave your device."
 msgstr ""
 
@@ -2154,8 +2154,8 @@ msgid "Contact our moderation team"
 msgstr ""
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:155
-#: src/screens/Signup/index.tsx:212
 #: src/screens/Signup/index.tsx:215
+#: src/screens/Signup/index.tsx:218
 msgid "Contact support"
 msgstr "Liên hệ hỗ trợ"
 
@@ -2214,8 +2214,8 @@ msgstr "Cảnh báo nội dung"
 msgid "Context menu backdrop, click to close the menu."
 msgstr "Nền trình đơn, nhấn để đóng trình đơn."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:162
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:170
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:178
 #: src/screens/Onboarding/StepInterests/index.tsx:254
 #: src/screens/Onboarding/StepProfile/index.tsx:280
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:246
@@ -2263,7 +2263,7 @@ msgstr "Nấu ăn"
 msgid "Copied"
 msgstr "Đã sao chép"
 
-#: src/screens/Settings/AboutSettings.tsx:151
+#: src/screens/Settings/AboutSettings.tsx:153
 msgid "Copied build version to clipboard"
 msgstr "Đã sao chép phiên bản xây dựng vào bảng ghi tạm"
 
@@ -2282,7 +2282,7 @@ msgstr "Đã sao chép vào bảng ghi tạm"
 msgid "Copied!"
 msgstr "Đã sao chép!"
 
-#: src/screens/Settings/AboutSettings.tsx:127
+#: src/screens/Settings/AboutSettings.tsx:129
 msgid "Copies build version to clipboard"
 msgstr "Sao chép mã số phiên bản vào bản ghi tạm"
 
@@ -2309,13 +2309,13 @@ msgstr "Sao chép mã DID của tác giả"
 msgid "Copy code"
 msgstr "Sao chép mã"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:501
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:502
 #: src/view/com/profile/ProfileMenu.tsx:442
 #: src/view/com/profile/ProfileMenu.tsx:445
 msgid "Copy DID"
 msgstr "Sao chép DID"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:434
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:435
 msgid "Copy host"
 msgstr "Sao chép máy chủ"
 
@@ -2367,14 +2367,14 @@ msgstr "Sao chép văn bản bài đăng"
 msgid "Copy QR code"
 msgstr "Sao chép mã QR"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:455
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:456
 msgid "Copy TXT record value"
 msgstr "Sao chép giá trị bản ghi TXT"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:107
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:115
 #: src/Navigation.tsx:346
-#: src/view/screens/CopyrightPolicy.tsx:31
+#: src/view/screens/CopyrightPolicy.tsx:32
 msgid "Copyright Policy"
 msgstr "Chính sách bản quyền"
 
@@ -2443,10 +2443,10 @@ msgstr "Tạo gói khởi đầu cho tôi"
 
 #: src/components/LoggedOutCTA.tsx:71
 #: src/components/LoggedOutCTA.tsx:76
-#: src/components/WelcomeModal.tsx:155
-#: src/components/WelcomeModal.tsx:163
+#: src/components/WelcomeModal.tsx:156
+#: src/components/WelcomeModal.tsx:164
 #: src/view/com/auth/SplashScreen.tsx:55
-#: src/view/com/auth/SplashScreen.web.tsx:117
+#: src/view/com/auth/SplashScreen.web.tsx:118
 #: src/view/shell/bottom-bar/BottomBar.tsx:345
 #: src/view/shell/bottom-bar/BottomBar.tsx:350
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:206
@@ -2456,7 +2456,7 @@ msgstr "Tạo gói khởi đầu cho tôi"
 msgid "Create account"
 msgstr "Tạo tài khoản"
 
-#: src/screens/Signup/index.tsx:122
+#: src/screens/Signup/index.tsx:125
 msgid "Create Account"
 msgstr "Tạo tài khoản"
 
@@ -2480,7 +2480,7 @@ msgid "Create another"
 msgstr "Tạo thêm"
 
 #: src/view/com/auth/SplashScreen.tsx:47
-#: src/view/com/auth/SplashScreen.web.tsx:109
+#: src/view/com/auth/SplashScreen.web.tsx:110
 msgid "Create new account"
 msgstr "Tạo tài khoản mới"
 
@@ -2507,8 +2507,8 @@ msgstr "Người tạo đã bị chặn"
 msgid "Culture"
 msgstr "Văn hóa"
 
-#: src/view/com/auth/server-input/index.tsx:142
 #: src/view/com/auth/server-input/index.tsx:143
+#: src/view/com/auth/server-input/index.tsx:144
 msgid "Custom"
 msgstr "Tùy chỉnh"
 
@@ -2697,12 +2697,12 @@ msgstr "Gỡ trích dẫn"
 msgid "Detach quote post?"
 msgstr "Gỡ trích dẫn bài đăng?"
 
-#: src/screens/Settings/AboutSettings.tsx:140
+#: src/screens/Settings/AboutSettings.tsx:142
 msgctxt "toast"
 msgid "Developer mode disabled"
 msgstr "Đã tắt chế độ dành cho nhà phát triển"
 
-#: src/screens/Settings/AboutSettings.tsx:134
+#: src/screens/Settings/AboutSettings.tsx:136
 msgctxt "toast"
 msgid "Developer mode enabled"
 msgstr "Đã bật chế độ dành cho nhà phát triển"
@@ -2819,8 +2819,8 @@ msgstr "Tên hiển thị"
 msgid "Ditch the trolls and clickbait. Find real people and conversations that matter to you."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:402
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:404
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:403
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:405
 msgid "DNS Panel"
 msgstr "Bảng DNS"
 
@@ -2832,7 +2832,7 @@ msgstr "Đừng áp dụng từ cấm này cho người dùng bạn đang theo d
 msgid "Does not include nudity."
 msgstr "Không chứa hình khỏa thân."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:517
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:518
 msgid "Domain verified!"
 msgstr "Tên miền đã được xác minh!"
 
@@ -2853,8 +2853,8 @@ msgstr ""
 msgid "Don't worry! All existing messages and settings are saved and will be available after you verify you're an adult."
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:150
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dms/ReportDialog.tsx:319
 #: src/components/forms/DateField/index.tsx:103
 #: src/components/forms/DateField/index.tsx:109
@@ -2864,8 +2864,8 @@ msgstr ""
 #: src/screens/Onboarding/StepProfile/index.tsx:336
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:215
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:222
-#: src/view/com/auth/server-input/index.tsx:232
-#: src/view/com/auth/server-input/index.tsx:233
+#: src/view/com/auth/server-input/index.tsx:235
+#: src/view/com/auth/server-input/index.tsx:236
 #: src/view/com/composer/labels/LabelsBtn.tsx:223
 #: src/view/com/composer/labels/LabelsBtn.tsx:230
 #: src/view/com/composer/select-language/PostLanguageSelectDialog.tsx:281
@@ -2916,7 +2916,7 @@ msgstr "Thả vào để thêm hình ảnh"
 msgid "Duration:"
 msgstr "Thời hạn:"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:236
 msgid "e.g. alice"
 msgstr "vd: alice"
 
@@ -2924,7 +2924,7 @@ msgstr "vd: alice"
 msgid "e.g. Alice Lastname"
 msgstr "vd: Alice Lastname"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:387
 msgid "e.g. alice.com"
 msgstr "vd: alice.com"
 
@@ -3069,7 +3069,7 @@ msgctxt "toast"
 msgid "Email 2FA disabled"
 msgstr "Đã tắt Email 2FA"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:63
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:64
 msgid "Email 2FA enabled"
 msgstr "Đã bật Email 2FA"
 
@@ -3199,7 +3199,7 @@ msgstr ""
 msgid "Enter fullscreen"
 msgstr "Vào chế độ toàn màn hình"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:380
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:381
 msgid "Enter the domain you want to use"
 msgstr "Nhập tên miền bạn muốn sử dụng"
 
@@ -3211,7 +3211,7 @@ msgstr "Nhập email bạn đã dùng để tạo tài khoản. Chúng tôi sẽ
 msgid "Enter the username or email address you used when you created your account"
 msgstr "Nhập tên tài khoản hoặc địa chỉ email bạn dùng khi đăng ký tài khoản"
 
-#: src/components/dialogs/BirthDateSettings.tsx:116
+#: src/components/dialogs/BirthDateSettings.tsx:117
 msgid "Enter your birth date"
 msgstr "Nhập ngày sinh của bạn"
 
@@ -3245,7 +3245,7 @@ msgstr "Lỗi"
 msgid "Error loading post"
 msgstr ""
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:154
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:155
 msgid "Error loading preference"
 msgstr ""
 
@@ -3384,12 +3384,12 @@ msgstr "Hình ảnh khiêu dâm."
 #: src/Navigation.tsx:759
 #: src/screens/Search/Shell.tsx:307
 #: src/view/shell/desktop/LeftNav.tsx:689
-#: src/view/shell/Drawer.tsx:414
+#: src/view/shell/Drawer.tsx:415
 msgid "Explore"
 msgstr "Khám phá"
 
-#: src/components/WelcomeModal.tsx:168
-#: src/components/WelcomeModal.tsx:177
+#: src/components/WelcomeModal.tsx:169
+#: src/components/WelcomeModal.tsx:178
 msgid "Explore the app"
 msgstr ""
 
@@ -3436,7 +3436,7 @@ msgstr "Đã xảy ra lỗi khi thêm bày tỏ cảm xúc"
 msgid "Failed to add to starter pack"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:597
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:598
 msgid "Failed to change handle. Please try again."
 msgstr "Không tạo được tên người dùng. Vui lòng thử lại."
 
@@ -3617,7 +3617,7 @@ msgstr "Không thể tải lên video"
 msgid "Failed to verify email, please try again."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:370
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:371
 msgid "Failed to verify handle. Please try again."
 msgstr "Không thể xác minh tên tài khoản. Vui lòng thử lại."
 
@@ -3650,9 +3650,9 @@ msgstr "Bật/tắt bảng tin"
 msgid "Feed unavailable"
 msgstr ""
 
-#: src/view/shell/desktop/RightNav.tsx:106
 #: src/view/shell/desktop/RightNav.tsx:107
-#: src/view/shell/Drawer.tsx:368
+#: src/view/shell/desktop/RightNav.tsx:108
+#: src/view/shell/Drawer.tsx:369
 msgid "Feedback"
 msgstr "Phản hồi"
 
@@ -3669,7 +3669,7 @@ msgstr ""
 #: src/view/screens/Profile.tsx:230
 #: src/view/screens/SavedFeeds.tsx:104
 #: src/view/shell/desktop/LeftNav.tsx:727
-#: src/view/shell/Drawer.tsx:530
+#: src/view/shell/Drawer.tsx:531
 msgid "Feeds"
 msgstr "Bảng tin"
 
@@ -3916,7 +3916,7 @@ msgstr "Kích cỡ phông chữ"
 msgid "Food"
 msgstr "Ăn uống"
 
-#: src/components/BlockedGeoOverlay.tsx:56
+#: src/components/BlockedGeoOverlay.tsx:57
 msgid "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
 msgstr "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
 
@@ -3984,7 +3984,7 @@ msgstr "Từ <0/>"
 msgid "Generate a starter pack"
 msgstr "Tạo gói khởi đầu"
 
-#: src/view/shell/Drawer.tsx:372
+#: src/view/shell/Drawer.tsx:373
 msgid "Get help"
 msgstr "Trợ giúp"
 
@@ -4178,16 +4178,16 @@ msgstr "Nửa đường rồi!"
 msgid "Handle"
 msgstr "Tên tài khoản"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:601
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:602
 msgid "Handle already taken. Please try a different one."
 msgstr "Tên tài khoản đã được sử dụng. Vui lòng thử tên khác."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:195
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:354
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:196
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:355
 msgid "Handle changed!"
 msgstr "Đã thay đổi tên tài khoản!"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:605
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:606
 msgid "Handle too long. Please try a shorter one."
 msgstr "Tên tài khoản quá dài. Vui lòng thử tên ngắn hơn."
 
@@ -4213,15 +4213,15 @@ msgstr "Hashtag {tag}"
 msgid "Have a code? <0>Click here.</0>"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:210
+#: src/screens/Signup/index.tsx:213
 msgid "Having trouble?"
 msgstr "Gặp trục trặc?"
 
 #: src/screens/Settings/Settings.tsx:236
 #: src/screens/Settings/Settings.tsx:240
-#: src/view/shell/desktop/RightNav.tsx:124
-#: src/view/shell/desktop/RightNav.tsx:125
-#: src/view/shell/Drawer.tsx:381
+#: src/view/shell/desktop/RightNav.tsx:128
+#: src/view/shell/desktop/RightNav.tsx:129
+#: src/view/shell/Drawer.tsx:382
 msgid "Help"
 msgstr "Giúp đỡ"
 
@@ -4233,8 +4233,8 @@ msgstr "Giúp người khác biết bạn không phải là bot bằng cách t�
 msgid "Here is your app password!"
 msgstr "Đây là mật khẩu ứng dụng của bạn!"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:73
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:119
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:81
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:127
 msgid "Hey there 👋"
 msgstr ""
 
@@ -4366,11 +4366,11 @@ msgstr "Chờ nhé! Chúng tôi đang dần dần cấp quyền truy cập video
 #: src/Navigation.tsx:774
 #: src/view/shell/bottom-bar/BottomBar.tsx:178
 #: src/view/shell/desktop/LeftNav.tsx:671
-#: src/view/shell/Drawer.tsx:440
+#: src/view/shell/Drawer.tsx:441
 msgid "Home"
 msgstr "Trang chủ"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:427
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:428
 msgid "Host:"
 msgstr "Host:"
 
@@ -4393,8 +4393,8 @@ msgstr "Liên kết này nên được mở thế nào?"
 msgid "I have a code"
 msgstr "Tôi có mã"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:290
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:296
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:291
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:297
 msgid "I have my own domain"
 msgstr "Tôi có tên miền riêng"
 
@@ -4415,7 +4415,7 @@ msgstr "Nếu bạn không phải là người lớn theo luật pháp tại nư
 msgid "If you delete this list, you won't be able to recover it."
 msgstr "Danh sách không thể được khôi phục sau khi đã bị xóa."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:272
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:273
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
 msgstr "Nếu bạn có tên miền riêng, bạn có thể sử dụng nó làm tên người dùng. Điều này giúp bạn tự xác minh danh tính của mình. <0>Tìm hiểu thêm tại đây.</0>"
 
@@ -4439,7 +4439,7 @@ msgstr "Nếu bạn muốn thay đổi mật khẩu, chúng tôi sẽ gởi mã 
 msgid "If you want to restrict who can receive notifications for your account's activity, you can change this in <0>Settings → Privacy and Security</0>."
 msgstr ""
 
-#: src/view/com/auth/server-input/index.tsx:208
+#: src/view/com/auth/server-input/index.tsx:209
 msgid "If you're a developer, you can host your own server."
 msgstr "Nếu bạn là một lập trình viên, bạn có thể tự quản lý máy chủ riêng của mình."
 
@@ -4566,7 +4566,7 @@ msgstr ""
 msgid "Invalid 2FA confirmation code."
 msgstr "Mã xác nhận 2FA không hợp lệ"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:607
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:608
 msgid "Invalid handle. Please try a different one."
 msgstr "Tên người dùng không hợp lệ. Vui lòng thử tên khác."
 
@@ -4631,7 +4631,7 @@ msgid "Job ID: {0}"
 msgstr "ID công việc: {0}"
 
 #. Link to a page with job openings at Bluesky
-#: src/view/com/auth/SplashScreen.web.tsx:180
+#: src/view/com/auth/SplashScreen.web.tsx:181
 msgid "Jobs"
 msgstr "Công việc"
 
@@ -4730,8 +4730,8 @@ msgstr "Mới nhất"
 #: src/components/verification/VerifierDialog.tsx:137
 #: src/screens/Moderation/VerificationSettings.tsx:48
 #: src/screens/Profile/Header/EditProfileDialog.tsx:351
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:213
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:277
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:214
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:278
 msgctxt "english-only-resource"
 msgid "Learn more"
 msgstr ""
@@ -4744,11 +4744,11 @@ msgstr "Tìm hiểu thêm"
 msgid "Learn more about age assurance"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:168
+#: src/view/com/auth/SplashScreen.web.tsx:169
 msgid "Learn more about Bluesky"
 msgstr "Tìm hiểu thêm về Bluesky"
 
-#: src/view/com/auth/server-input/index.tsx:218
+#: src/view/com/auth/server-input/index.tsx:219
 msgid "Learn more about self hosting your PDS."
 msgstr "Tìm hiểu thêm về việc tự lưu trữ PDS của bạn."
 
@@ -4757,11 +4757,11 @@ msgstr "Tìm hiểu thêm về việc tự lưu trữ PDS của bạn."
 msgid "Learn more about the moderation applied to this content"
 msgstr "Tìm hiểu thêm về kiểm duyệt được áp dụng cho nội dung này"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:149
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:157
 msgid "Learn more about these changes and how to share your thoughts with us by <0>reading our blog post.</0>"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:89
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
 msgid "Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr ""
 
@@ -4776,8 +4776,8 @@ msgctxt "english-only-resource"
 msgid "Learn more about verification on Bluesky"
 msgstr "Learn more about verification on Bluesky"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:128
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:131
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:129
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:132
 msgid "Learn more about what is public on Bluesky."
 msgstr "Tìm hiểu thêm về những gì công khai trên Bluesky."
 
@@ -4786,7 +4786,7 @@ msgid "Learn more in your <0>account settings.</0>"
 msgstr ""
 
 #: src/components/moderation/ContentHider.tsx:242
-#: src/view/com/auth/server-input/index.tsx:220
+#: src/view/com/auth/server-input/index.tsx:223
 msgid "Learn more."
 msgstr "Tìm hiểu thêm."
 
@@ -4991,7 +4991,7 @@ msgstr "Đã đã bỏ ẩn toàn danh sách"
 #: src/view/screens/Profile.tsx:224
 #: src/view/screens/Profile.tsx:232
 #: src/view/shell/desktop/LeftNav.tsx:745
-#: src/view/shell/Drawer.tsx:545
+#: src/view/shell/Drawer.tsx:546
 msgid "Lists"
 msgstr "Danh sách"
 
@@ -5043,16 +5043,16 @@ msgstr "Đang tải..."
 msgid "Log"
 msgstr "Log"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:107
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:108
 msgid "Logged-out visibility"
 msgstr "Trạng thái hiển thị sau đăng xuất"
 
-#: src/view/shell/desktop/RightNav.tsx:134
+#: src/view/shell/desktop/RightNav.tsx:138
 msgid "Logo by @sawaratsuki.bsky.social"
 msgstr "Logo bởi @sawaratsuki.bsky.social"
 
-#: src/view/shell/desktop/RightNav.tsx:131
-#: src/view/shell/Drawer.tsx:709
+#: src/view/shell/desktop/RightNav.tsx:135
+#: src/view/shell/Drawer.tsx:713
 msgid "Logo by <0>@sawaratsuki.bsky.social</0>"
 msgstr "Logo bởi <0>@sawaratsuki.bsky.social</0>"
 
@@ -5393,8 +5393,8 @@ msgstr "Từ & thẻ bị ẩn"
 msgid "Muting is private. Muted accounts can interact with you, but you will not see their posts or receive notifications from them."
 msgstr "Việc ẩn là riêng tư. Tài khoản bị ẩn có thể tương tác với bạn nhưng bạn sẽ không thấy bài đăng của họ hoặc nhận thông báo từ họ."
 
-#: src/components/dialogs/BirthDateSettings.tsx:38
-#: src/components/dialogs/BirthDateSettings.tsx:42
+#: src/components/dialogs/BirthDateSettings.tsx:39
+#: src/components/dialogs/BirthDateSettings.tsx:43
 msgid "My Birthday"
 msgstr "Ngày sinh của tôi"
 
@@ -5440,7 +5440,7 @@ msgstr "Đi đến gói khởi đầu"
 msgid "Navigates to the next screen"
 msgstr "Điều hướng đến màn hình kế tiếp"
 
-#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:79
 msgid "Navigates to your profile"
 msgstr "Điều hướng đến hồ sơ của bạn"
 
@@ -5457,7 +5457,7 @@ msgstr "Cần báo cáo vi phạm bản quyền?"
 msgid "Never lose access to your followers or data."
 msgstr "Không bao giờ mất truy cập đến người theo dõi hoặc dữ liệu của bạn."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:577
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:578
 msgid "Nevermind, create a handle for me"
 msgstr "Thôi, tạo tên người dùng cho tôi"
 
@@ -5505,9 +5505,9 @@ msgstr ""
 msgid "New followers"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:226
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:234
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:385
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:227
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
 msgid "New handle"
 msgstr "Tên tài khoản mới"
 
@@ -5617,8 +5617,8 @@ msgstr ""
 msgid "No app passwords yet"
 msgstr "Chưa có mật khẩu ứng dụng nào"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:407
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:409
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:408
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:410
 msgid "No DNS Panel"
 msgstr "Không có bảng DNS"
 
@@ -5664,7 +5664,7 @@ msgstr "Chưa có thông báo nào!"
 #: src/screens/Messages/Settings.tsx:109
 #: src/screens/Settings/ActivityPrivacySettings.tsx:129
 #: src/screens/Settings/ActivityPrivacySettings.tsx:134
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:160
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:161
 msgid "No one"
 msgstr "Không ai"
 
@@ -5767,7 +5767,7 @@ msgstr "Không được theo dõi bởi một ai trong số những người mà
 msgid "Not Found"
 msgstr "Không tìm thấy"
 
-#: src/components/BlockedGeoOverlay.tsx:126
+#: src/components/BlockedGeoOverlay.tsx:127
 msgid "Not in Mississippi?"
 msgstr ""
 
@@ -5775,7 +5775,7 @@ msgstr ""
 msgid "Note about sharing"
 msgstr "Chú ý về việc chia sẻ"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:117
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:118
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
 msgstr "Chú ý: Bluesky là một trang mạng mở và công khai. Cài đặt này chỉ giới hạn trạng thái hiển thị nội dung của bạn trên ứng dụng và trang web Bluesky, các ứng dụng khác có thể không tôn trọng cài đặt này. Nội dung của bạn vẫn có thể được hiển thị bởi các ứng dụng và trang web khác cho người dùng sau đăng xuất."
 
@@ -5824,7 +5824,7 @@ msgstr "Âm thanh thông báo"
 #: src/view/screens/Notifications.tsx:130
 #: src/view/shell/bottom-bar/BottomBar.tsx:252
 #: src/view/shell/desktop/LeftNav.tsx:708
-#: src/view/shell/Drawer.tsx:493
+#: src/view/shell/Drawer.tsx:494
 msgid "Notifications"
 msgstr "Thông báo"
 
@@ -5923,7 +5923,7 @@ msgstr "Chỉ {0} có thể trả lời"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:120
 #: src/screens/Settings/ActivityPrivacySettings.tsx:125
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:158
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:159
 msgid "Only followers who I follow"
 msgstr ""
 
@@ -5943,7 +5943,7 @@ msgstr "Ôi, có gì đó không đúng!"
 #: src/components/StarterPack/ProfileStarterPacks.tsx:332
 #: src/components/StarterPack/ProfileStarterPacks.tsx:341
 #: src/screens/Settings/AppPasswords.tsx:59
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:106
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
 #: src/view/screens/Profile.tsx:125
 msgid "Oops!"
 msgstr "Ôi!"
@@ -6071,12 +6071,12 @@ msgid "Opens emoji picker"
 msgstr "Mở trình chọn emoji"
 
 #: src/view/com/auth/SplashScreen.tsx:49
-#: src/view/com/auth/SplashScreen.web.tsx:111
+#: src/view/com/auth/SplashScreen.web.tsx:112
 msgid "Opens flow to create a new Bluesky account"
 msgstr "Mở quy trình tạo tài khoản Bluesky mới"
 
 #: src/view/com/auth/SplashScreen.tsx:63
-#: src/view/com/auth/SplashScreen.web.tsx:125
+#: src/view/com/auth/SplashScreen.web.tsx:126
 msgid "Opens flow to sign in to your existing Bluesky account"
 msgstr "Mở quy trình đăng nhập vào tài khoản Bluesky hiện tại của bạn"
 
@@ -6160,7 +6160,7 @@ msgstr "Khác"
 msgid "Other account"
 msgstr "Tài khoản khác"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:50
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:58
 msgid "Our blog post"
 msgstr ""
 
@@ -6622,8 +6622,8 @@ msgstr "Ngôn ngữ chính"
 msgid "Prioritize your Follows"
 msgstr "Ưu tiên người bạn theo dõi"
 
-#: src/view/shell/desktop/RightNav.tsx:114
-#: src/view/shell/desktop/RightNav.tsx:115
+#: src/view/shell/desktop/RightNav.tsx:118
+#: src/view/shell/desktop/RightNav.tsx:119
 msgid "Privacy"
 msgstr "Quyền riêng tư"
 
@@ -6635,7 +6635,7 @@ msgstr "Quyền riêng tư và bảo mật"
 #: src/Navigation.tsx:407
 #: src/Navigation.tsx:415
 #: src/screens/Settings/ActivityPrivacySettings.tsx:40
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:45
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:46
 msgid "Privacy and Security"
 msgstr "Quyền riêng tư và bảo mật"
 
@@ -6643,14 +6643,14 @@ msgstr "Quyền riêng tư và bảo mật"
 msgid "Privacy and Security settings"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:35
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:102
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:110
 #: src/Navigation.tsx:331
-#: src/screens/Settings/AboutSettings.tsx:92
-#: src/screens/Settings/AboutSettings.tsx:95
-#: src/view/screens/PrivacyPolicy.tsx:31
-#: src/view/shell/Drawer.tsx:704
-#: src/view/shell/Drawer.tsx:705
+#: src/screens/Settings/AboutSettings.tsx:94
+#: src/screens/Settings/AboutSettings.tsx:97
+#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/shell/Drawer.tsx:708
+#: src/view/shell/Drawer.tsx:709
 msgid "Privacy Policy"
 msgstr "Chính sách bảo mật"
 
@@ -6670,8 +6670,8 @@ msgstr "hồ sơ"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:316
 #: src/view/shell/desktop/LeftNav.tsx:786
-#: src/view/shell/Drawer.tsx:77
-#: src/view/shell/Drawer.tsx:596
+#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:597
 msgid "Profile"
 msgstr "Hồ sơ"
 
@@ -6781,7 +6781,7 @@ msgstr "Trích dẫn"
 msgid "Quotes of this post"
 msgstr "Trích dẫn của bài đăng này"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:610
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:611
 msgid "Rate limit exceeded – you've tried to change your handle too many times in a short period. Please wait a minute before trying again."
 msgstr "Vượt quá giới hạn - bạn đã thử thay đổi tên người dùng quá nhiều lần trong thời gian ngắn. Vui lòng chờ một chút trước khi thử lại."
 
@@ -6819,12 +6819,12 @@ msgstr "Xem thêm"
 msgid "Read more replies"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:112
+#: src/components/BlockedGeoOverlay.tsx:41
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:120
 msgid "Read our blog post"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:173
+#: src/view/com/auth/SplashScreen.web.tsx:174
 msgid "Read the Bluesky blog"
 msgstr "Đọc blog của Bluesky"
 
@@ -6838,16 +6838,16 @@ msgstr "Đọc Chính sách bảo mật của Bluesky"
 msgid "Read the Bluesky Terms of Service"
 msgstr "Đọc Điều khoản dịch vụ của Bluesky"
 
-#: src/components/WelcomeModal.tsx:146
+#: src/components/WelcomeModal.tsx:147
 msgid "Real conversations."
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:144
+#: src/components/WelcomeModal.tsx:145
 msgid "Real people."
 msgstr ""
 
-#: src/screens/Takendown.tsx:162
-#: src/screens/Takendown.tsx:170
+#: src/screens/Takendown.tsx:163
+#: src/screens/Takendown.tsx:171
 msgid "Reason for appeal"
 msgstr "Lý do khiếu nại"
 
@@ -7396,7 +7396,7 @@ msgid "Returns to home page"
 msgstr "Trở về trang chủ"
 
 #: src/screens/Profile/ProfileFeed/index.tsx:93
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:570
 #: src/screens/VideoFeed/index.tsx:1146
 #: src/view/screens/NotFound.tsx:60
 #: src/view/screens/ProfileList.tsx:1039
@@ -7407,7 +7407,7 @@ msgstr "Trở về trang trước"
 msgid "Returns to the previous step"
 msgstr "Quay lại bước trước đó"
 
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:483
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:489
 #: src/components/live/EditLiveDialog.tsx:216
@@ -7415,7 +7415,7 @@ msgstr "Quay lại bước trước đó"
 #: src/components/StarterPack/QrCodeDialog.tsx:192
 #: src/screens/Profile/Header/EditProfileDialog.tsx:238
 #: src/screens/Profile/Header/EditProfileDialog.tsx:252
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:267
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:268
 #: src/view/com/composer/GifAltText.tsx:193
 #: src/view/com/composer/GifAltText.tsx:202
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:62
@@ -7433,7 +7433,7 @@ msgctxt "action"
 msgid "Save"
 msgstr "Lưu"
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
+#: src/components/dialogs/BirthDateSettings.tsx:150
 msgid "Save birthday"
 msgstr "Lưu ngày sinh"
 
@@ -7453,7 +7453,7 @@ msgstr "Lưu hình"
 msgid "Save image crop"
 msgstr "Lưu cắt hình"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:253
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:254
 msgid "Save new handle"
 msgstr "Lưu tên tài khoản mới"
 
@@ -7467,7 +7467,7 @@ msgid "Save to my feeds"
 msgstr "Lưu vào bảng tin của tôi"
 
 #: src/view/shell/desktop/LeftNav.tsx:764
-#: src/view/shell/Drawer.tsx:571
+#: src/view/shell/Drawer.tsx:572
 msgctxt "link to bookmarks screen"
 msgid "Saved"
 msgstr ""
@@ -7635,7 +7635,7 @@ msgstr "Xem bài đăng #{tag}"
 msgid "See #{tag} posts by user"
 msgstr "Xem bài đăng #{tag} từ người dùng"
 
-#: src/view/com/auth/SplashScreen.web.tsx:178
+#: src/view/com/auth/SplashScreen.web.tsx:179
 msgid "See jobs at Bluesky"
 msgstr "Xem công việc tại Bluesky"
 
@@ -7818,7 +7818,7 @@ msgctxt "action"
 msgid "Send Email"
 msgstr "Gửi email"
 
-#: src/view/shell/Drawer.tsx:361
+#: src/view/shell/Drawer.tsx:362
 msgid "Send feedback"
 msgstr "Gửi phản hồi"
 
@@ -7867,7 +7867,7 @@ msgstr "Gửi qua tin nhắn"
 msgid "Sends email with confirmation code for account deletion"
 msgstr "Gửi email kèm mã xác nhận để xóa tài khoản"
 
-#: src/view/com/auth/server-input/index.tsx:167
+#: src/view/com/auth/server-input/index.tsx:168
 msgid "Server address"
 msgstr "Địa chỉ máy chủ"
 
@@ -7894,7 +7894,7 @@ msgstr "Đặt email để đặt lại mật khẩu"
 #: src/Navigation.tsx:213
 #: src/screens/Settings/Settings.tsx:99
 #: src/view/shell/desktop/LeftNav.tsx:804
-#: src/view/shell/Drawer.tsx:609
+#: src/view/shell/Drawer.tsx:610
 msgid "Settings"
 msgstr "Cài đặt"
 
@@ -7902,7 +7902,7 @@ msgstr "Cài đặt"
 msgid "Settings for activity from others"
 msgstr ""
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:85
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:86
 msgid "Settings for allowing others to be notified of your posts"
 msgstr ""
 
@@ -8148,16 +8148,16 @@ msgstr "Hiển thị nội dung"
 
 #: src/components/dialogs/Signin.tsx:97
 #: src/components/dialogs/Signin.tsx:99
-#: src/components/WelcomeModal.tsx:194
-#: src/components/WelcomeModal.tsx:206
+#: src/components/WelcomeModal.tsx:195
+#: src/components/WelcomeModal.tsx:207
 #: src/screens/Login/index.tsx:122
 #: src/screens/Login/index.tsx:143
 #: src/screens/Login/LoginForm.tsx:181
 #: src/screens/Search/SearchResults.tsx:258
 #: src/view/com/auth/SplashScreen.tsx:61
 #: src/view/com/auth/SplashScreen.tsx:69
-#: src/view/com/auth/SplashScreen.web.tsx:123
-#: src/view/com/auth/SplashScreen.web.tsx:131
+#: src/view/com/auth/SplashScreen.web.tsx:124
+#: src/view/com/auth/SplashScreen.web.tsx:132
 #: src/view/shell/bottom-bar/BottomBar.tsx:355
 #: src/view/shell/bottom-bar/BottomBar.tsx:360
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:216
@@ -8202,14 +8202,14 @@ msgstr ""
 #: src/screens/Settings/Settings.tsx:288
 #: src/screens/SignupQueued.tsx:93
 #: src/screens/SignupQueued.tsx:96
-#: src/screens/Takendown.tsx:85
+#: src/screens/Takendown.tsx:86
 #: src/view/shell/desktop/LeftNav.tsx:212
 #: src/view/shell/desktop/LeftNav.tsx:269
 #: src/view/shell/desktop/LeftNav.tsx:272
 msgid "Sign out"
 msgstr "Đăng xuất"
 
-#: src/screens/Takendown.tsx:88
+#: src/screens/Takendown.tsx:89
 msgid "Sign Out"
 msgstr "Đăng xuất"
 
@@ -8258,7 +8258,7 @@ msgstr "Nhỏ hơn"
 msgid "Snoozes the reminder"
 msgstr "Tạm bỏ qua lời nhắc"
 
-#: src/components/WelcomeModal.tsx:148
+#: src/components/WelcomeModal.tsx:149
 msgid "Social media you control."
 msgstr ""
 
@@ -8418,12 +8418,12 @@ msgstr "Gói khởi đầu"
 msgid "Starter packs let you easily share your favorite feeds and people with your friends."
 msgstr "Gói khởi đầu giúp bạn dễ dàng chia sẻ bảng tin và người yêu thích của mình với bạn bè."
 
-#: src/screens/Settings/AboutSettings.tsx:100
-#: src/screens/Settings/AboutSettings.tsx:103
+#: src/screens/Settings/AboutSettings.tsx:102
+#: src/screens/Settings/AboutSettings.tsx:105
 msgid "Status Page"
 msgstr "Trang trạng thái"
 
-#: src/screens/Signup/index.tsx:163
+#: src/screens/Signup/index.tsx:166
 msgid "Step {0} of {1}"
 msgstr "Bước {0} / {1}"
 
@@ -8445,11 +8445,11 @@ msgstr "Storybook"
 msgid "Submit"
 msgstr "Gửi"
 
-#: src/screens/Takendown.tsx:70
+#: src/screens/Takendown.tsx:71
 msgid "Submit appeal"
 msgstr "Gửi khiếu nại"
 
-#: src/screens/Takendown.tsx:76
+#: src/screens/Takendown.tsx:77
 msgid "Submit Appeal"
 msgstr "Gửi khiếu nại"
 
@@ -8555,8 +8555,8 @@ msgid "System"
 msgstr "Hệ thống"
 
 #: src/screens/Log.tsx:58
-#: src/screens/Settings/AboutSettings.tsx:107
-#: src/screens/Settings/AboutSettings.tsx:110
+#: src/screens/Settings/AboutSettings.tsx:109
+#: src/screens/Settings/AboutSettings.tsx:112
 #: src/screens/Settings/Settings.tsx:441
 msgid "System log"
 msgstr "Log hệ thống"
@@ -8577,7 +8577,7 @@ msgstr ""
 msgid "Tap for more information"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:164
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:172
 msgid "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
 msgstr "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
 
@@ -8620,20 +8620,20 @@ msgstr "Kể một chút về bạn"
 msgid "Tell us a little more"
 msgstr "Kể thêm một chút nữa"
 
-#: src/view/shell/desktop/RightNav.tsx:120
-#: src/view/shell/desktop/RightNav.tsx:121
+#: src/view/shell/desktop/RightNav.tsx:124
+#: src/view/shell/desktop/RightNav.tsx:125
 msgid "Terms"
 msgstr "Điều khoản"
 
-#: src/components/dialogs/BirthDateSettings.tsx:135
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:30
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
+#: src/components/dialogs/BirthDateSettings.tsx:136
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:34
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:105
 #: src/Navigation.tsx:336
 #: src/screens/Settings/AboutSettings.tsx:84
 #: src/screens/Settings/AboutSettings.tsx:87
-#: src/view/screens/TermsOfService.tsx:31
-#: src/view/shell/Drawer.tsx:697
-#: src/view/shell/Drawer.tsx:699
+#: src/view/screens/TermsOfService.tsx:35
+#: src/view/shell/Drawer.tsx:698
+#: src/view/shell/Drawer.tsx:700
 msgid "Terms of Service"
 msgstr "Điều khoản dịch vụ"
 
@@ -8674,11 +8674,11 @@ msgid "Thanks, you have successfully verified your email address. You can close 
 msgstr "Cảm ơn, bạn đã xác minh địa chỉ email thành công. Bạn có thể đóng hộp thoại này."
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:115
-#: src/components/BlockedGeoOverlay.tsx:169
+#: src/components/BlockedGeoOverlay.tsx:170
 msgid "Thanks! You're all set."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:497
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:498
 msgid "That contains the following:"
 msgstr "Chứa giá trị sau đây:"
 
@@ -8718,7 +8718,7 @@ msgstr "Ứng dụng sẽ khởi động lại"
 msgid "The author of this thread has hidden this reply."
 msgstr "Tác giả thảo luận này đã ẩn trả lời này."
 
-#: src/components/dialogs/BirthDateSettings.tsx:122
+#: src/components/dialogs/BirthDateSettings.tsx:123
 msgid "The birthdate you've entered means you are under 18 years old. Certain content and features may be unavailable to you."
 msgstr ""
 
@@ -8726,11 +8726,11 @@ msgstr ""
 msgid "The Bluesky web application"
 msgstr "Ứng dụng web Bluesky"
 
-#: src/view/screens/CommunityGuidelines.tsx:38
+#: src/view/screens/CommunityGuidelines.tsx:39
 msgid "The Community Guidelines have been moved to <0/>"
 msgstr "Quy tắc cộng đồng đã được chuyển đến <0/>"
 
-#: src/view/screens/CopyrightPolicy.tsx:35
+#: src/view/screens/CopyrightPolicy.tsx:36
 msgid "The Copyright Policy has been moved to <0/>"
 msgstr "Chính sách bản quyền đã được chuyển đến <0/>"
 
@@ -8774,7 +8774,7 @@ msgstr ""
 msgid "The open social network."
 msgstr ""
 
-#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/screens/PrivacyPolicy.tsx:39
 msgid "The Privacy Policy has been moved to <0/>"
 msgstr "Chính sách bảo mật đã được chuyển đến <0/>"
 
@@ -8800,7 +8800,7 @@ msgstr "Tiêu đề của menu tuỳ chọn"
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
 msgstr "Biểu mẫu hỗ trợ đã được chuyển đi. Nếu bạn cần giúp đỡ, vui lòng <0/> hoặc truy cập {HELP_DESK_URL} để liên hệ với chúng tôi."
 
-#: src/view/screens/TermsOfService.tsx:35
+#: src/view/screens/TermsOfService.tsx:39
 msgid "The Terms of Service have been moved to"
 msgstr "Điều khoản dịch vụ đã được chuyển đến"
 
@@ -8854,7 +8854,7 @@ msgstr "Có vấn đề khi tải mật khẩu ứng dụng của bạn"
 msgid "There was an issue fetching your lists. Tap here to try again."
 msgstr "Có vấn đề khi tải danh sách của bạn. Nhấn vào đây để thử lại."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:108
 msgid "There was an issue fetching your service info"
 msgstr "Có vấn đề khi tải thông tin dịch vụ của bạn"
 
@@ -9018,11 +9018,11 @@ msgstr "Bảng tin này đang trống."
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
 msgstr "Bảng tin này không còn trực tuyến. Chúng tôi đang hiển thị <0>Khám phá</0> thay thế."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:603
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:604
 msgid "This handle is reserved. Please try a different one."
 msgstr "Tên người dùng này đã được đặt trước. Vui lòng thử tên khác."
 
-#: src/components/dialogs/BirthDateSettings.tsx:45
+#: src/components/dialogs/BirthDateSettings.tsx:46
 msgid "This information is private and not shared with other users."
 msgstr ""
 
@@ -9099,7 +9099,7 @@ msgstr "Trả lời này sẽ được sắp xếp vào mục ẩn ở cuối th
 msgid "This service has not provided terms of service or a privacy policy."
 msgstr "Dịch vụ này không cung cấp điều khoản dịch vụ hoặc chính sách bảo mật."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:466
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:467
 msgid "This should create a domain record at:"
 msgstr "Tác vụ này sẽ tạo một bản ghi tên miền tại:"
 
@@ -9264,7 +9264,7 @@ msgstr "Thử lại"
 msgid "TV"
 msgstr "TV"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:65
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:66
 msgid "Two-factor authentication (2FA)"
 msgstr "Xác thực hai bước (2FA)"
 
@@ -9272,7 +9272,7 @@ msgstr "Xác thực hai bước (2FA)"
 msgid "Type your message here"
 msgstr "Gõ tin nhắn của bạn ở đây"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:442
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:443
 msgid "Type:"
 msgstr "Loại:"
 
@@ -9383,7 +9383,7 @@ msgstr "Bỏ theo dõi tài khoản"
 msgid "Unfollows the user"
 msgstr "Bỏ theo dõi người này"
 
-#: src/components/BlockedGeoOverlay.tsx:48
+#: src/components/BlockedGeoOverlay.tsx:49
 msgid "Unfortunately, Bluesky is unavailable in Mississippi right now."
 msgstr "Unfortunately, Bluesky is unavailable in Mississippi right now."
 
@@ -9527,8 +9527,8 @@ msgstr "Cập nhật <0>{displayName}</0> trong danh sách"
 msgid "Update email"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:536
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:557
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:537
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:558
 msgid "Update to {domain}"
 msgstr "Cập nhật thành {domain}"
 
@@ -9554,7 +9554,7 @@ msgstr "Đang cập nhật..."
 msgid "Upload a photo instead"
 msgstr "Tải lên ảnh"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:482
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:483
 msgid "Upload a text file to:"
 msgstr "Tải lên tệp văn bản đến:"
 
@@ -9594,7 +9594,7 @@ msgstr "Đang tải lên video..."
 msgid "Use app passwords to sign in to other Bluesky clients without giving full access to your account or password."
 msgstr "Sử dụng mật khẩu ứng dụng để đăng nhập vào các ứng dụng Bluesky khác mà không cần cung cấp quyền truy cập đầy đủ vào tài khoản hoặc mật khẩu của bạn."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:568
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
 msgid "Use default provider"
 msgstr "Sử dụng nơi quản lý mặc định"
 
@@ -9714,7 +9714,7 @@ msgstr "Người dùng trong \"{0}\""
 msgid "Users you follow"
 msgstr "Người bạn theo dõi"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:448
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:449
 msgid "Value:"
 msgstr "Giá trị:"
 
@@ -9758,8 +9758,8 @@ msgctxt "action"
 msgid "Verify code"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:538
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:559
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:560
 msgid "Verify DNS Record"
 msgstr "Xác minh bản ghi DNS"
 
@@ -9777,8 +9777,8 @@ msgstr "Hộp thoại xác minh email"
 msgid "Verify now"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:561
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:540
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:562
 msgid "Verify Text File"
 msgstr "Xác minh tệp văn bản"
 
@@ -9804,8 +9804,8 @@ msgstr ""
 msgid "Verifying your age assurance status"
 msgstr ""
 
-#: src/screens/Settings/AboutSettings.tsx:126
-#: src/screens/Settings/AboutSettings.tsx:155
+#: src/screens/Settings/AboutSettings.tsx:128
+#: src/screens/Settings/AboutSettings.tsx:157
 msgid "Version {0}"
 msgstr ""
 
@@ -10077,7 +10077,7 @@ msgstr ""
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
 msgstr "Chúng tôi không thể xác định bạn có được phép tải lên video hay không. Vui lòng thử lại."
 
-#: src/components/dialogs/BirthDateSettings.tsx:57
+#: src/components/dialogs/BirthDateSettings.tsx:58
 msgid "We were unable to load your birth date preferences. Please try again."
 msgstr "Chúng tôi không thể tải cài đặt ngày sinh của bạn. Vui lòng thử lại."
 
@@ -10105,11 +10105,11 @@ msgstr ""
 msgid "We'll use this to help customize your experience."
 msgstr "Chúng tôi sẽ sử dụng việc này để tùy chỉnh trải nghiệm của bạn."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:139
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:147
 msgid "We're also updating our <0>Community Guidelines</0>, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:82
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:90
 msgid "We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr ""
 
@@ -10130,7 +10130,7 @@ msgstr "Chúng tôi đang gặp vấn đề mạng, hãy thử lại"
 msgid "We’re introducing a new layer of verification on Bluesky — an easy-to-see checkmark."
 msgstr "Chúng tôi đang giới thiệu một lớp xác minh mới trên Bluesky — một dấu tích dễ nổi bật."
 
-#: src/screens/Signup/index.tsx:123
+#: src/screens/Signup/index.tsx:126
 msgid "We're so excited to have you join us!"
 msgstr "Chúng tôi rất vui khi có bạn cùng tham gia!"
 
@@ -10138,7 +10138,7 @@ msgstr "Chúng tôi rất vui khi có bạn cùng tham gia!"
 msgid "We're sorry, but based on your device's location, you are currently located in a region that requires age assurance."
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:159
+#: src/components/BlockedGeoOverlay.tsx:160
 msgid "We're sorry, but based on your device's location, you are currently located in a region where we cannot provide access at this time."
 msgstr ""
 
@@ -10167,19 +10167,19 @@ msgstr "Xin lỗi! Chúng tôi không thể tìm thấy trang bạn đang tìm k
 msgid "We're sorry! You can only subscribe to twenty labelers, and you've reached your limit of twenty."
 msgstr "Xin lỗi! Bạn chỉ có thể đăng ký tối đa hai mươi dịch vụ gắn nhãn, và bạn đã đạt giới hạn hai mươi."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:122
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:130
 msgid "We’re updating our <0>Terms of Service</0>, <1>Privacy Policy</1>, and <2>Copyright Policy</2>, effective September 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:63
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:71
 msgid "We're updating our policies"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:76
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:84
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:61
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:69
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025. We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025. Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr ""
 
@@ -10204,7 +10204,7 @@ msgid "What do you want to call your starter pack?"
 msgstr "Bạn muốn gọi gói khởi đầu của mình là gì?"
 
 #: src/view/com/auth/SplashScreen.tsx:38
-#: src/view/com/auth/SplashScreen.web.tsx:99
+#: src/view/com/auth/SplashScreen.web.tsx:100
 #: src/view/com/composer/Composer.tsx:812
 msgid "What's up?"
 msgstr "Có gì mới?"
@@ -10240,7 +10240,7 @@ msgstr "Ôi không!"
 msgid "Whoops! Trending videos failed to load."
 msgstr "Đã xảy ra lỗi khi tải video nổi bật."
 
-#: src/screens/Takendown.tsx:173
+#: src/screens/Takendown.tsx:174
 msgid "Why are you appealing?"
 msgstr "Tại sao bạn khiếu nại?"
 
@@ -10297,7 +10297,7 @@ msgstr "Soạn trả lời"
 msgid "Writers"
 msgstr "Tác giả"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:366
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:367
 msgid "Wrong DID returned from server. Received: {0}"
 msgstr "Máy chủ trả về sai mã DID. Nhận được: {0}"
 
@@ -10392,7 +10392,7 @@ msgstr "Bạn đã được xác minh"
 msgid "You are verified. You will lose your verification status if you change your display name. <0>Learn more.</0>"
 msgstr "Bạn đã được xác minh. Bạn sẽ bị mất dấu xác minh nếu bạn thay đổi tên hiển thị. <0>Tìm hiểu thêm.</0>"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:208
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:209
 msgid "You are verified. You will lose your verification status if you change your handle. <0>Learn more.</0>"
 msgstr "Bạn đã được xác minh. Bạn sẽ bị mất dấu xác minh nếu bạn thay đổi tên tài khoản. <0>Tìm hiểu thêm.</0>"
 
@@ -10588,7 +10588,7 @@ msgstr "Bạn chỉ có thể thêm tối đa 3 bảng tin"
 msgid "You must be 13 years of age or older to create an account."
 msgstr "Bạn phải đủ 13 tuổi trở lên để tạo tài khoản."
 
-#: src/components/dialogs/BirthDateSettings.tsx:131
+#: src/components/dialogs/BirthDateSettings.tsx:132
 msgid "You must be at least 13 years old to use Bluesky. Read our <0>Terms of Service</0> for more information."
 msgstr ""
 
@@ -10674,11 +10674,11 @@ msgstr "Bạn: {defaultEmbeddedContentMessage}"
 msgid "You: {short}"
 msgstr "Bạn: {short}"
 
-#: src/screens/Signup/index.tsx:139
+#: src/screens/Signup/index.tsx:142
 msgid "You'll follow the suggested users and feeds once you finish creating your account!"
 msgstr "Bạn sẽ theo dõi người dùng và bảng tin được đề xuất sau khi hoàn tất việc tạo tài khoản!"
 
-#: src/screens/Signup/index.tsx:144
+#: src/screens/Signup/index.tsx:147
 msgid "You'll follow the suggested users once you finish creating your account!"
 msgstr "Bạn sẽ theo dõi người dùng được đề xuất sau khi hoàn tất việc tạo tài khoản!"
 
@@ -10748,7 +10748,7 @@ msgstr "Bạn đã đến giới hạn tải lên video hàng ngày (quá nhiề
 msgid "You've run out of videos to watch. Maybe it's a good time to take a break?"
 msgstr "Không còn video để xem nữa. Có lẽ đây là thời điểm thích hợp để nghỉ giải lao?"
 
-#: src/screens/Signup/index.tsx:173
+#: src/screens/Signup/index.tsx:176
 msgid "Your account"
 msgstr "Tài khoản của bạn"
 
@@ -10756,7 +10756,7 @@ msgstr "Tài khoản của bạn"
 msgid "Your account has been deleted"
 msgstr "Tài khoản của bạn đã bị xóa"
 
-#: src/screens/Takendown.tsx:146
+#: src/screens/Takendown.tsx:147
 msgid "Your account has been suspended"
 msgstr "Tài khoản của bạn đã bị đình chỉ"
 
@@ -10768,11 +10768,11 @@ msgstr "Tài khoản của bạn chưa đủ tuổi để tải lên video. Vui 
 msgid "Your account repository, containing all public data records, can be downloaded as a \"CAR\" file. This file does not include media embeds, such as images, or your private data, which must be fetched separately."
 msgstr "Thư mục tài khoản của bạn, chứa tất cả các bản ghi dữ liệu công khai, có thể được tải xuống dưới dạng tệp \"CAR\". Tệp này không bao gồm nhúng phương tiện, chẳng hạn như hình ảnh, hoặc dữ liệu riêng tư của bạn, mà phải được tải riêng lẻ."
 
-#: src/screens/Takendown.tsx:214
+#: src/screens/Takendown.tsx:215
 msgid "Your account was found to be in violation of the <0>Bluesky Social Terms of Service</0>. You have been sent an email outlining the specific violation and suspension period, if applicable. You can appeal this decision if you believe it was made in error."
 msgstr "Tài khoản của bạn đã vi phạm <0>Điều khoản Dịch vụ của Bluesky Social</0>. Chúng tôi đã gửi email cho bạn nêu rõ vi phạm cụ thể và thời gian đình chỉ (nếu có). Bạn có thể khiếu nại quyết định này nếu bạn cho rằng đã có sự nhầm lẫn."
 
-#: src/screens/Takendown.tsx:154
+#: src/screens/Takendown.tsx:155
 msgid "Your appeal has been submitted. If your appeal succeeds, you will receive an email."
 msgstr "Khiếu nại của bạn đã được gửi. Nếu khiếu nại của bạn được chấp thuận, bạn sẽ nhận được một email."
 
@@ -10792,7 +10792,7 @@ msgstr "Chat của bạn đã bị vô hiệu hóa"
 msgid "Your choice will be remembered for future links. You can change it at any time in settings."
 msgstr "Lựa chọn của bạn sẽ được ghi nhớ cho các liên kết tới. Bạn có thể thay đổi bất cứ lúc nào trong cài đặt."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:523
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:524
 msgid "Your current handle <0>{0}</0> will automatically remain reserved for you. You can switch back to it at any time from this account."
 msgstr "Tên tài khoản hiện tại <0>{0}</0> sẽ tự động được giữ lại cho bạn. Bạn có thể chuyển lại vào bất kỳ lúc nào từ tài khoản này."
 
@@ -10829,7 +10829,7 @@ msgstr "Người theo dõi bạn"
 msgid "Your following feed is empty! Follow more users to see what's happening."
 msgstr "Bảng tin theo dõi còn trống! Hãy theo dõi thêm người dùng để biết có gì đang diễn ra."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:245
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:246
 msgid "Your full handle will be <0>@{0}</0>"
 msgstr "Tên tài khoản đầy đủ của bạn sẽ là <0>@{0}</0>"
 

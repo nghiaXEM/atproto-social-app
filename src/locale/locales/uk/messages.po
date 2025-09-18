@@ -81,7 +81,7 @@ msgstr "{0, plural, one {# секунда} few {# секунди} many {# сек
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:225
 #: src/view/shell/bottom-bar/BottomBar.tsx:257
-#: src/view/shell/Drawer.tsx:498
+#: src/view/shell/Drawer.tsx:499
 msgid "{0, plural, one {# unread item} other {# unread items}}"
 msgstr ""
 
@@ -473,11 +473,11 @@ msgctxt "feeds"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
 msgstr "<0>{0}, </0><1>{1}, </1> та {2, plural, one {# інші} few {# інші} many {# інші} other {# інші}} долучені до вашої підбірки"
 
-#: src/view/shell/Drawer.tsx:117
+#: src/view/shell/Drawer.tsx:118
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
 msgstr "<0>{0}</0> {1, plural, one {читач} few {читачі} many {читачі} other {читачі}}"
 
-#: src/view/shell/Drawer.tsx:128
+#: src/view/shell/Drawer.tsx:129
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
 msgstr "<0>{0}</0> {1, plural, one {читаєте} few {читаєте} many {читаєте} other {читаєте}}"
 
@@ -539,7 +539,7 @@ msgstr ""
 msgid "A new form of verification"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:50
+#: src/components/BlockedGeoOverlay.tsx:51
 msgid "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
 msgstr ""
 
@@ -778,7 +778,7 @@ msgstr "Додати стрічки до початкового списку!"
 msgid "Add the default feed of only people you follow"
 msgstr "Додавати стрічки людей, яких читаєте"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:416
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:417
 msgid "Add the following DNS record to your domain:"
 msgstr "Додайте наступний DNS-запис до вашого домену:"
 
@@ -908,7 +908,7 @@ msgid "Allow new messages from"
 msgstr "Дозволяти нові повідомлення від"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:52
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:92
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:93
 msgid "Allow others to be notified of your posts"
 msgstr ""
 
@@ -930,7 +930,7 @@ msgstr "Надати доступ до особистих повідомлень
 msgid "Already have a code?"
 msgstr "Вже маєте код?"
 
-#: src/components/WelcomeModal.tsx:189
+#: src/components/WelcomeModal.tsx:190
 msgid "Already have an account?"
 msgstr ""
 
@@ -1074,7 +1074,7 @@ msgstr "Тварини"
 msgid "Animated GIF"
 msgstr "Анімована GIF"
 
-#: src/components/BlockedGeoOverlay.tsx:104
+#: src/components/BlockedGeoOverlay.tsx:105
 #: src/components/PolicyUpdateOverlay/Badge.tsx:33
 msgid "Announcement"
 msgstr ""
@@ -1094,7 +1094,7 @@ msgstr "Усі можуть взаємодіяти"
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:111
 #: src/screens/Settings/ActivityPrivacySettings.tsx:116
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:163
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:164
 msgid "Anyone who follows me"
 msgstr ""
 
@@ -1130,8 +1130,8 @@ msgstr "Назва може містити лише латинські літе�
 msgid "App password names must be at least 4 characters long"
 msgstr "Назва повинна бути не менше 4 символів у довжину"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:72
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:75
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:73
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:76
 msgid "App passwords"
 msgstr "Паролі застосунку"
 
@@ -1155,12 +1155,12 @@ msgctxt "toast"
 msgid "Appeal submitted"
 msgstr "Оскарження подано"
 
-#: src/screens/Takendown.tsx:111
-#: src/screens/Takendown.tsx:144
+#: src/screens/Takendown.tsx:112
+#: src/screens/Takendown.tsx:145
 msgid "Appeal suspension"
 msgstr ""
 
-#: src/screens/Takendown.tsx:114
+#: src/screens/Takendown.tsx:115
 msgid "Appeal Suspension"
 msgstr ""
 
@@ -1250,7 +1250,7 @@ msgstr "Мистецтво"
 msgid "Artistic or non-erotic nudity."
 msgstr "Художня або нееротична оголеність."
 
-#: src/components/BlockedGeoOverlay.tsx:53
+#: src/components/BlockedGeoOverlay.tsx:54
 msgid "As a small team, we cannot justify building the expensive infrastructure this requirement demands while legal challenges to this law are pending."
 msgstr ""
 
@@ -1344,7 +1344,7 @@ msgstr ""
 msgid "Begin the age assurance process by completing the fields below."
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:115
+#: src/components/dialogs/BirthDateSettings.tsx:116
 #: src/screens/Settings/AccountSettings.tsx:142
 msgid "Birthday"
 msgstr "Дата народження"
@@ -1438,12 +1438,12 @@ msgstr "Блокування - це відкрита інформація. За�
 msgid "Blocking will not prevent labels from being applied on your account, but it will stop this account from replying in your threads or interacting with you."
 msgstr "Блокування не завадить додавання міток до вашого облікового запису, але це зупинить можливість цього облікового запису від коментування ваших постів чи взаємодії з вами."
 
-#: src/view/com/auth/SplashScreen.web.tsx:175
+#: src/view/com/auth/SplashScreen.web.tsx:176
 msgid "Blog"
 msgstr "Блог"
 
-#: src/view/com/auth/server-input/index.tsx:136
 #: src/view/com/auth/server-input/index.tsx:137
+#: src/view/com/auth/server-input/index.tsx:138
 msgid "Bluesky"
 msgstr ""
 
@@ -1456,11 +1456,11 @@ msgctxt "Name of app icon variant"
 msgid "Bluesky Classic™"
 msgstr ""
 
-#: src/view/com/auth/server-input/index.tsx:212
+#: src/view/com/auth/server-input/index.tsx:213
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
 msgstr "Bluesky — відкрита мережа, в якій ви можете обрати свого хостинг-провайдера. Якщо ви розробник, ви можете розмістити свій власний сервер."
 
-#: src/view/com/auth/server-input/index.tsx:149
+#: src/view/com/auth/server-input/index.tsx:150
 msgid "Bluesky is an open network where you can choose your own provider. If you're new here, we recommend sticking with the default Bluesky Social option."
 msgstr ""
 
@@ -1469,7 +1469,7 @@ msgstr ""
 msgid "Bluesky is better with friends!"
 msgstr "Bluesky найкращий з друзями!"
 
-#: src/screens/Takendown.tsx:217
+#: src/screens/Takendown.tsx:218
 msgid "Bluesky Social Terms of Service"
 msgstr ""
 
@@ -1556,7 +1556,7 @@ msgstr ""
 msgid "Browse topic {displayName}"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:170
+#: src/view/com/auth/SplashScreen.web.tsx:171
 msgid "Business"
 msgstr "Організація"
 
@@ -1571,7 +1571,7 @@ msgstr "Від {0}"
 msgid "By <0>{0}</0>"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:181
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:189
 msgid "By clicking \"Continue\" you acknowledge that you understand and agree to these updates."
 msgstr ""
 
@@ -1620,13 +1620,13 @@ msgstr "Камера"
 #: src/screens/Search/Shell.tsx:349
 #: src/screens/Settings/AppIconSettings/index.tsx:44
 #: src/screens/Settings/AppIconSettings/index.tsx:225
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:78
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:85
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:79
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:86
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:246
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:252
 #: src/screens/Settings/Settings.tsx:289
-#: src/screens/Takendown.tsx:99
-#: src/screens/Takendown.tsx:102
+#: src/screens/Takendown.tsx:100
+#: src/screens/Takendown.tsx:103
 #: src/view/com/composer/Composer.tsx:1005
 #: src/view/com/composer/Composer.tsx:1016
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:43
@@ -1698,8 +1698,8 @@ msgstr ""
 msgid "Change app language"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:94
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:98
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:95
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:99
 msgid "Change Handle"
 msgstr "Змінити псевдонім"
 
@@ -1745,7 +1745,7 @@ msgstr ""
 #: src/Navigation.tsx:549
 #: src/view/shell/bottom-bar/BottomBar.tsx:221
 #: src/view/shell/desktop/LeftNav.tsx:607
-#: src/view/shell/Drawer.tsx:466
+#: src/view/shell/Drawer.tsx:467
 msgid "Chat"
 msgstr "Чат"
 
@@ -1815,7 +1815,7 @@ msgstr ""
 msgid "Check your inbox for an email with the confirmation code to enter below:"
 msgstr "Перевірте свою поштову скриньку на наявність електронного листа з кодом підтвердження та введіть його нижче:"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:399
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:400
 msgid "Choose domain verification method"
 msgstr "Змінити метод підтвердження домену"
 
@@ -1843,7 +1843,7 @@ msgstr "Обрати алгоритми, що наповнюватимуть в�
 msgid "Choose this color as your avatar"
 msgstr "Обрати цей колір для свого аватару"
 
-#: src/view/com/auth/server-input/index.tsx:130
+#: src/view/com/auth/server-input/index.tsx:131
 msgid "Choose your account provider"
 msgstr ""
 
@@ -1855,7 +1855,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr "Вкажіть пароль"
 
-#: src/screens/Signup/index.tsx:175
+#: src/screens/Signup/index.tsx:178
 msgid "Choose your username"
 msgstr "Ваш псевдонім"
 
@@ -1867,8 +1867,8 @@ msgstr ""
 msgid "Clear all storage data (restart after this)"
 msgstr ""
 
-#: src/screens/Settings/AboutSettings.tsx:116
-#: src/screens/Settings/AboutSettings.tsx:120
+#: src/screens/Settings/AboutSettings.tsx:118
+#: src/screens/Settings/AboutSettings.tsx:122
 msgid "Clear image cache"
 msgstr ""
 
@@ -2007,7 +2007,7 @@ msgstr ""
 msgid "Close this dialog"
 msgstr "Закрити діалогове вікно"
 
-#: src/components/WelcomeModal.tsx:214
+#: src/components/WelcomeModal.tsx:215
 msgid "Close welcome modal"
 msgstr ""
 
@@ -2055,9 +2055,9 @@ msgstr "Комедія"
 msgid "Comics"
 msgstr "Комікси"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:51
 #: src/Navigation.tsx:341
-#: src/view/screens/CommunityGuidelines.tsx:34
+#: src/view/screens/CommunityGuidelines.tsx:35
 msgid "Community Guidelines"
 msgstr "Правила спільноти"
 
@@ -2066,7 +2066,7 @@ msgstr "Правила спільноти"
 msgid "Complete onboarding and start using your account"
 msgstr "Завершити ознайомлення та розпочати користуватися обліковим записом"
 
-#: src/screens/Signup/index.tsx:177
+#: src/screens/Signup/index.tsx:180
 msgid "Complete the challenge"
 msgstr "Завершити завдання"
 
@@ -2118,14 +2118,14 @@ msgid "Confirm your birthdate"
 msgstr "Підтвердити вашу дату народження"
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:89
-#: src/components/BlockedGeoOverlay.tsx:141
-#: src/components/BlockedGeoOverlay.tsx:147
+#: src/components/BlockedGeoOverlay.tsx:142
+#: src/components/BlockedGeoOverlay.tsx:148
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:45
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:112
 msgid "Confirm your location"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:135
+#: src/components/BlockedGeoOverlay.tsx:136
 msgid "Confirm your location with GPS. Your location data is not tracked and does not leave your device."
 msgstr ""
 
@@ -2154,8 +2154,8 @@ msgid "Contact our moderation team"
 msgstr ""
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:155
-#: src/screens/Signup/index.tsx:212
 #: src/screens/Signup/index.tsx:215
+#: src/screens/Signup/index.tsx:218
 msgid "Contact support"
 msgstr "Служба підтримки"
 
@@ -2214,8 +2214,8 @@ msgstr "Попередження про вміст"
 msgid "Context menu backdrop, click to close the menu."
 msgstr "Тло контекстного меню натисніть, щоб закрити меню."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:162
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:170
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:178
 #: src/screens/Onboarding/StepInterests/index.tsx:254
 #: src/screens/Onboarding/StepProfile/index.tsx:280
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:246
@@ -2263,7 +2263,7 @@ msgstr "Кухарство"
 msgid "Copied"
 msgstr "Скопійовано"
 
-#: src/screens/Settings/AboutSettings.tsx:151
+#: src/screens/Settings/AboutSettings.tsx:153
 msgid "Copied build version to clipboard"
 msgstr "Скопійовано версію збірки до буфера обміну"
 
@@ -2282,7 +2282,7 @@ msgstr "Скопійовано"
 msgid "Copied!"
 msgstr "Скопійовано!"
 
-#: src/screens/Settings/AboutSettings.tsx:127
+#: src/screens/Settings/AboutSettings.tsx:129
 msgid "Copies build version to clipboard"
 msgstr ""
 
@@ -2309,13 +2309,13 @@ msgstr ""
 msgid "Copy code"
 msgstr "Скопіювати код"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:501
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:502
 #: src/view/com/profile/ProfileMenu.tsx:442
 #: src/view/com/profile/ProfileMenu.tsx:445
 msgid "Copy DID"
 msgstr "Копіювати ідентифікатор"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:434
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:435
 msgid "Copy host"
 msgstr "Копіювати хост"
 
@@ -2367,14 +2367,14 @@ msgstr "Копіювати текст повідомлення"
 msgid "Copy QR code"
 msgstr "Копіювати QR-код"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:455
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:456
 msgid "Copy TXT record value"
 msgstr "Копіювати значення запису TXT"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:107
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:45
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:115
 #: src/Navigation.tsx:346
-#: src/view/screens/CopyrightPolicy.tsx:31
+#: src/view/screens/CopyrightPolicy.tsx:32
 msgid "Copyright Policy"
 msgstr "Політика захисту авторського права"
 
@@ -2443,10 +2443,10 @@ msgstr "Створення власної підбірки для мене"
 
 #: src/components/LoggedOutCTA.tsx:71
 #: src/components/LoggedOutCTA.tsx:76
-#: src/components/WelcomeModal.tsx:155
-#: src/components/WelcomeModal.tsx:163
+#: src/components/WelcomeModal.tsx:156
+#: src/components/WelcomeModal.tsx:164
 #: src/view/com/auth/SplashScreen.tsx:55
-#: src/view/com/auth/SplashScreen.web.tsx:117
+#: src/view/com/auth/SplashScreen.web.tsx:118
 #: src/view/shell/bottom-bar/BottomBar.tsx:345
 #: src/view/shell/bottom-bar/BottomBar.tsx:350
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:206
@@ -2456,7 +2456,7 @@ msgstr "Створення власної підбірки для мене"
 msgid "Create account"
 msgstr "Реєстрація"
 
-#: src/screens/Signup/index.tsx:122
+#: src/screens/Signup/index.tsx:125
 msgid "Create Account"
 msgstr "Створити обліковий запис"
 
@@ -2480,7 +2480,7 @@ msgid "Create another"
 msgstr "Створити інший"
 
 #: src/view/com/auth/SplashScreen.tsx:47
-#: src/view/com/auth/SplashScreen.web.tsx:109
+#: src/view/com/auth/SplashScreen.web.tsx:110
 msgid "Create new account"
 msgstr "Створити новий обліковий запис"
 
@@ -2507,8 +2507,8 @@ msgstr ""
 msgid "Culture"
 msgstr "Культура"
 
-#: src/view/com/auth/server-input/index.tsx:142
 #: src/view/com/auth/server-input/index.tsx:143
+#: src/view/com/auth/server-input/index.tsx:144
 msgid "Custom"
 msgstr "Користувацький"
 
@@ -2697,12 +2697,12 @@ msgstr "Вилучити цитування"
 msgid "Detach quote post?"
 msgstr "Вилучити цитований пост?"
 
-#: src/screens/Settings/AboutSettings.tsx:140
+#: src/screens/Settings/AboutSettings.tsx:142
 msgctxt "toast"
 msgid "Developer mode disabled"
 msgstr "Режим розробника вимкнено"
 
-#: src/screens/Settings/AboutSettings.tsx:134
+#: src/screens/Settings/AboutSettings.tsx:136
 msgctxt "toast"
 msgid "Developer mode enabled"
 msgstr "Режим розробника ввімкнено"
@@ -2819,8 +2819,8 @@ msgstr "Ім'я"
 msgid "Ditch the trolls and clickbait. Find real people and conversations that matter to you."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:402
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:404
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:403
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:405
 msgid "DNS Panel"
 msgstr "Панель DNS"
 
@@ -2832,7 +2832,7 @@ msgstr "Не застосовувати ігнороване слово для �
 msgid "Does not include nudity."
 msgstr "Не містить оголеності."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:517
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:518
 msgid "Domain verified!"
 msgstr "Домен перевірено!"
 
@@ -2853,8 +2853,8 @@ msgstr ""
 msgid "Don't worry! All existing messages and settings are saved and will be available after you verify you're an adult."
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:150
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dms/ReportDialog.tsx:319
 #: src/components/forms/DateField/index.tsx:103
 #: src/components/forms/DateField/index.tsx:109
@@ -2864,8 +2864,8 @@ msgstr ""
 #: src/screens/Onboarding/StepProfile/index.tsx:336
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:215
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:222
-#: src/view/com/auth/server-input/index.tsx:232
-#: src/view/com/auth/server-input/index.tsx:233
+#: src/view/com/auth/server-input/index.tsx:235
+#: src/view/com/auth/server-input/index.tsx:236
 #: src/view/com/composer/labels/LabelsBtn.tsx:223
 #: src/view/com/composer/labels/LabelsBtn.tsx:230
 #: src/view/com/composer/select-language/PostLanguageSelectDialog.tsx:281
@@ -2916,7 +2916,7 @@ msgstr "Перетягнути і відпустити, щоб додати зо
 msgid "Duration:"
 msgstr "Тривалість:"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:236
 msgid "e.g. alice"
 msgstr "для прикладу, olenka"
 
@@ -2924,7 +2924,7 @@ msgstr "для прикладу, olenka"
 msgid "e.g. Alice Lastname"
 msgstr "Як-от Анастасія Прізвище"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:387
 msgid "e.g. alice.com"
 msgstr "для прикладу, olenka.ua"
 
@@ -3069,7 +3069,7 @@ msgctxt "toast"
 msgid "Email 2FA disabled"
 msgstr "Двофакторну автентифікацію електронної пошти вимкнено"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:63
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:64
 msgid "Email 2FA enabled"
 msgstr "Двофакторну автентифікацію за допомогою електронної пошти увімкнено"
 
@@ -3199,7 +3199,7 @@ msgstr ""
 msgid "Enter fullscreen"
 msgstr "Повноекранний режим"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:380
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:381
 msgid "Enter the domain you want to use"
 msgstr "Введіть домен, який ви хочете використовувати"
 
@@ -3211,7 +3211,7 @@ msgstr "Введіть адресу електронної пошти, яку в
 msgid "Enter the username or email address you used when you created your account"
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:116
+#: src/components/dialogs/BirthDateSettings.tsx:117
 msgid "Enter your birth date"
 msgstr "Введіть вашу дату народження"
 
@@ -3245,7 +3245,7 @@ msgstr "Помилка"
 msgid "Error loading post"
 msgstr ""
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:154
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:155
 msgid "Error loading preference"
 msgstr ""
 
@@ -3384,12 +3384,12 @@ msgstr "Відверті сексуальні зображення."
 #: src/Navigation.tsx:759
 #: src/screens/Search/Shell.tsx:307
 #: src/view/shell/desktop/LeftNav.tsx:689
-#: src/view/shell/Drawer.tsx:414
+#: src/view/shell/Drawer.tsx:415
 msgid "Explore"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:168
-#: src/components/WelcomeModal.tsx:177
+#: src/components/WelcomeModal.tsx:169
+#: src/components/WelcomeModal.tsx:178
 msgid "Explore the app"
 msgstr ""
 
@@ -3436,7 +3436,7 @@ msgstr ""
 msgid "Failed to add to starter pack"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:597
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:598
 msgid "Failed to change handle. Please try again."
 msgstr "Не вдалось змінити псевдонім. Будь ласка, спробуйте ще раз."
 
@@ -3617,7 +3617,7 @@ msgstr "Не вдалося завантажити відео"
 msgid "Failed to verify email, please try again."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:370
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:371
 msgid "Failed to verify handle. Please try again."
 msgstr "Не вдалось підтвердити псевдонім. Будь ласка, спробуйте ще раз."
 
@@ -3650,9 +3650,9 @@ msgstr "Перемикач стрічки"
 msgid "Feed unavailable"
 msgstr ""
 
-#: src/view/shell/desktop/RightNav.tsx:106
 #: src/view/shell/desktop/RightNav.tsx:107
-#: src/view/shell/Drawer.tsx:368
+#: src/view/shell/desktop/RightNav.tsx:108
+#: src/view/shell/Drawer.tsx:369
 msgid "Feedback"
 msgstr "Зворотний зв'язок"
 
@@ -3669,7 +3669,7 @@ msgstr ""
 #: src/view/screens/Profile.tsx:230
 #: src/view/screens/SavedFeeds.tsx:104
 #: src/view/shell/desktop/LeftNav.tsx:727
-#: src/view/shell/Drawer.tsx:530
+#: src/view/shell/Drawer.tsx:531
 msgid "Feeds"
 msgstr "Стрічки"
 
@@ -3916,7 +3916,7 @@ msgstr "Розмір шрифту"
 msgid "Food"
 msgstr "Їжа"
 
-#: src/components/BlockedGeoOverlay.tsx:56
+#: src/components/BlockedGeoOverlay.tsx:57
 msgid "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
 msgstr ""
 
@@ -3984,7 +3984,7 @@ msgstr "Від <0/>"
 msgid "Generate a starter pack"
 msgstr "Згенерувати особисту підбірку"
 
-#: src/view/shell/Drawer.tsx:372
+#: src/view/shell/Drawer.tsx:373
 msgid "Get help"
 msgstr "Допомога"
 
@@ -4178,16 +4178,16 @@ msgstr "На пів шляху!"
 msgid "Handle"
 msgstr "Псевдонім"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:601
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:602
 msgid "Handle already taken. Please try a different one."
 msgstr "Псевдонім вже зайнятий. Будь ласка, спробуйте інший."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:195
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:354
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:196
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:355
 msgid "Handle changed!"
 msgstr "Псевдонім змінено!"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:605
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:606
 msgid "Handle too long. Please try a shorter one."
 msgstr "Псевдонім задовгій. Будь ласка, спробуйте коротший."
 
@@ -4213,15 +4213,15 @@ msgstr ""
 msgid "Have a code? <0>Click here.</0>"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:210
+#: src/screens/Signup/index.tsx:213
 msgid "Having trouble?"
 msgstr "Виникли проблеми?"
 
 #: src/screens/Settings/Settings.tsx:236
 #: src/screens/Settings/Settings.tsx:240
-#: src/view/shell/desktop/RightNav.tsx:124
-#: src/view/shell/desktop/RightNav.tsx:125
-#: src/view/shell/Drawer.tsx:381
+#: src/view/shell/desktop/RightNav.tsx:128
+#: src/view/shell/desktop/RightNav.tsx:129
+#: src/view/shell/Drawer.tsx:382
 msgid "Help"
 msgstr "Довідка"
 
@@ -4233,8 +4233,8 @@ msgstr "Дайте людям знати, що ви не бот, заванта�
 msgid "Here is your app password!"
 msgstr "Це ваш пароль застосунку!"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:73
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:119
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:81
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:127
 msgid "Hey there 👋"
 msgstr ""
 
@@ -4366,11 +4366,11 @@ msgstr "Чекай-но! Ми поступово даємо доступ до в
 #: src/Navigation.tsx:774
 #: src/view/shell/bottom-bar/BottomBar.tsx:178
 #: src/view/shell/desktop/LeftNav.tsx:671
-#: src/view/shell/Drawer.tsx:440
+#: src/view/shell/Drawer.tsx:441
 msgid "Home"
 msgstr "Головна"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:427
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:428
 msgid "Host:"
 msgstr "Хост:"
 
@@ -4393,8 +4393,8 @@ msgstr "Як ви хочете відкрити це посилання?"
 msgid "I have a code"
 msgstr "Я маю код"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:290
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:296
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:291
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:297
 msgid "I have my own domain"
 msgstr "Я маю власний домен"
 
@@ -4415,7 +4415,7 @@ msgstr "Якщо ви ще не досягли повноліття відпов
 msgid "If you delete this list, you won't be able to recover it."
 msgstr "Якщо ви видалите цей список, ви не зможете його відновити."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:272
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:273
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
 msgstr ""
 
@@ -4439,7 +4439,7 @@ msgstr "Якщо ви хочете змінити пароль, ми надіш�
 msgid "If you want to restrict who can receive notifications for your account's activity, you can change this in <0>Settings → Privacy and Security</0>."
 msgstr ""
 
-#: src/view/com/auth/server-input/index.tsx:208
+#: src/view/com/auth/server-input/index.tsx:209
 msgid "If you're a developer, you can host your own server."
 msgstr ""
 
@@ -4566,7 +4566,7 @@ msgstr ""
 msgid "Invalid 2FA confirmation code."
 msgstr "Невірний код підтвердження двофакторної автентифікації."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:607
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:608
 msgid "Invalid handle. Please try a different one."
 msgstr "Хибний псевдонім. Будь ласка, спробуйте ввести інший."
 
@@ -4631,7 +4631,7 @@ msgid "Job ID: {0}"
 msgstr "Вакансія: {0}"
 
 #. Link to a page with job openings at Bluesky
-#: src/view/com/auth/SplashScreen.web.tsx:180
+#: src/view/com/auth/SplashScreen.web.tsx:181
 msgid "Jobs"
 msgstr "Вакансії"
 
@@ -4730,8 +4730,8 @@ msgstr "Нещодавні"
 #: src/components/verification/VerifierDialog.tsx:137
 #: src/screens/Moderation/VerificationSettings.tsx:48
 #: src/screens/Profile/Header/EditProfileDialog.tsx:351
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:213
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:277
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:214
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:278
 msgctxt "english-only-resource"
 msgid "Learn more"
 msgstr ""
@@ -4744,11 +4744,11 @@ msgstr "Дізнатися більше"
 msgid "Learn more about age assurance"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:168
+#: src/view/com/auth/SplashScreen.web.tsx:169
 msgid "Learn more about Bluesky"
 msgstr "Дізнатись більше про Bluesky"
 
-#: src/view/com/auth/server-input/index.tsx:218
+#: src/view/com/auth/server-input/index.tsx:219
 msgid "Learn more about self hosting your PDS."
 msgstr ""
 
@@ -4757,11 +4757,11 @@ msgstr ""
 msgid "Learn more about the moderation applied to this content"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:149
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:157
 msgid "Learn more about these changes and how to share your thoughts with us by <0>reading our blog post.</0>"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:89
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
 msgid "Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr ""
 
@@ -4776,8 +4776,8 @@ msgctxt "english-only-resource"
 msgid "Learn more about verification on Bluesky"
 msgstr ""
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:128
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:131
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:129
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:132
 msgid "Learn more about what is public on Bluesky."
 msgstr "Дізнатися більше про те, що є публічним в Bluesky."
 
@@ -4786,7 +4786,7 @@ msgid "Learn more in your <0>account settings.</0>"
 msgstr ""
 
 #: src/components/moderation/ContentHider.tsx:242
-#: src/view/com/auth/server-input/index.tsx:220
+#: src/view/com/auth/server-input/index.tsx:223
 msgid "Learn more."
 msgstr "Дізнатися більше."
 
@@ -4991,7 +4991,7 @@ msgstr "Список більше не ігноровано"
 #: src/view/screens/Profile.tsx:224
 #: src/view/screens/Profile.tsx:232
 #: src/view/shell/desktop/LeftNav.tsx:745
-#: src/view/shell/Drawer.tsx:545
+#: src/view/shell/Drawer.tsx:546
 msgid "Lists"
 msgstr "Списки"
 
@@ -5043,16 +5043,16 @@ msgstr "Завантаження..."
 msgid "Log"
 msgstr "Звіт"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:107
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:108
 msgid "Logged-out visibility"
 msgstr "Видимість для користувачів без облікового запису"
 
-#: src/view/shell/desktop/RightNav.tsx:134
+#: src/view/shell/desktop/RightNav.tsx:138
 msgid "Logo by @sawaratsuki.bsky.social"
 msgstr ""
 
-#: src/view/shell/desktop/RightNav.tsx:131
-#: src/view/shell/Drawer.tsx:709
+#: src/view/shell/desktop/RightNav.tsx:135
+#: src/view/shell/Drawer.tsx:713
 msgid "Logo by <0>@sawaratsuki.bsky.social</0>"
 msgstr "Лого від <0>@sawaratsuki.bsky.social</0>"
 
@@ -5393,8 +5393,8 @@ msgstr "Ігноровані слова та теги"
 msgid "Muting is private. Muted accounts can interact with you, but you will not see their posts or receive notifications from them."
 msgstr "Ігнорування є приватним. Ігноровані користувачі можуть взаємодіяти з вами, але ви не бачитимете їх пости і не отримуватимете від них сповіщень."
 
-#: src/components/dialogs/BirthDateSettings.tsx:38
-#: src/components/dialogs/BirthDateSettings.tsx:42
+#: src/components/dialogs/BirthDateSettings.tsx:39
+#: src/components/dialogs/BirthDateSettings.tsx:43
 msgid "My Birthday"
 msgstr "Мій день народження"
 
@@ -5440,7 +5440,7 @@ msgstr ""
 msgid "Navigates to the next screen"
 msgstr "Переходить до наступного екрана"
 
-#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:79
 msgid "Navigates to your profile"
 msgstr "Переходить до вашого профілю"
 
@@ -5457,7 +5457,7 @@ msgstr "Хочете повідомити про порушення авторс
 msgid "Never lose access to your followers or data."
 msgstr "Ніколи не втрачайте доступ до ваших підписників та даних."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:577
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:578
 msgid "Nevermind, create a handle for me"
 msgstr "Неважливо, створіть для мене псевдонім"
 
@@ -5505,9 +5505,9 @@ msgstr ""
 msgid "New followers"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:226
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:234
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:385
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:227
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:235
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:386
 msgid "New handle"
 msgstr "Новий псевдонім"
 
@@ -5617,8 +5617,8 @@ msgstr ""
 msgid "No app passwords yet"
 msgstr "Ще немає паролів застосунку"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:407
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:409
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:408
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:410
 msgid "No DNS Panel"
 msgstr "Відсутня панель DNS"
 
@@ -5664,7 +5664,7 @@ msgstr "Ще ніяких сповіщень!"
 #: src/screens/Messages/Settings.tsx:109
 #: src/screens/Settings/ActivityPrivacySettings.tsx:129
 #: src/screens/Settings/ActivityPrivacySettings.tsx:134
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:160
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:161
 msgid "No one"
 msgstr "Ніхто"
 
@@ -5767,7 +5767,7 @@ msgstr ""
 msgid "Not Found"
 msgstr "Не знайдено"
 
-#: src/components/BlockedGeoOverlay.tsx:126
+#: src/components/BlockedGeoOverlay.tsx:127
 msgid "Not in Mississippi?"
 msgstr ""
 
@@ -5775,7 +5775,7 @@ msgstr ""
 msgid "Note about sharing"
 msgstr "Примітка щодо поширення"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:117
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:118
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
 msgstr "Примітка: Bluesky є відкритою і публічною мережею. Цей параметр обмежує видимість вашого вмісту лише у застосунках і на сайті Bluesky, але інші застосунки можуть цього не дотримуватися. Ваш вміст все ще може бути показаний відвідувачам без облікового запису іншими застосунками і вебсайтами."
 
@@ -5824,7 +5824,7 @@ msgstr "Звуки сповіщень"
 #: src/view/screens/Notifications.tsx:130
 #: src/view/shell/bottom-bar/BottomBar.tsx:252
 #: src/view/shell/desktop/LeftNav.tsx:708
-#: src/view/shell/Drawer.tsx:493
+#: src/view/shell/Drawer.tsx:494
 msgid "Notifications"
 msgstr "Сповіщення"
 
@@ -5923,7 +5923,7 @@ msgstr "Тільки {0} можуть відповідати."
 
 #: src/screens/Settings/ActivityPrivacySettings.tsx:120
 #: src/screens/Settings/ActivityPrivacySettings.tsx:125
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:158
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:159
 msgid "Only followers who I follow"
 msgstr ""
 
@@ -5943,7 +5943,7 @@ msgstr "Ой, щось пішло не так!"
 #: src/components/StarterPack/ProfileStarterPacks.tsx:332
 #: src/components/StarterPack/ProfileStarterPacks.tsx:341
 #: src/screens/Settings/AppPasswords.tsx:59
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:106
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
 #: src/view/screens/Profile.tsx:125
 msgid "Oops!"
 msgstr "Ой!"
@@ -6071,12 +6071,12 @@ msgid "Opens emoji picker"
 msgstr ""
 
 #: src/view/com/auth/SplashScreen.tsx:49
-#: src/view/com/auth/SplashScreen.web.tsx:111
+#: src/view/com/auth/SplashScreen.web.tsx:112
 msgid "Opens flow to create a new Bluesky account"
 msgstr "Відкриє процес створення нового облікового запису Bluesky"
 
 #: src/view/com/auth/SplashScreen.tsx:63
-#: src/view/com/auth/SplashScreen.web.tsx:125
+#: src/view/com/auth/SplashScreen.web.tsx:126
 msgid "Opens flow to sign in to your existing Bluesky account"
 msgstr ""
 
@@ -6160,7 +6160,7 @@ msgstr "Інше"
 msgid "Other account"
 msgstr "Інший обліковий запис"
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:50
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:58
 msgid "Our blog post"
 msgstr ""
 
@@ -6622,8 +6622,8 @@ msgstr "Основна мова"
 msgid "Prioritize your Follows"
 msgstr "Віддати перевагу тим, кого читаєте"
 
-#: src/view/shell/desktop/RightNav.tsx:114
-#: src/view/shell/desktop/RightNav.tsx:115
+#: src/view/shell/desktop/RightNav.tsx:118
+#: src/view/shell/desktop/RightNav.tsx:119
 msgid "Privacy"
 msgstr "Конфіденційність"
 
@@ -6635,7 +6635,7 @@ msgstr "Конфіденційність та безпека"
 #: src/Navigation.tsx:407
 #: src/Navigation.tsx:415
 #: src/screens/Settings/ActivityPrivacySettings.tsx:40
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:45
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:46
 msgid "Privacy and Security"
 msgstr "Конфіденційність та безпека"
 
@@ -6643,14 +6643,14 @@ msgstr "Конфіденційність та безпека"
 msgid "Privacy and Security settings"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:35
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:102
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:40
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:110
 #: src/Navigation.tsx:331
-#: src/screens/Settings/AboutSettings.tsx:92
-#: src/screens/Settings/AboutSettings.tsx:95
-#: src/view/screens/PrivacyPolicy.tsx:31
-#: src/view/shell/Drawer.tsx:704
-#: src/view/shell/Drawer.tsx:705
+#: src/screens/Settings/AboutSettings.tsx:94
+#: src/screens/Settings/AboutSettings.tsx:97
+#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/shell/Drawer.tsx:708
+#: src/view/shell/Drawer.tsx:709
 msgid "Privacy Policy"
 msgstr "Політика конфіденційності"
 
@@ -6670,8 +6670,8 @@ msgstr "профіль"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:316
 #: src/view/shell/desktop/LeftNav.tsx:786
-#: src/view/shell/Drawer.tsx:77
-#: src/view/shell/Drawer.tsx:596
+#: src/view/shell/Drawer.tsx:78
+#: src/view/shell/Drawer.tsx:597
 msgid "Profile"
 msgstr "Профіль"
 
@@ -6781,7 +6781,7 @@ msgstr "Цитування"
 msgid "Quotes of this post"
 msgstr "Цитування цього поста"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:610
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:611
 msgid "Rate limit exceeded – you've tried to change your handle too many times in a short period. Please wait a minute before trying again."
 msgstr "Перевищено ліміт — ви намагались змінити свій псевдонім занадто багато разів за короткий період. Будь ласка, зачекайте хвилину перед повторною спробою."
 
@@ -6819,12 +6819,12 @@ msgstr ""
 msgid "Read more replies"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:40
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:112
+#: src/components/BlockedGeoOverlay.tsx:41
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:120
 msgid "Read our blog post"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:173
+#: src/view/com/auth/SplashScreen.web.tsx:174
 msgid "Read the Bluesky blog"
 msgstr "Читати блог Bluesky"
 
@@ -6838,16 +6838,16 @@ msgstr "Читати Політику конфіденційності Bluesky"
 msgid "Read the Bluesky Terms of Service"
 msgstr "Читати Умови використання Bluesky"
 
-#: src/components/WelcomeModal.tsx:146
+#: src/components/WelcomeModal.tsx:147
 msgid "Real conversations."
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:144
+#: src/components/WelcomeModal.tsx:145
 msgid "Real people."
 msgstr ""
 
-#: src/screens/Takendown.tsx:162
-#: src/screens/Takendown.tsx:170
+#: src/screens/Takendown.tsx:163
+#: src/screens/Takendown.tsx:171
 msgid "Reason for appeal"
 msgstr ""
 
@@ -7396,7 +7396,7 @@ msgid "Returns to home page"
 msgstr "Повертає до головної сторінки"
 
 #: src/screens/Profile/ProfileFeed/index.tsx:93
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:570
 #: src/screens/VideoFeed/index.tsx:1146
 #: src/view/screens/NotFound.tsx:60
 #: src/view/screens/ProfileList.tsx:1039
@@ -7407,7 +7407,7 @@ msgstr "Повертає до попередньої сторінки"
 msgid "Returns to the previous step"
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:156
+#: src/components/dialogs/BirthDateSettings.tsx:157
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:483
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:489
 #: src/components/live/EditLiveDialog.tsx:216
@@ -7415,7 +7415,7 @@ msgstr ""
 #: src/components/StarterPack/QrCodeDialog.tsx:192
 #: src/screens/Profile/Header/EditProfileDialog.tsx:238
 #: src/screens/Profile/Header/EditProfileDialog.tsx:252
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:267
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:268
 #: src/view/com/composer/GifAltText.tsx:193
 #: src/view/com/composer/GifAltText.tsx:202
 #: src/view/com/composer/photos/EditImageDialog.web.tsx:62
@@ -7433,7 +7433,7 @@ msgctxt "action"
 msgid "Save"
 msgstr "Зберегти"
 
-#: src/components/dialogs/BirthDateSettings.tsx:149
+#: src/components/dialogs/BirthDateSettings.tsx:150
 msgid "Save birthday"
 msgstr "Зберегти день народження"
 
@@ -7453,7 +7453,7 @@ msgstr "Зберегти зображення"
 msgid "Save image crop"
 msgstr "Обрізати зображення"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:253
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:254
 msgid "Save new handle"
 msgstr "Зберегти новий псевдонім"
 
@@ -7467,7 +7467,7 @@ msgid "Save to my feeds"
 msgstr "Зберегти до моїх стрічок"
 
 #: src/view/shell/desktop/LeftNav.tsx:764
-#: src/view/shell/Drawer.tsx:571
+#: src/view/shell/Drawer.tsx:572
 msgctxt "link to bookmarks screen"
 msgid "Saved"
 msgstr ""
@@ -7635,7 +7635,7 @@ msgstr ""
 msgid "See #{tag} posts by user"
 msgstr ""
 
-#: src/view/com/auth/SplashScreen.web.tsx:178
+#: src/view/com/auth/SplashScreen.web.tsx:179
 msgid "See jobs at Bluesky"
 msgstr "Переглянути вакансії у Bluesky"
 
@@ -7818,7 +7818,7 @@ msgctxt "action"
 msgid "Send Email"
 msgstr "Надіслати ел. лист"
 
-#: src/view/shell/Drawer.tsx:361
+#: src/view/shell/Drawer.tsx:362
 msgid "Send feedback"
 msgstr "Надіслати відгук"
 
@@ -7867,7 +7867,7 @@ msgstr "Надіслати в особисті повідомлення"
 msgid "Sends email with confirmation code for account deletion"
 msgstr "Надсилає електронний лист з кодом підтвердження видалення облікового запису"
 
-#: src/view/com/auth/server-input/index.tsx:167
+#: src/view/com/auth/server-input/index.tsx:168
 msgid "Server address"
 msgstr "Адреса сервера"
 
@@ -7894,7 +7894,7 @@ msgstr "Встановлює ел. адресу для скидання паро
 #: src/Navigation.tsx:213
 #: src/screens/Settings/Settings.tsx:99
 #: src/view/shell/desktop/LeftNav.tsx:804
-#: src/view/shell/Drawer.tsx:609
+#: src/view/shell/Drawer.tsx:610
 msgid "Settings"
 msgstr "Налаштування"
 
@@ -7902,7 +7902,7 @@ msgstr "Налаштування"
 msgid "Settings for activity from others"
 msgstr ""
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:85
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:86
 msgid "Settings for allowing others to be notified of your posts"
 msgstr ""
 
@@ -8148,16 +8148,16 @@ msgstr ""
 
 #: src/components/dialogs/Signin.tsx:97
 #: src/components/dialogs/Signin.tsx:99
-#: src/components/WelcomeModal.tsx:194
-#: src/components/WelcomeModal.tsx:206
+#: src/components/WelcomeModal.tsx:195
+#: src/components/WelcomeModal.tsx:207
 #: src/screens/Login/index.tsx:122
 #: src/screens/Login/index.tsx:143
 #: src/screens/Login/LoginForm.tsx:181
 #: src/screens/Search/SearchResults.tsx:258
 #: src/view/com/auth/SplashScreen.tsx:61
 #: src/view/com/auth/SplashScreen.tsx:69
-#: src/view/com/auth/SplashScreen.web.tsx:123
-#: src/view/com/auth/SplashScreen.web.tsx:131
+#: src/view/com/auth/SplashScreen.web.tsx:124
+#: src/view/com/auth/SplashScreen.web.tsx:132
 #: src/view/shell/bottom-bar/BottomBar.tsx:355
 #: src/view/shell/bottom-bar/BottomBar.tsx:360
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:216
@@ -8202,14 +8202,14 @@ msgstr ""
 #: src/screens/Settings/Settings.tsx:288
 #: src/screens/SignupQueued.tsx:93
 #: src/screens/SignupQueued.tsx:96
-#: src/screens/Takendown.tsx:85
+#: src/screens/Takendown.tsx:86
 #: src/view/shell/desktop/LeftNav.tsx:212
 #: src/view/shell/desktop/LeftNav.tsx:269
 #: src/view/shell/desktop/LeftNav.tsx:272
 msgid "Sign out"
 msgstr "Вийти"
 
-#: src/screens/Takendown.tsx:88
+#: src/screens/Takendown.tsx:89
 msgid "Sign Out"
 msgstr ""
 
@@ -8258,7 +8258,7 @@ msgstr "Менше"
 msgid "Snoozes the reminder"
 msgstr ""
 
-#: src/components/WelcomeModal.tsx:148
+#: src/components/WelcomeModal.tsx:149
 msgid "Social media you control."
 msgstr ""
 
@@ -8418,12 +8418,12 @@ msgstr "Набори початківця"
 msgid "Starter packs let you easily share your favorite feeds and people with your friends."
 msgstr "Власні підбірки дозволяють легко ділитись з друзями улюбленими стрічками та користувачами."
 
-#: src/screens/Settings/AboutSettings.tsx:100
-#: src/screens/Settings/AboutSettings.tsx:103
+#: src/screens/Settings/AboutSettings.tsx:102
+#: src/screens/Settings/AboutSettings.tsx:105
 msgid "Status Page"
 msgstr "Сторінка стану"
 
-#: src/screens/Signup/index.tsx:163
+#: src/screens/Signup/index.tsx:166
 msgid "Step {0} of {1}"
 msgstr "Крок {0} з {1}"
 
@@ -8445,11 +8445,11 @@ msgstr ""
 msgid "Submit"
 msgstr "Надіслати"
 
-#: src/screens/Takendown.tsx:70
+#: src/screens/Takendown.tsx:71
 msgid "Submit appeal"
 msgstr ""
 
-#: src/screens/Takendown.tsx:76
+#: src/screens/Takendown.tsx:77
 msgid "Submit Appeal"
 msgstr ""
 
@@ -8555,8 +8555,8 @@ msgid "System"
 msgstr "Системна"
 
 #: src/screens/Log.tsx:58
-#: src/screens/Settings/AboutSettings.tsx:107
-#: src/screens/Settings/AboutSettings.tsx:110
+#: src/screens/Settings/AboutSettings.tsx:109
+#: src/screens/Settings/AboutSettings.tsx:112
 #: src/screens/Settings/Settings.tsx:441
 msgid "System log"
 msgstr "Системний журнал"
@@ -8577,7 +8577,7 @@ msgstr ""
 msgid "Tap for more information"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:164
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:172
 msgid "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
 msgstr ""
 
@@ -8620,20 +8620,20 @@ msgstr "Розкажіть нам трохи про себе"
 msgid "Tell us a little more"
 msgstr "Розкажіть нам ще трохи"
 
-#: src/view/shell/desktop/RightNav.tsx:120
-#: src/view/shell/desktop/RightNav.tsx:121
+#: src/view/shell/desktop/RightNav.tsx:124
+#: src/view/shell/desktop/RightNav.tsx:125
 msgid "Terms"
 msgstr "Умови"
 
-#: src/components/dialogs/BirthDateSettings.tsx:135
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:30
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:97
+#: src/components/dialogs/BirthDateSettings.tsx:136
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:34
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:105
 #: src/Navigation.tsx:336
 #: src/screens/Settings/AboutSettings.tsx:84
 #: src/screens/Settings/AboutSettings.tsx:87
-#: src/view/screens/TermsOfService.tsx:31
-#: src/view/shell/Drawer.tsx:697
-#: src/view/shell/Drawer.tsx:699
+#: src/view/screens/TermsOfService.tsx:35
+#: src/view/shell/Drawer.tsx:698
+#: src/view/shell/Drawer.tsx:700
 msgid "Terms of Service"
 msgstr "Умови Використання"
 
@@ -8674,11 +8674,11 @@ msgid "Thanks, you have successfully verified your email address. You can close 
 msgstr "Дякуємо, ви успішно підтвердили адресу електронної пошти. Ви можете закрити цей діалог."
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:115
-#: src/components/BlockedGeoOverlay.tsx:169
+#: src/components/BlockedGeoOverlay.tsx:170
 msgid "Thanks! You're all set."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:497
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:498
 msgid "That contains the following:"
 msgstr "Що містить наступне:"
 
@@ -8718,7 +8718,7 @@ msgstr ""
 msgid "The author of this thread has hidden this reply."
 msgstr "Автор цієї гілки приховав цю відповідь."
 
-#: src/components/dialogs/BirthDateSettings.tsx:122
+#: src/components/dialogs/BirthDateSettings.tsx:123
 msgid "The birthdate you've entered means you are under 18 years old. Certain content and features may be unavailable to you."
 msgstr ""
 
@@ -8726,11 +8726,11 @@ msgstr ""
 msgid "The Bluesky web application"
 msgstr "Веб — застосунок BlueSky"
 
-#: src/view/screens/CommunityGuidelines.tsx:38
+#: src/view/screens/CommunityGuidelines.tsx:39
 msgid "The Community Guidelines have been moved to <0/>"
 msgstr "Правила Спільноти переміщено до <0/>"
 
-#: src/view/screens/CopyrightPolicy.tsx:35
+#: src/view/screens/CopyrightPolicy.tsx:36
 msgid "The Copyright Policy has been moved to <0/>"
 msgstr "Політику захисту авторського права переміщено до <0/>"
 
@@ -8774,7 +8774,7 @@ msgstr ""
 msgid "The open social network."
 msgstr ""
 
-#: src/view/screens/PrivacyPolicy.tsx:35
+#: src/view/screens/PrivacyPolicy.tsx:39
 msgid "The Privacy Policy has been moved to <0/>"
 msgstr "Політика конфіденційності була переміщена до <0/>"
 
@@ -8800,7 +8800,7 @@ msgstr ""
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
 msgstr "Форму підтримки переміщено. Якщо вам потрібна допомога, будь ласка, <0/> або відвідайте {HELP_DESK_URL}, щоб зв'язатися з нами."
 
-#: src/view/screens/TermsOfService.tsx:35
+#: src/view/screens/TermsOfService.tsx:39
 msgid "The Terms of Service have been moved to"
 msgstr "Умови Використання перенесено до"
 
@@ -8854,7 +8854,7 @@ msgstr "Виникла проблема з завантаженням ваших
 msgid "There was an issue fetching your lists. Tap here to try again."
 msgstr "Виникла проблема з завантаженням ваших списків. Натисніть тут, щоб повторити спробу."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:107
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:108
 msgid "There was an issue fetching your service info"
 msgstr "Під час отримання інформації про використання виникла проблема"
 
@@ -9018,11 +9018,11 @@ msgstr "Стрічка порожня."
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
 msgstr "Ця стрічка більше не в мережі. Замість неї доступна <0>Стрічка відкриття</0>."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:603
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:604
 msgid "This handle is reserved. Please try a different one."
 msgstr "Цей псевдонім використовується. Будь ласка, спробуйте інший."
 
-#: src/components/dialogs/BirthDateSettings.tsx:45
+#: src/components/dialogs/BirthDateSettings.tsx:46
 msgid "This information is private and not shared with other users."
 msgstr ""
 
@@ -9099,7 +9099,7 @@ msgstr ""
 msgid "This service has not provided terms of service or a privacy policy."
 msgstr "Цей сервіс не надав умови обслуговування або політики конфіденційності."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:466
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:467
 msgid "This should create a domain record at:"
 msgstr "Це має створити обліковий запис домену:"
 
@@ -9264,7 +9264,7 @@ msgstr "Спробувати ще раз"
 msgid "TV"
 msgstr "ТВ"
 
-#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:65
+#: src/screens/Settings/PrivacyAndSecuritySettings.tsx:66
 msgid "Two-factor authentication (2FA)"
 msgstr "Двофакторна автентифікація (2FA)"
 
@@ -9272,7 +9272,7 @@ msgstr "Двофакторна автентифікація (2FA)"
 msgid "Type your message here"
 msgstr "Введіть своє повідомлення тут"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:442
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:443
 msgid "Type:"
 msgstr "Тип:"
 
@@ -9383,7 +9383,7 @@ msgstr ""
 msgid "Unfollows the user"
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:48
+#: src/components/BlockedGeoOverlay.tsx:49
 msgid "Unfortunately, Bluesky is unavailable in Mississippi right now."
 msgstr ""
 
@@ -9527,8 +9527,8 @@ msgstr "Оновити <0>{displayName}</0> у Списках"
 msgid "Update email"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:536
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:557
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:537
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:558
 msgid "Update to {domain}"
 msgstr "Оновити на {domain}"
 
@@ -9554,7 +9554,7 @@ msgstr "Оновлення..."
 msgid "Upload a photo instead"
 msgstr "Натомість завантажити фото"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:482
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:483
 msgid "Upload a text file to:"
 msgstr "Завантажити текстовий файл до:"
 
@@ -9594,7 +9594,7 @@ msgstr "Завантаження відео..."
 msgid "Use app passwords to sign in to other Bluesky clients without giving full access to your account or password."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:568
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:569
 msgid "Use default provider"
 msgstr "Використовувати провайдера за замовчуванням"
 
@@ -9714,7 +9714,7 @@ msgstr "Користувачі в «{0}»"
 msgid "Users you follow"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:448
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:449
 msgid "Value:"
 msgstr "Значення:"
 
@@ -9758,8 +9758,8 @@ msgctxt "action"
 msgid "Verify code"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:538
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:559
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:560
 msgid "Verify DNS Record"
 msgstr "Необхідно підтвердити запис DNS"
 
@@ -9777,8 +9777,8 @@ msgstr "Діалог підтвердження адреси електронн�
 msgid "Verify now"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:539
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:561
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:540
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:562
 msgid "Verify Text File"
 msgstr "Підтвердити текстовий файл"
 
@@ -9804,8 +9804,8 @@ msgstr ""
 msgid "Verifying your age assurance status"
 msgstr ""
 
-#: src/screens/Settings/AboutSettings.tsx:126
-#: src/screens/Settings/AboutSettings.tsx:155
+#: src/screens/Settings/AboutSettings.tsx:128
+#: src/screens/Settings/AboutSettings.tsx:157
 msgid "Version {0}"
 msgstr ""
 
@@ -10077,7 +10077,7 @@ msgstr ""
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
 msgstr "Ми не змогли визначити, чи ви можете завантажувати відео. Будь ласка, спробуйте ще раз."
 
-#: src/components/dialogs/BirthDateSettings.tsx:57
+#: src/components/dialogs/BirthDateSettings.tsx:58
 msgid "We were unable to load your birth date preferences. Please try again."
 msgstr "Не вдалося завантажити ваші налаштування дати дня народження. Повторіть спробу."
 
@@ -10105,11 +10105,11 @@ msgstr ""
 msgid "We'll use this to help customize your experience."
 msgstr "Ми скористаємося цим, щоб підлаштувати Ваш досвід."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:139
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:147
 msgid "We're also updating our <0>Community Guidelines</0>, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:82
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:90
 msgid "We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025."
 msgstr ""
 
@@ -10130,7 +10130,7 @@ msgstr "У нас виникли проблеми з мережею, спроб�
 msgid "We’re introducing a new layer of verification on Bluesky — an easy-to-see checkmark."
 msgstr ""
 
-#: src/screens/Signup/index.tsx:123
+#: src/screens/Signup/index.tsx:126
 msgid "We're so excited to have you join us!"
 msgstr "Ми дуже раді, що ви приєдналися!"
 
@@ -10138,7 +10138,7 @@ msgstr "Ми дуже раді, що ви приєдналися!"
 msgid "We're sorry, but based on your device's location, you are currently located in a region that requires age assurance."
 msgstr ""
 
-#: src/components/BlockedGeoOverlay.tsx:159
+#: src/components/BlockedGeoOverlay.tsx:160
 msgid "We're sorry, but based on your device's location, you are currently located in a region where we cannot provide access at this time."
 msgstr ""
 
@@ -10167,19 +10167,19 @@ msgstr "Нам дуже прикро! Ми не можемо знайти сто
 msgid "We're sorry! You can only subscribe to twenty labelers, and you've reached your limit of twenty."
 msgstr "Вибачте, підписатися можна лише на двадцять мітників. Ви вже досягли свого ліміту."
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:122
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:130
 msgid "We’re updating our <0>Terms of Service</0>, <1>Privacy Policy</1>, and <2>Copyright Policy</2>, effective September 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:63
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:71
 msgid "We're updating our policies"
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:76
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:84
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025."
 msgstr ""
 
-#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:61
+#: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:69
 msgid "We’re updating our Terms of Service, Privacy Policy, and Copyright Policy, effective September 15th, 2025. We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025. Learn more about these changes and how to share your thoughts with us by reading our blog post."
 msgstr ""
 
@@ -10204,7 +10204,7 @@ msgid "What do you want to call your starter pack?"
 msgstr "Яку назву оберете для власної підбірки?"
 
 #: src/view/com/auth/SplashScreen.tsx:38
-#: src/view/com/auth/SplashScreen.web.tsx:99
+#: src/view/com/auth/SplashScreen.web.tsx:100
 #: src/view/com/composer/Composer.tsx:812
 msgid "What's up?"
 msgstr "Як справи?"
@@ -10240,7 +10240,7 @@ msgstr "Упс!"
 msgid "Whoops! Trending videos failed to load."
 msgstr ""
 
-#: src/screens/Takendown.tsx:173
+#: src/screens/Takendown.tsx:174
 msgid "Why are you appealing?"
 msgstr ""
 
@@ -10297,7 +10297,7 @@ msgstr "Написати відповідь"
 msgid "Writers"
 msgstr "Письменники"
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:366
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:367
 msgid "Wrong DID returned from server. Received: {0}"
 msgstr ""
 
@@ -10392,7 +10392,7 @@ msgstr ""
 msgid "You are verified. You will lose your verification status if you change your display name. <0>Learn more.</0>"
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:208
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:209
 msgid "You are verified. You will lose your verification status if you change your handle. <0>Learn more.</0>"
 msgstr ""
 
@@ -10588,7 +10588,7 @@ msgstr "Ви можете додати лише 3 стрічки"
 msgid "You must be 13 years of age or older to create an account."
 msgstr ""
 
-#: src/components/dialogs/BirthDateSettings.tsx:131
+#: src/components/dialogs/BirthDateSettings.tsx:132
 msgid "You must be at least 13 years old to use Bluesky. Read our <0>Terms of Service</0> for more information."
 msgstr ""
 
@@ -10674,11 +10674,11 @@ msgstr "Ви: {defaultEmbeddedContentMessage}"
 msgid "You: {short}"
 msgstr "Ви: {short}"
 
-#: src/screens/Signup/index.tsx:139
+#: src/screens/Signup/index.tsx:142
 msgid "You'll follow the suggested users and feeds once you finish creating your account!"
 msgstr "Ви читатимете запропонованих користувачів та стрічки щойно завершите створення облікового запису!"
 
-#: src/screens/Signup/index.tsx:144
+#: src/screens/Signup/index.tsx:147
 msgid "You'll follow the suggested users once you finish creating your account!"
 msgstr "Ви читатимете запропонованих користувачів щойно завершите створення облікового запису!"
 
@@ -10748,7 +10748,7 @@ msgstr "Ви досягли денного ліміту завантаження
 msgid "You've run out of videos to watch. Maybe it's a good time to take a break?"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:173
+#: src/screens/Signup/index.tsx:176
 msgid "Your account"
 msgstr "Ваш акаунт"
 
@@ -10756,7 +10756,7 @@ msgstr "Ваш акаунт"
 msgid "Your account has been deleted"
 msgstr "Ваш обліковий запис видалено"
 
-#: src/screens/Takendown.tsx:146
+#: src/screens/Takendown.tsx:147
 msgid "Your account has been suspended"
 msgstr ""
 
@@ -10768,11 +10768,11 @@ msgstr "Ваш обліковий запис створено недостатн
 msgid "Your account repository, containing all public data records, can be downloaded as a \"CAR\" file. This file does not include media embeds, such as images, or your private data, which must be fetched separately."
 msgstr "Дані з вашого облікового запису, які містять усі загальнодоступні записи, можна завантажити як \"CAR\" файл. Цей файл не містить медіафайлів, таких як зображення, або особисті дані, які необхідно отримати окремо."
 
-#: src/screens/Takendown.tsx:214
+#: src/screens/Takendown.tsx:215
 msgid "Your account was found to be in violation of the <0>Bluesky Social Terms of Service</0>. You have been sent an email outlining the specific violation and suspension period, if applicable. You can appeal this decision if you believe it was made in error."
 msgstr ""
 
-#: src/screens/Takendown.tsx:154
+#: src/screens/Takendown.tsx:155
 msgid "Your appeal has been submitted. If your appeal succeeds, you will receive an email."
 msgstr ""
 
@@ -10792,7 +10792,7 @@ msgstr "Ваші чати вимкнено"
 msgid "Your choice will be remembered for future links. You can change it at any time in settings."
 msgstr ""
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:523
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:524
 msgid "Your current handle <0>{0}</0> will automatically remain reserved for you. You can switch back to it at any time from this account."
 msgstr ""
 
@@ -10829,7 +10829,7 @@ msgstr ""
 msgid "Your following feed is empty! Follow more users to see what's happening."
 msgstr "Ваша домашня стрічка порожня! Підпишіться на більше користувачів щоб отримувати більше постів."
 
-#: src/screens/Settings/components/ChangeHandleDialog.tsx:245
+#: src/screens/Settings/components/ChangeHandleDialog.tsx:246
 msgid "Your full handle will be <0>@{0}</0>"
 msgstr "Вашим повним псевдонімом буде <0>@{0}</0>"
 
