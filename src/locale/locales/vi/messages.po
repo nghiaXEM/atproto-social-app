@@ -500,7 +500,7 @@ msgstr "<0>{date}</0> lúc {time}"
 
 #: src/screens/Search/SearchResults.tsx:255
 msgid "<0>Sign in</0><1> or </1><2>create an account</2><3> </3><4>to search for news, sports, politics, and everything else happening on Bluesky.</4>"
-msgstr ""
+msgstr "<0>Sign in</0><1> or </1><2>create an account</2><3> </3><4>to search for news, sports, politics, and everything else happening on Bluesky.</4>"
 
 #: src/screens/StarterPack/Wizard/index.tsx:502
 msgid "<0>You</0> and<1> </1><2>{0} </2>are included in your starter pack"
@@ -528,7 +528,7 @@ msgstr "7 ngày"
 
 #: src/screens/Onboarding/StepFinished.tsx:341
 msgid "A collection of popular feeds you can find on Bluesky, including News, Booksky, Game Dev, Blacksky, and Fountain Pens"
-msgstr ""
+msgstr "A collection of popular feeds you can find on Bluesky, including News, Booksky, Game Dev, Blacksky, and Fountain Pens"
 
 #. If last message does not contain text, fall back to "{user} reacted to {a message}"
 #: src/screens/Messages/components/ChatListItem.tsx:210
@@ -541,7 +541,7 @@ msgstr "Một dạng xác thực hoàn toàn mới"
 
 #: src/components/BlockedGeoOverlay.tsx:50
 msgid "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
-msgstr ""
+msgstr "A new Mississippi law requires us to implement age verification for all users before they can access Bluesky. We think this law creates challenges that go beyond its child safety goals, and creates significant barriers that limit free speech and disproportionately harm smaller platforms and emerging technologies."
 
 #. Contains a post that originally appeared in English. Consider translating the post text if it makes sense in your language, and noting that the post was translated from English.
 #: src/components/dialogs/nuxs/BookmarksAnnouncement.tsx:120
@@ -1487,11 +1487,11 @@ msgstr "Bluesky sẽ chủ động xác thực các tài khoản nổi bật và
 
 #: src/screens/Signup/StepInfo/Policies.tsx:26
 msgid "Bluesky's Community Guidelines"
-msgstr ""
+msgstr "Bluesky's Community Guidelines"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:32
 msgid "Bluesky's Updated Community Guidelines"
-msgstr ""
+msgstr "Bluesky's Updated Community Guidelines"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:99
 msgid "Bluesky+"
@@ -3918,7 +3918,7 @@ msgstr "Ăn uống"
 
 #: src/components/BlockedGeoOverlay.tsx:56
 msgid "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
-msgstr ""
+msgstr "For now, we have made the difficult decision to block access to Bluesky in the state of Mississippi."
 
 #: src/view/com/modals/DeleteAccount.tsx:125
 msgid "For security reasons, we'll need to send a confirmation code to your email address."
@@ -4774,7 +4774,7 @@ msgstr "Tìm hiểu thêm về cảnh báo này"
 #: src/components/verification/VerifierDialog.tsx:118
 msgctxt "english-only-resource"
 msgid "Learn more about verification on Bluesky"
-msgstr ""
+msgstr "Learn more about verification on Bluesky"
 
 #: src/screens/Settings/PrivacyAndSecuritySettings.tsx:128
 #: src/screens/Settings/PrivacyAndSecuritySettings.tsx:131
@@ -8567,7 +8567,7 @@ msgstr "Chỉ thẻ tag"
 
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:116
 msgid "Tap below to allow Bluesky to access your GPS location. We will then use that data to more accurately determine the content and features available in your region."
-msgstr ""
+msgstr "Tap below to allow Bluesky to access your GPS location. We will then use that data to more accurately determine the content and features available in your region."
 
 #: src/view/com/feeds/MissingFeed.tsx:89
 msgid "Tap for information"
@@ -8579,7 +8579,7 @@ msgstr ""
 
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:164
 msgid "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
-msgstr ""
+msgstr "Tap to acknowledge that you understand and agree to these updates and continue using Bluesky"
 
 #: src/components/ContextMenu/Backdrop.ios.tsx:54
 #: src/components/ContextMenu/Backdrop.ios.tsx:80
@@ -8764,7 +8764,7 @@ msgstr "Các cài đặt sau sẽ được sử dụng làm mặc định khi b�
 
 #: src/components/ageAssurance/useAgeAssuranceCopy.ts:11
 msgid "The laws in your location require you to verify you're an adult before accessing certain features on Bluesky, like adult content and direct messaging."
-msgstr ""
+msgstr "The laws in your location require you to verify you're an adult before accessing certain features on Bluesky, like adult content and direct messaging."
 
 #: src/components/ageAssurance/useAgeAssuranceCopy.ts:14
 msgid "The laws in your location require you to verify you're an adult to access certain features. Tap to learn more."
@@ -9278,7 +9278,7 @@ msgstr "Loại:"
 
 #: src/components/dialogs/DeviceLocationRequestDialog.tsx:92
 msgid "Unable to access location. You'll need to visit your system settings to enable location services for Bluesky."
-msgstr ""
+msgstr "Unable to access location. You'll need to visit your system settings to enable location services for Bluesky."
 
 #: src/lib/hooks/useCleanError.ts:27
 #: src/lib/strings/errors.ts:11
@@ -9385,7 +9385,7 @@ msgstr "Bỏ theo dõi người này"
 
 #: src/components/BlockedGeoOverlay.tsx:48
 msgid "Unfortunately, Bluesky is unavailable in Mississippi right now."
-msgstr ""
+msgstr "Unfortunately, Bluesky is unavailable in Mississippi right now."
 
 #: src/components/moderation/ReportDialog/index.tsx:372
 msgid "Unfortunately, none of your subscribed labelers supports this report type."
@@ -9623,7 +9623,7 @@ msgstr "Sử dụng để đăng nhập vào ứng dụng khác cùng với tên
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:279
 msgid "Use your account email address, or another real email address you control, in case KWS or Bluesky needs to contact you."
-msgstr ""
+msgstr "Use your account email address, or another real email address you control, in case KWS or Bluesky needs to contact you."
 
 #: src/view/com/modals/InviteCodes.tsx:201
 msgid "Used by:"
@@ -10051,7 +10051,7 @@ msgstr "Chúng tôi ước lượng {estimatedTime} cho đến khi tài khoản 
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:196
 msgid "We have partnered with <0>KWS</0> to verify that you’re an adult. When you click \"Begin\" below, KWS will check if you have previously verified your age using this email address for other games/services powered by KWS technology. If not, KWS will email you instructions for verifying your age. When you’re done, you'll be brought back to continue using Bluesky."
-msgstr ""
+msgstr "We have partnered with <0>KWS</0> to verify that you’re an adult. When you click \"Begin\" below, KWS will check if you have previously verified your age using this email address for other games/services powered by KWS technology. If not, KWS will email you instructions for verifying your age. When you’re done, you'll be brought back to continue using Bluesky."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:107
 msgid "We have sent another verification email to <0>{0}</0>."
@@ -10341,7 +10341,7 @@ msgstr "Bạn"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:23
 msgid "You also agree to <0>Bluesky’s Community Guidelines</0>. An <1>updated version of our Community Guidelines</1> will take effect on October 15th."
-msgstr ""
+msgstr "You also agree to <0>Bluesky’s Community Guidelines</0>. An <1>updated version of our Community Guidelines</1> will take effect on October 15th."
 
 #: src/components/verification/VerifierDialog.tsx:59
 msgid "You are a trusted verifier"
@@ -10353,7 +10353,7 @@ msgstr "Bạn đang tạo tài khoản trên"
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:128
 msgid "You are currently unable to access Bluesky's Age Assurance flow. Please <0>contact our moderation team</0> if you believe this is an error."
-msgstr ""
+msgstr "You are currently unable to access Bluesky's Age Assurance flow. Please <0>contact our moderation team</0> if you believe this is an error."
 
 #: src/screens/SignupQueued.tsx:157
 msgid "You are in line."
@@ -10815,7 +10815,7 @@ msgstr "Email của bạn có vẻ không hợp lệ."
 
 #: src/components/dialogs/EmailDialog/screens/VerificationReminder.tsx:65
 msgid "Your email has not yet been verified. Please verify your email in order to enjoy all the features of Bluesky."
-msgstr ""
+msgstr "Your email has not yet been verified. Please verify your email in order to enjoy all the features of Bluesky."
 
 #: src/state/shell/progress-guide.tsx:215
 msgid "Your first like!"
