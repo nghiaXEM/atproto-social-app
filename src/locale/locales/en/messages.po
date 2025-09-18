@@ -1850,7 +1850,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:175
+#: src/screens/Signup/index.tsx:178
 msgid "Choose your username"
 msgstr ""
 
@@ -2061,7 +2061,7 @@ msgstr ""
 msgid "Complete onboarding and start using your account"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:177
+#: src/screens/Signup/index.tsx:180
 msgid "Complete the challenge"
 msgstr ""
 
@@ -2149,8 +2149,8 @@ msgid "Contact our moderation team"
 msgstr ""
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:155
-#: src/screens/Signup/index.tsx:212
 #: src/screens/Signup/index.tsx:215
+#: src/screens/Signup/index.tsx:218
 msgid "Contact support"
 msgstr ""
 
@@ -2451,7 +2451,7 @@ msgstr ""
 msgid "Create account"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:122
+#: src/screens/Signup/index.tsx:125
 msgid "Create Account"
 msgstr ""
 
@@ -4208,7 +4208,7 @@ msgstr ""
 msgid "Have a code? <0>Click here.</0>"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:210
+#: src/screens/Signup/index.tsx:213
 msgid "Having trouble?"
 msgstr ""
 
@@ -8418,7 +8418,7 @@ msgstr ""
 msgid "Status Page"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:163
+#: src/screens/Signup/index.tsx:166
 msgid "Step {0} of {1}"
 msgstr ""
 
@@ -10125,7 +10125,7 @@ msgstr ""
 msgid "We’re introducing a new layer of verification on Bluesky — an easy-to-see checkmark."
 msgstr "We’re introducing a new layer of verification on Bluesky — an easy-to-see checkmark."
 
-#: src/screens/Signup/index.tsx:123
+#: src/screens/Signup/index.tsx:126
 msgid "We're so excited to have you join us!"
 msgstr ""
 
@@ -10669,11 +10669,11 @@ msgstr ""
 msgid "You: {short}"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:139
+#: src/screens/Signup/index.tsx:142
 msgid "You'll follow the suggested users and feeds once you finish creating your account!"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:144
+#: src/screens/Signup/index.tsx:147
 msgid "You'll follow the suggested users once you finish creating your account!"
 msgstr ""
 
@@ -10743,7 +10743,7 @@ msgstr ""
 msgid "You've run out of videos to watch. Maybe it's a good time to take a break?"
 msgstr ""
 
-#: src/screens/Signup/index.tsx:173
+#: src/screens/Signup/index.tsx:176
 msgid "Your account"
 msgstr ""
 
